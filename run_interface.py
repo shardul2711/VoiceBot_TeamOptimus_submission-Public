@@ -21,7 +21,6 @@ SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 VECTORSTORE_DIR = "faiss_index"
-folder_path = r"ContextFiles\Documents"
 
 # ===============================
 # Voice to Text
@@ -73,12 +72,45 @@ def build_qa_chain(vectorstore):
 # ===============================
 # Save to Supabase
 # ===============================
-def save_conversation(user_query, bot_response):
+def save_conversation(session_id, user_query, bot_response):
     response = supabase.table("chat_history").insert({
+        "session_id": session_id,
         "user_query": user_query,
         "bot_response": bot_response
     }).execute()
-    st.write("Supabase response:", response)
+    return response
+
+# ===============================
+# Fetch All Sessions
+# ===============================
+def fetch_all_sessions():
+    response = supabase.table("chat_history").select("session_id").order("session_id").execute()
+    if response.data:
+        # Get unique session IDs
+        sessions = list({item['session_id'] for item in response.data})
+        return sessions
+    return []
+
+# ===============================
+# Fetch Chat History for Session
+# ===============================
+def fetch_chat_history(session_id):
+    response = supabase.table("chat_history").select("*").eq("session_id", session_id).order("id").execute()
+    if response.data:
+        return response.data
+    return []
+
+# ===============================
+# Create New Session
+# ===============================
+def create_new_session():
+    # Find the highest session ID and increment by 1
+    sessions = fetch_all_sessions()
+    if sessions:
+        new_session_id = max(sessions) + 1
+    else:
+        new_session_id = 1
+    return new_session_id
 
 # ===============================
 # Streamlit UI
@@ -88,34 +120,71 @@ def main():
     st.title("🎤 Voice-Based QA System")
     st.write("Ask your questions through voice!")
 
+    # Initialize session state
+    if 'current_session_id' not in st.session_state:
+        st.session_state['current_session_id'] = 1
+    
     if 'chat_history' not in st.session_state:
         st.session_state['chat_history'] = []
 
+    # Load vector store and QA chain
     vectorstore = load_vectorstore()
     qa_chain = build_qa_chain(vectorstore)
 
+    # Sidebar - Session Management
+    with st.sidebar:
+        st.header("📁 Sessions")
+        
+        # Get all sessions from database
+        all_sessions = fetch_all_sessions()
+        
+        # Display session buttons
+        for session_id in all_sessions:
+            if st.button(f"Session {session_id}", key=f"session_{session_id}"):
+                st.session_state['current_session_id'] = session_id
+                st.session_state['chat_history'] = fetch_chat_history(session_id)
+                st.rerun()
+        
+        # Create new session button
+        if st.button("➕ New Session"):
+            new_session_id = create_new_session()
+            st.session_state['current_session_id'] = new_session_id
+            st.session_state['chat_history'] = []
+            st.experimental_rerun()
+
+    # Main Content Area
+    st.subheader(f"Session {st.session_state['current_session_id']}")
+    
+    # Display current session chat history
+    for chat in st.session_state['chat_history']:
+        st.write(f"**You:** {chat['user_query']}")
+        st.write(f"**Bot:** {chat['bot_response']}")
+        st.write("---")
+    
+    # Voice input button
     if st.button("🎙️ Speak Your Question"):
         user_query = speech_to_text()
         if user_query:
-            result = qa_chain({"question": user_query, "chat_history": st.session_state['chat_history']})
+            result = qa_chain({
+                "question": user_query, 
+                "chat_history": [(chat['user_query'], chat['bot_response']) for chat in st.session_state['chat_history']]
+            })
             bot_response = result["answer"]
 
-            # Display
-            st.write(f"**You:** {user_query}")
-            st.write(f"**Bot:** {bot_response}")
-
-            # Voice Response
+            # Save to database
+            save_conversation(st.session_state['current_session_id'], user_query, bot_response)
+            
+            # Update chat history in session state
+            st.session_state['chat_history'].append({
+                "user_query": user_query,
+                "bot_response": bot_response
+            })
+            
+            # Voice response
             speak_text(bot_response)
-
-            # Save to Database
-            save_conversation(user_query, bot_response)
-
-            # Update chat history
-            st.session_state['chat_history'].append((user_query, bot_response))
-
-    if st.button("🔁 Reset Session"):
-        st.session_state['chat_history'] = []
-        st.success("Session reset successfully!")
+            
+            # Rerun to update display
+            st.rerun()
 
 if __name__ == "__main__":
     main()

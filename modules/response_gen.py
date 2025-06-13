@@ -1,63 +1,62 @@
+import streamlit as st
+import speech_recognition as sr
+import pyttsx3
 import os
-import json
-from dotenv import load_dotenv  # ✅ Import for loading .env files
-from langchain.document_loaders import PyPDFLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from dotenv import load_dotenv
 from langchain.vectorstores import FAISS
 from langchain.embeddings import SentenceTransformerEmbeddings
 from langchain_groq import ChatGroq
 from langchain.chains import ConversationalRetrievalChain
+from supabase import create_client, Client
 
 # ===============================
-# Load environment variables
+# Environment Setup
 # ===============================
 load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+SUPABASE_URL = os.getenv("NEXT_PUBLIC_SUPABASE_URL")
+SUPABASE_KEY = os.getenv("NEXT_PUBLIC_SUPABASE_ANON_KEY")
+
+# Supabase client
+supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 VECTORSTORE_DIR = "faiss_index"
+folder_path = r"ContextFiles\Documents"
+SESSION_ID = 1
 
 # ===============================
-# Load PDFs from Folder
+# Voice to Text
 # ===============================
-def load_pdfs_from_folder(folder_path):
-    all_pages = []
-    for file in os.listdir(folder_path):
-        if file.endswith('.pdf'):
-            pdf_path = os.path.join(folder_path, file)
-            loader = PyPDFLoader(pdf_path)
-            pages = loader.load()
-            all_pages.extend(pages)
-            print(f"Loaded: {file} ({len(pages)} pages)")
-    return all_pages
+def speech_to_text():
+    r = sr.Recognizer()
+    with sr.Microphone() as source:
+        st.info("Listening...")
+        audio = r.listen(source)
+        try:
+            text = r.recognize_google(audio)
+            st.success(f"Recognized: {text}")
+            return text
+        except sr.UnknownValueError:
+            st.error("Could not understand audio")
+            return ""
+        except sr.RequestError:
+            st.error("Speech recognition service error")
+            return ""
 
 # ===============================
-# Text Splitting
+# Text to Voice
 # ===============================
-def split_text(pages):
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-    docs = text_splitter.split_documents(pages)
-    return docs
+def speak_text(text):
+    engine = pyttsx3.init()
+    engine.say(text)
+    engine.runAndWait()
 
 # ===============================
-# Build or Load Vector Store
+# Load Vector Store
 # ===============================
-def get_vectorstore(folder_path):
+def load_vectorstore():
     embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
-    
-    if os.path.exists(VECTORSTORE_DIR):
-        print("\nLoading existing vector store...")
-        vectorstore = FAISS.load_local(VECTORSTORE_DIR, embeddings, allow_dangerous_deserialization=True)
-    else:
-        print("\nCreating vector store from PDFs...")
-        pages = load_pdfs_from_folder(folder_path)
-        if not pages:
-            print("No PDFs found in the folder.")
-            exit()
-        documents = split_text(pages)
-        vectorstore = FAISS.from_documents(documents, embeddings)
-        vectorstore.save_local(VECTORSTORE_DIR)
-        print("Vector store created and saved locally.")
-
+    vectorstore = FAISS.load_local(VECTORSTORE_DIR, embeddings, allow_dangerous_deserialization=True)
     return vectorstore
 
 # ===============================
@@ -66,36 +65,79 @@ def get_vectorstore(folder_path):
 def build_qa_chain(vectorstore):
     llm = ChatGroq(
         temperature=0,
-        groq_api_key=GROQ_API_KEY,  # ✅ Loaded from .env
-        model_name="llama3-8b-8192"  # Recommended Groq model
+        groq_api_key=GROQ_API_KEY,
+        model_name="llama3-8b-8192"
     )
     qa_chain = ConversationalRetrievalChain.from_llm(llm, vectorstore.as_retriever())
     return qa_chain
 
 # ===============================
-# Run QA Chat
+# Save to Supabase
 # ===============================
-def run_qa():
-    folder_path = r"ContextFiles\Documents"  # Folder where PDFs are stored
-    vectorstore = get_vectorstore(folder_path)
+def save_conversation(user_query, bot_response):
+    response = supabase.table("chat_history").insert({
+        "session_id": SESSION_ID,
+        "user_query": user_query,
+        "bot_response": bot_response
+    }).execute()
+    st.write("Supabase response:", response)
 
-    print("\nBuilding QA system...")
+# ===============================
+# Fetch Recent Questions
+# ===============================
+def fetch_recent_questions(session_id, limit=7):
+    response = supabase.table("chat_history").select("*").eq("session_id", session_id).order("id", desc=True).limit(limit).execute()
+    data = response.data
+    if data:
+        return list(reversed(data))  # Show oldest first
+    return []
+
+# ===============================
+# Streamlit UI
+# ===============================
+def main():
+    st.set_page_config(page_title="Voice QA Bot", layout="centered")
+    st.title("🎤 Voice-Based QA System")
+    st.write("Ask your questions through voice!")
+
+    if 'chat_history' not in st.session_state:
+        st.session_state['chat_history'] = []
+
+    vectorstore = load_vectorstore()
     qa_chain = build_qa_chain(vectorstore)
 
-    print("\nQA system ready! You can now ask questions based on the uploaded PDFs.")
-    print("Type 'exit' to end the session.")
+    # Sidebar - Display recent questions
+    with st.sidebar:
+        st.header("📜 Recent Questions")
+        recent_conversations = fetch_recent_questions(session_id=SESSION_ID)
+        if recent_conversations:
+            for convo in recent_conversations:
+                st.write(f"• {convo['user_query']}")
+        else:
+            st.write("No questions found.")
 
-    chat_history = []
+    if st.button("🎙️ Speak Your Question"):
+        user_query = speech_to_text()
+        if user_query:
+            result = qa_chain({"question": user_query, "chat_history": st.session_state['chat_history']})
+            bot_response = result["answer"]
 
-    while True:
-        query = input("\nYour Question: ")
-        if query.lower() == 'exit':
-            print("Exiting the QA session. Goodbye!")
-            break
+            # Display
+            st.write(f"**You:** {user_query}")
+            st.write(f"**Bot:** {bot_response}")
 
-        result = qa_chain({"question": query, "chat_history": chat_history})
-        print("\nAnswer:", result["answer"])
-        chat_history.append((query, result["answer"]))
+            # Voice Response
+            speak_text(bot_response)
+
+            # Save to Database
+            save_conversation(user_query, bot_response)
+
+            # Update chat history
+            st.session_state['chat_history'].append((user_query, bot_response))
+
+    if st.button("🔁 Reset Session"):
+        st.session_state['chat_history'] = []
+        st.success("Session reset successfully!")
 
 if __name__ == "__main__":
-    run_qa()
+    main()
