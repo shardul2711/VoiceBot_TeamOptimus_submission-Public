@@ -1,0 +1,58 @@
+{
+  "segments": [
+    {
+      "text": "hello?",
+      "start": 0.519,
+      "end": 0.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 1.659,
+      "end": 3.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 3.22,
+      "end": 3.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 3.859,
+      "end": 4.42,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'm going to give you the infrastructure i need in capture.",
+      "start": 5.059,
+      "end": 8.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 14.479,
+      "end": 16.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello?",
+      "start": 20.859,
+      "end": 20.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello?",
+      "start": 20.899,
+      "end": 22.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello.",
+      "start": 23.979,
+      "end": 27.499,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

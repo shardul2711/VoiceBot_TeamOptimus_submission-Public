@@ -1,0 +1,112 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.699,
+      "end": 1.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 2.079,
+      "end": 3.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 4.44,
+      "end": 4.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "good afternoon.",
+      "start": 5.699,
+      "end": 6.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "speaking hindi.",
+      "start": 6.319,
+      "end": 7.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, speaking hindi.",
+      "start": 10.239,
+      "end": 10.8,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "actually, i am your relationship manager.",
+      "start": 10.8,
+      "end": 12.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i am speaking about the investment on our platform.",
+      "start": 12.079,
+      "end": 15.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it is called p2p lending.",
+      "start": 15.1,
+      "end": 15.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we are in a meeting right now, so we are not able to listen to you.",
+      "start": 16.819,
+      "end": 19.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we will call you back.",
+      "start": 19.579,
+      "end": 19.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 19.579,
+      "end": 19.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "can you tell me the time?",
+      "start": 19.579,
+      "end": 24.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i will call you back on that time.",
+      "start": 24.459,
+      "end": 26.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "after 6 pm.",
+      "start": 26.399,
+      "end": 26.7,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ok.",
+      "start": 27.92,
+      "end": 32.2,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 32.2,
+      "end": 35.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ok.",
+      "start": 36.059,
+      "end": 36.759,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

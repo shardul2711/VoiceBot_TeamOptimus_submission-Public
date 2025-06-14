@@ -1,0 +1,424 @@
+{
+  "segments": [
+    {
+      "text": "[background music] हैलो।",
+      "start": 0.079,
+      "end": 1.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हैलो!",
+      "start": 2.74,
+      "end": 3.139,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "गुड मॉर्निंग सर, <PII_NAME> यह संगीत है सर।",
+      "start": 3.799,
+      "end": 6.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मेरे को आपकी हेल्प चाहिए थी।",
+      "start": 6.96,
+      "end": 9.559,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "हां बताइए सर।",
+      "start": 9.579,
+      "end": 10.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "यह मैंने डॉली सुनसानी और वाइफ के नाम कुछ लेंदन में अमाउंट वो किया था।",
+      "start": 11.699,
+      "end": 16.959,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "हां।",
+      "start": 16.959,
+      "end": 17.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "उसके बारे में थोड़ा सा मेरे को जानना था।",
+      "start": 18.659,
+      "end": 20.44,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "ओके ओके यू सर, आप उनका रजिस्टर्ड नंबर बता सकते हो मुझे।",
+      "start": 20.5,
+      "end": 23.599,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 24.6,
+      "end": 26.399,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 27.239,
+      "end": 29.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 30.819,
+      "end": 31.879,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 31.899,
+      "end": 34.599,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 34.619,
+      "end": 36.58,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_PHONE> ओके।",
+      "start": 36.739,
+      "end": 39.08,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME> राइट।",
+      "start": 40.799,
+      "end": 42.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां हां हां हां।",
+      "start": 42.779,
+      "end": 44.659,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "आपने <PII_AMOUNT> अमाउंट ऐड किया था <PII_DATE> को।",
+      "start": 44.7,
+      "end": 49.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां।",
+      "start": 49.419,
+      "end": 50.219,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "और आपको फिर रिटर्न्स पर आना स्टार्ट हो गया।",
+      "start": 52.819,
+      "end": 55.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "जस्ट गिव मी अ मोमेंट।",
+      "start": 55.739,
+      "end": 56.7,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मतलब मेरा <PII_DATE> को कितना अमाउंट वो था?",
+      "start": 58.979,
+      "end": 61.999,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "थर्टी फर्स्ट जो <PII_DATE> को आपको अमाउंट रिसीव हुआ है, लाइक आपने लेंड किया है, उसमें अपने एक लोन में <PII_AMOUNT> इन्वेस्ट किया था, एक लोन में <PII_AMOUNT> इन्वेस्ट किया था और दो लोन में <PII_AMOUNT> , <PII_AMOUNT> लेन किया था।",
+      "start": 65.339,
+      "end": 81.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओक्लेय।",
+      "start": 81.439,
+      "end": 81.839,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "तो चालू है।",
+      "start": 81.839,
+      "end": 82.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_DATE> को टोटल मेरा कितना वो था लोन?",
+      "start": 82.999,
+      "end": 87.899,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "<PII_DATE> को सर आपका ऑलमोस्ट सारे का एएमआई था।",
+      "start": 90.179,
+      "end": 93.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "सारे लोन का।",
+      "start": 94.119,
+      "end": 95.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हेलो!",
+      "start": 97.519,
+      "end": 97.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां।",
+      "start": 98.779,
+      "end": 99.42,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "हां सारे लोन था ए एम आई था आपको।",
+      "start": 99.439,
+      "end": 102.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो ए एम आई वाइज आपको वो अमाउंट रिसीव हुआ है लाइक कुछ अमाउंट आपको लाइक <PII_DATE> को आ गया था।",
+      "start": 102.079,
+      "end": 110.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कुछ अमाउंट आपको ट्वेंटी फोर लाइक <PII_DATE> को भी आ गया था और एक लोन जो था जो थ्री थाउजेंड का था, आपने लैंड किया था वो आपने फिफ्टीन मार्च को ऐड किया था, लेकिन एटीन मार्च को लोन कैंसिल हो गया।",
+      "start": 111.139,
+      "end": 124.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "जिसकी वजह से वो अमाउंट तुरंत आपके बैंक अकाउंट में आ गया।",
+      "start": 124.519,
+      "end": 128.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां।",
+      "start": 128.1,
+      "end": 128.64,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "ओके।",
+      "start": 128.899,
+      "end": 129.299,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "ओके!",
+      "start": 129.759,
+      "end": 129.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो <PII_DATE> को मेरा फिर सेवेन थाउजेंड प्रिंसिपल अमाउंट आउटस्टैंडिंग रहा था।",
+      "start": 129.78,
+      "end": 136.24,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "हां तो वह कैसे ए एम आई वाइज आते हैं ना आपका।",
+      "start": 136.7,
+      "end": 139.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "लॉन्स के टेन यर अलग अलग है।",
+      "start": 139.459,
+      "end": 141.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "एक लॉन्स जो है वो नाइन मंथ्स के लिए है तो उसका फर्स्ट ए एम आई अभी तक आ गया है।",
+      "start": 141.119,
+      "end": 145.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आपको फाइव थाउजेंड फाइव हंड्रेड एंड सेवेंटी नाइन रुपीस उसका आ गया है।",
+      "start": 145.259,
+      "end": 150.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो जैसे जैसे बॉरोवर्स रीपेमेंट करते हैं ना वो अमाउंट आपके बैंक अकाउंट में आते जाते हैं।",
+      "start": 150.159,
+      "end": 155.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो कुछ <PII_DATE> तक का कोई स्टेटमेंट मेरे को भेज सकते हैं।",
+      "start": 155.119,
+      "end": 159.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "श्योर, श्योर मैं आपको टिल डेट स्टेटमेंट भेज देता हूं।",
+      "start": 159.74,
+      "end": 162.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अब तक आपने...",
+      "start": 162.2,
+      "end": 162.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "टिल डेट मेरे को नहीं चाहिए।",
+      "start": 162.899,
+      "end": 164.879,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "मेरे को एक्चुअली पिछले फाइनेंशियल ईयर का चाहिए।",
+      "start": 164.899,
+      "end": 167.32,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "ओके।",
+      "start": 167.399,
+      "end": 167.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां, मेरे को अलग अलग भेज दीजिए।",
+      "start": 169.119,
+      "end": 171.519,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "उससे यह पता लग जाए कि प्रिंसिपल अमाउंट कितना आ गया और इंटरेस्ट अमाउंट कितना आ गया।",
+      "start": 173.159,
+      "end": 177.759,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "ओके ओके क्योंकि आइडली आपका जो रिपोर्ट है ना वो एंटायर रिपोर्ट बनता है।",
+      "start": 177.839,
+      "end": 181.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो मैं आपको वही बाइफॉर्केशन भेजता हूं कि अब तक आपको कितना प्रिंसिपल आया, कितना रिटर्न्स है।",
+      "start": 181.759,
+      "end": 185.94,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां, वह बहुत अच्छा।",
+      "start": 186.839,
+      "end": 188.119,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "भेज देता हूं।",
+      "start": 188.72,
+      "end": 189.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "इसी अकाउंट का चाहिए आपको रेट?",
+      "start": 189.399,
+      "end": 190.86,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अभी तो दोली...",
+      "start": 191.759,
+      "end": 192.679,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "ओके ओके ...उसका",
+      "start": 192.92,
+      "end": 193.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "भी आप इशिता का ओके।",
+      "start": 193.5,
+      "end": 197.459,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "उनका रजिस्टर्ड नंबर बताएंगे।",
+      "start": 198.64,
+      "end": 200.5,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां।",
+      "start": 201.399,
+      "end": 202.92,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "और मेरा भी भेज दीजिए।",
+      "start": 205.099,
+      "end": 206.379,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "शिओर शिओर आपका भी भेज दूंगा।",
+      "start": 206.519,
+      "end": 208.28,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "उसका नंबर है <PII_PHONE>",
+      "start": 208.319,
+      "end": 212.38,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "<PII_PHONE>।",
+      "start": 213.319,
+      "end": 216.58,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ये आप मेरे को व्हाट्सएप कर देंगे, कैसे करेंगे?",
+      "start": 218.64,
+      "end": 222.42,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "मैं आपको व्हाट्सएप कर देता हूं।",
+      "start": 222.459,
+      "end": 224.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "एक्सेल शीट फॉरवर्ड कर दूंगा।",
+      "start": 224.5,
+      "end": 226.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां, एक्सेल शीट व्हाट्सएप कर दूंगा ठीक है!",
+      "start": 226.2,
+      "end": 229.94,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "ठीक है, थैंक यू।",
+      "start": 230.0,
+      "end": 234.099,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

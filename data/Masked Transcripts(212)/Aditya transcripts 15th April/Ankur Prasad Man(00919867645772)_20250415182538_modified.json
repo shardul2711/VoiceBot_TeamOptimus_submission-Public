@@ -1,0 +1,52 @@
+{
+  "segments": [
+    {
+      "text": "[<PII_NAME>]हां द्वितीय जी हां सर आप मुझे शेयर कर सकते हो डॉक्यूमेंट।",
+      "start": 0.0,
+      "end": 5.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां, मैं व्हाट्सएप में कर देता हूं ओके।",
+      "start": 5.339,
+      "end": 7.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तो उसका नंबर ले लो।",
+      "start": 7.919,
+      "end": 9.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "वह मेरा एक्चुअली दूसरा कुछ रिलेटेड था।",
+      "start": 9.159,
+      "end": 11.18,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "वह अपलोड हो गया।",
+      "start": 11.199,
+      "end": 11.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके ओके।",
+      "start": 11.979,
+      "end": 12.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "नो वरी मैं एक बार चेक कर लेता हूं।",
+      "start": 12.539,
+      "end": 14.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके",
+      "start": 14.179,
+      "end": 17.62,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

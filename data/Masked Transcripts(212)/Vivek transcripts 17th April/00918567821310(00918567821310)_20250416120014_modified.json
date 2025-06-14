@@ -1,0 +1,124 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.239,
+      "end": 0.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 0.74,
+      "end": 1.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i'm sorry about disconnect.",
+      "start": 1.299,
+      "end": 2.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 2.44,
+      "end": 2.599,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "the web push the way they say up go mirror number cut them in a person with the.",
+      "start": 2.599,
+      "end": 6.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mirror version of a sir.",
+      "start": 6.619,
+      "end": 8.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it's a nice guy who i was to ask for reference collie us to call on our show to do the coffee number.",
+      "start": 8.84,
+      "end": 14.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the customer care what a busy, busy bar bar are the 2 us share the us bola give you <PII_NAME> dmg bad pt.",
+      "start": 14.319,
+      "end": 21.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "unca number confirm cara sunday to may.",
+      "start": 22.119,
+      "end": 24.44,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "your account in referral may add guava.",
+      "start": 24.459,
+      "end": 26.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mobile number.",
+      "start": 27.619,
+      "end": 28.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haji.",
+      "start": 29.0,
+      "end": 29.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 30.26,
+      "end": 36.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 36.68,
+      "end": 38.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 39.84,
+      "end": 42.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 42.5,
+      "end": 42.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> kumar das.",
+      "start": 44.659,
+      "end": 46.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME> kumar dash can answer.",
+      "start": 46.139,
+      "end": 47.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the final number of the week.",
+      "start": 48.439,
+      "end": 50.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 52.5,
+      "end": 52.899,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

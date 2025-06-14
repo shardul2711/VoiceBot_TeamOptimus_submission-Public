@@ -1,0 +1,406 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 1.36,
+      "end": 1.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, <PII_NAME> ji.",
+      "start": 2.599,
+      "end": 3.5,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, sir.",
+      "start": 3.5,
+      "end": 4.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, tell me a little breakdown of this also.",
+      "start": 4.679,
+      "end": 7.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "let's suppose there is a 5-month 1 and an 11-month 1.",
+      "start": 8.079,
+      "end": 12.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "11 months or 14 months.",
+      "start": 12.979,
+      "end": 14.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, this is my minimum investment amount which is 25-25 in 5 and 7 and<PII_AMOUNT> each in 11 and 14.",
+      "start": 14.659,
+      "end": 21.18,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, this amount...",
+      "start": 23.379,
+      "end": 25.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 25.059,
+      "end": 26.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "let's suppose i invested for 14 months, so i invested<PII_AMOUNT> in the beginning.",
+      "start": 26.1,
+      "end": 31.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, in the second month, i will get the installment with interest.",
+      "start": 32.52,
+      "end": 38.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, sir.",
+      "start": 38.459,
+      "end": 38.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for example, if you have invested<PII_AMOUNT> in 14 months, then approximately you have invested today and it is disbursed.",
+      "start": 39.2,
+      "end": 47.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, you have to get the first of may repayment.",
+      "start": 48.079,
+      "end": 50.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you will get the first of may repayment and you will be credited on the 2nd of may approximally 10,000.",
+      "start": 50.259,
+      "end": 54.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "10,000, 10,300, 5000.",
+      "start": 55.379,
+      "end": 57.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, from that you will have a breakdown as to how much is the principal and how much is the return.",
+      "start": 57.739,
+      "end": 62.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it will be shown in the scheme that how much you have to give.",
+      "start": 62.279,
+      "end": 65.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that money will be credited in my indian club account or in my bank account?",
+      "start": 65.759,
+      "end": 70.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "bank account.",
+      "start": 70.339,
+      "end": 70.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it will come in direct bank account.",
+      "start": 70.959,
+      "end": 71.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, it will come directly in the bank account.",
+      "start": 71.659,
+      "end": 73.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "because we have to process you in t plus 1 transaction on bas or rbi.",
+      "start": 73.939,
+      "end": 79.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, if the borrower has paid us today, then we have to process it in your bank account tomorrow.",
+      "start": 80.279,
+      "end": 84.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that is why when the repayment comes on 1st, then it will be scheduled in your bank account on 2nd morning at 7 am.",
+      "start": 84.899,
+      "end": 89.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, you get it in the first half in your registered bank account.",
+      "start": 89.619,
+      "end": 95.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, this is nice.",
+      "start": 96.699,
+      "end": 97.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i was thinking it will be something like, if i have a minimum investment amount of 25,000, then i will keep adding 25,000 for 5 months.",
+      "start": 97.919,
+      "end": 107.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "and in the 5th month and 6th month, i will get the whole money with the interest.",
+      "start": 107.319,
+      "end": 111.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, no, no.",
+      "start": 111.799,
+      "end": 113.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you have to invest once, just like the lump sum earlier.",
+      "start": 113.099,
+      "end": 117.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the process is the same while investing.",
+      "start": 117.979,
+      "end": 120.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you have to select the plan, you have to select the amount, then you will see the preferences, you have to select all for diversification.",
+      "start": 121.279,
+      "end": 129.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "there is only 1 step added to this, that earlier the list of loans was not visible after the investment was made, now the list of loans is visible first.",
+      "start": 129.139,
+      "end": 137.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you just have to scroll through the list of loans and then confirm it, then the investment is done.",
+      "start": 137.599,
+      "end": 142.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok understood.",
+      "start": 142.619,
+      "end": 145.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "then you get an email by next morning or next to next morning that so many loans were invested by you and they have been disbursed.",
+      "start": 145.239,
+      "end": 152.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "then the repayment will start coming.",
+      "start": 152.999,
+      "end": 155.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it is also possible in between that if the borrower repays 1 or 2 emis quickly, it can be credited quickly, but most of the first 4 repayments will come in the bank by the 2nd or 3rd.",
+      "start": 155.119,
+      "end": 166.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and <PII_NAME>, these are my old lump-sum amounts.",
+      "start": 166.779,
+      "end": 170.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, my previous manager who was my manager, she had told me that like let's suppose i have an investment, i have an investment of<PII_AMOUNT> rupees.",
+      "start": 171.099,
+      "end": 179.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, how will it be in my<PII_AMOUNT> rupees that it does not go to 1 person, it is diversified in multiple borrowers, at least 200 people are divided, so i have a liability per person is only 500 rupees, so what happens with that is that the risk of losing money is very less, so how much does it diversify in this 1 compared to that?",
+      "start": 179.319,
+      "end": 204.099,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, in this, if you look at 5 months, 7 months, then per borrower diversify will be 1000 rupees and if means a little bit like 250, 500, 750, 1000, by doing like that max diversify will be 1000 if you do 5 months and 7 months.",
+      "start": 204.099,
+      "end": 219.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and if you do 11 or 14 months, then the max limit goes up to 5000 per borrower, meaning most of the time i will tell you that 80% of your loan amount will be investment amount, for example if you have invested<PII_AMOUNT>, then out of that 80 to 90 1000 will be credited to you by paying 5 1000, the rest of the amount will be credited to you by paying 5 100, 2 50.",
+      "start": 220.239,
+      "end": 238.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, in this we divert on the basis of 5 1000 because these are existing borrowers on our platform, so we consider it as medium risk plan, so because of this it goes to 5 1000 per borrower.",
+      "start": 238.919,
+      "end": 252.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sorry, okay.",
+      "start": 254.099,
+      "end": 257.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, if you do 1 lakh rupees, then it will be diverted.",
+      "start": 258.099,
+      "end": 261.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, to simplify the eleventh month, let us consider 10 months.",
+      "start": 266.519,
+      "end": 273.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i invested <PII_AMOUNT> rupees for 10 months and the return is showing 14 percent, which means 14 percent of <PII_AMOUNT> is 14 1000 rupees, so 14 1000 by 10 means 14 100 rupees, which means <PII_PHONE>rupees every month.",
+      "start": 273.299,
+      "end": 290.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "by doing this, you will keep getting <PII_AMOUNT> rupees for 10 months.",
+      "start": 290.959,
+      "end": 294.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, it will come in such a way that i will keep getting small breakdowns of amounts.",
+      "start": 296.659,
+      "end": 300.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, it is possible that for example, see, it is possible that you will get 6000, 4000 in breakdown, it means different days will come, not in a single day.",
+      "start": 301.239,
+      "end": 316.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it will not happen that two-two, three-three transactions will come, only 1 will come in a day, as i told you that before the repayment date, like the repayment date of 1st, some borrowers pay on 29th also, most of them are repeated.",
+      "start": 316.619,
+      "end": 324.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "those who do early repayment, then you can expect that you can consider that you should get some amount even before the repayment date.",
+      "start": 324.539,
+      "end": 331.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, so it will come in the breakdown.",
+      "start": 332.799,
+      "end": 336.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "like this, yes.",
+      "start": 336.039,
+      "end": 336.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so once, let's try this 7 month 1 and see.",
+      "start": 336.759,
+      "end": 344.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hmm, it will work out sir, okay.",
+      "start": 344.439,
+      "end": 348.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and the repayment amount that is coming in my account, will i get any notification through you or from anywhere that this is the repayment of my investment?",
+      "start": 348.319,
+      "end": 359.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes, you will get it sir.",
+      "start": 359.839,
+      "end": 361.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you will get an email through escrow account, you will get a notification on our end that how much amount has been repaid and at the end of the day you will get another email around 10 pm in which bifurcation will be mentioned.",
+      "start": 361.959,
+      "end": 374.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for example, if you have credited 6000 today, then how much is the principal and how much is the return, its bifurcation comes to you in the evening email.",
+      "start": 374.499,
+      "end": 382.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and it will also come in the app.",
+      "start": 384.279,
+      "end": 386.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, let me try once, i will try a new thing.",
+      "start": 386.719,
+      "end": 393.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ok sir, you try, if there is any query, then call us.",
+      "start": 393.239,
+      "end": 395.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah sure.",
+      "start": 395.459,
+      "end": 396.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 397.399,
+      "end": 397.899,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

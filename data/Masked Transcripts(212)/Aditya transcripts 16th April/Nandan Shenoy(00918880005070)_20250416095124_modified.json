@@ -1,0 +1,376 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.14,
+      "end": 0.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 1.459,
+      "end": 1.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "good morning, sir.",
+      "start": 2.079,
+      "end": 2.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> here, from lending club.",
+      "start": 2.679,
+      "end": 4.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, sir.",
+      "start": 5.119,
+      "end": 5.4,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "very good morning.",
+      "start": 5.42,
+      "end": 6.06,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, so you have started lending investments with lending club, right?",
+      "start": 6.179,
+      "end": 9.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 9.819,
+      "end": 10.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 10.3,
+      "end": 10.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "this is just a call in regards to the same.",
+      "start": 10.559,
+      "end": 12.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "like, do you have any query questions with respect to investments?",
+      "start": 12.319,
+      "end": 15.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "oh.",
+      "start": 16.26,
+      "end": 16.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, sir.",
+      "start": 16.84,
+      "end": 17.14,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "there's no much query.",
+      "start": 17.18,
+      "end": 18.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "but your app always has issues.",
+      "start": 18.34,
+      "end": 20.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it doesn't open.",
+      "start": 21.02,
+      "end": 21.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "what exact issues?",
+      "start": 21.559,
+      "end": 22.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, it doesn't get opened itself.",
+      "start": 23.059,
+      "end": 24.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "then later, i need to open in the website.",
+      "start": 24.559,
+      "end": 26.28,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 26.539,
+      "end": 27.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "is it updated version?",
+      "start": 27.079,
+      "end": 28.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, it is updated.",
+      "start": 28.859,
+      "end": 29.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "automatically- okay ...",
+      "start": 30.139,
+      "end": 31.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "that it gets updated.",
+      "start": 31.099,
+      "end": 32.359,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "but, uh, mainly like 4 to 5 times a day, that doesn't get opened.",
+      "start": 32.54,
+      "end": 36.86,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 37.059,
+      "end": 37.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that is the only issue i have talked now.",
+      "start": 38.04,
+      "end": 38.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "if you find any instances, can you share me the screen recording or a, a screenshot with me so that i can raise it to my tech team?",
+      "start": 38.159,
+      "end": 45.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, if, if you can't...",
+      "start": 45.2,
+      "end": 45.7,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "when, when you press on the app, it will not open, sir.",
+      "start": 45.7,
+      "end": 47.86,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "that's the thing.",
+      "start": 47.879,
+      "end": 48.18,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, okay.",
+      "start": 48.2,
+      "end": 49.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "but that is proper.",
+      "start": 49.559,
+      "end": 49.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'll get this highlighted.",
+      "start": 49.579,
+      "end": 50.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, yeah.",
+      "start": 51.079,
+      "end": 51.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i'll get this highlighted to our team.",
+      "start": 51.739,
+      "end": 53.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 53.459,
+      "end": 53.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "in case if you find it again, you just- okay ...",
+      "start": 53.5,
+      "end": 56.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, reach out to me on this number, uh, so that i can raise it to my team immediately, so they can- oh ...",
+      "start": 56.259,
+      "end": 62.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "check it, okay?",
+      "start": 62.899,
+      "end": 63.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, sir.",
+      "start": 63.619,
+      "end": 63.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "noted.",
+      "start": 63.859,
+      "end": 64.26,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 64.26,
+      "end": 64.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 64.279,
+      "end": 64.58,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, my name is <PII_NAME>.",
+      "start": 65.0,
+      "end": 66.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i'll be your point of contact.",
+      "start": 66.04,
+      "end": 67.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and, uh, may i know how you came to know about the platform?",
+      "start": 67.5,
+      "end": 70.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, in google, actually.",
+      "start": 72.099,
+      "end": 73.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, okay.",
+      "start": 73.919,
+      "end": 74.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, you're not referred by anyone, right?",
+      "start": 74.919,
+      "end": 76.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, no.",
+      "start": 77.58,
+      "end": 78.019,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, okay, fine.",
+      "start": 78.04,
+      "end": 78.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "let me know if you have any concerns.",
+      "start": 79.199,
+      "end": 80.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and, um, if you find such instance again, you can reach out to me.",
+      "start": 80.839,
+      "end": 84.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 84.839,
+      "end": 85.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 85.639,
+      "end": 85.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "definitely.",
+      "start": 85.959,
+      "end": 86.6,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sure.",
+      "start": 86.9,
+      "end": 87.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 87.279,
+      "end": 87.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 87.819,
+      "end": 87.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 88.159,
+      "end": 88.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "bye.",
+      "start": 88.939,
+      "end": 90.879,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

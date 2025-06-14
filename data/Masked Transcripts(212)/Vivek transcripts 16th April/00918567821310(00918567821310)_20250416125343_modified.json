@@ -1,0 +1,106 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.319,
+      "end": 0.72,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 0.799,
+      "end": 1.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, sir, it is that where there is an option to add funds to the account, whatever sheet is there, it is protected.",
+      "start": 1.559,
+      "end": 11.499,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "here is the account number which is mine, of the same canara bank only, so how can i change it there, like another bank.",
+      "start": 12.179,
+      "end": 19.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "actually, you will not be able to change it from there.",
+      "start": 19.819,
+      "end": 21.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i will send you our official mail id, on that you can send your bank statement or cancel check of the new bank.",
+      "start": 21.6,
+      "end": 29.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "we will change it from here.",
+      "start": 29.199,
+      "end": 32.54,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, yes, because that is my student account, i have not issued a check in it yet.",
+      "start": 32.54,
+      "end": 38.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "well, then there will be a bank statement, passbook, etc.",
+      "start": 39.819,
+      "end": 44.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "something like this is not online, kotak is sorry, it is not online, sir, kotak's online cannot operate, so it means you can get its statement on mail.",
+      "start": 44.799,
+      "end": 54.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, if you want the statement, then i will send it to you, it is a 0 balance account, so i will mail you.",
+      "start": 54.779,
+      "end": 61.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "do i mail 1 thing?",
+      "start": 62.039,
+      "end": 63.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes, you have to mail me, i will send you the official mail id and check once by whatsapp.",
+      "start": 63.559,
+      "end": 67.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it is okay to send it to you otherwise you do not even send the entire statement, simply send the same part of the statement where your account number, ifsc code, your bank account name is written.",
+      "start": 67.879,
+      "end": 82.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "well, i will text you from this number only.",
+      "start": 82.319,
+      "end": 84.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, no, i will have to mail you as well.",
+      "start": 84.479,
+      "end": 89.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, the official mail id which is being shown is the same mail id, i sent it to you on whatsapp, send it on that, let me see.",
+      "start": 89.259,
+      "end": 98.179,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

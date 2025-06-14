@@ -1,0 +1,64 @@
+{
+  "segments": [
+    {
+      "text": "[background music] hello!",
+      "start": 0.199,
+      "end": 0.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "साहब।",
+      "start": 3.159,
+      "end": 128.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अरे!",
+      "start": 128.86,
+      "end": 129.1,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मेरी वैडी को संडे है।",
+      "start": 129.139,
+      "end": 130.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "एक मिनट को।",
+      "start": 132.699,
+      "end": 134.5,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तुम्हें।",
+      "start": 134.52,
+      "end": 135.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मैं अभी कॉल बैक कर रहा हूं आपको।",
+      "start": 137.699,
+      "end": 139.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "एक मिनट में है ना।",
+      "start": 139.8,
+      "end": 140.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके।",
+      "start": 140.419,
+      "end": 142.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मुझे मेरा बैंक है।",
+      "start": 143.779,
+      "end": 144.639,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

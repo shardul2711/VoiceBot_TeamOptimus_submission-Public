@@ -1,0 +1,628 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.079,
+      "end": 0.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, tell me.",
+      "start": 1.259,
+      "end": 2.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "good evening, sir.",
+      "start": 2.339,
+      "end": 2.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i am <PII_NAME>, i am talking.",
+      "start": 3.039,
+      "end": 4.56,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "are you able to connect with p2p lending <PII_NAME> kumar <PII_NAME>?",
+      "start": 4.579,
+      "end": 6.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 10.019,
+      "end": 10.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sir, just a welcome call, sir.",
+      "start": 11.719,
+      "end": 14.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i am the relationship manager of your account.",
+      "start": 14.639,
+      "end": 16.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, i wanted to know if you have any questions or queries that i can address.",
+      "start": 16.639,
+      "end": 19.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, i don't have any questions.",
+      "start": 19.959,
+      "end": 23.12,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i have a question.",
+      "start": 23.12,
+      "end": 23.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "when i did the lending of <PII_AMOUNT> rupees.",
+      "start": 23.559,
+      "end": 26.26,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, the amount you have done the lending of.",
+      "start": 26.26,
+      "end": 31.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it has been cleared for <PII_AMOUNT> rupees.",
+      "start": 31.119,
+      "end": 35.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 35.459,
+      "end": 35.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "how much will be left in how many days?",
+      "start": 35.959,
+      "end": 41.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, as you have given...",
+      "start": 41.479,
+      "end": 43.939,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "let me check.",
+      "start": 43.959,
+      "end": 44.639,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "so, you invested <PII_AMOUNT> and you did 2 manual lendings of 250.",
+      "start": 44.919,
+      "end": 45.319,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "right?",
+      "start": 45.319,
+      "end": 45.319,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "hmm.",
+      "start": 45.319,
+      "end": 45.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "1 of 250 is closed and the other 1 of 250 repayment will start coming from the first of may.",
+      "start": 45.319,
+      "end": 45.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the rest of the <PII_AMOUNT> investment is done in the tenure of 5 months.",
+      "start": 45.319,
+      "end": 45.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, when you invest in 5 months, it takes 4 months for the loan to earn year.",
+      "start": 45.319,
+      "end": 45.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, the repayment has to come monthly.",
+      "start": 45.319,
+      "end": 45.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the repayment of the first borrower has to come every month.",
+      "start": 45.319,
+      "end": 45.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, it gets credited to your bank account for 2 to 3 days.",
+      "start": 45.319,
+      "end": 45.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 45.319,
+      "end": 45.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "but some borrowers repay early, so you get credit.",
+      "start": 45.319,
+      "end": 45.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, that's the reason, if 2 borrowers repay early, you get credit in your bank account quickly.",
+      "start": 45.819,
+      "end": 46.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 46.259,
+      "end": 46.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 46.259,
+      "end": 46.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i am at <PII_AMOUNT>.",
+      "start": 46.259,
+      "end": 46.359,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it will take some time for me to reach there.",
+      "start": 46.539,
+      "end": 46.7,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it's okay, no problem sir.",
+      "start": 46.7,
+      "end": 47.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "by the way, you created an account for your mother, sorry, your wife and you have also referred it to your friend, right?",
+      "start": 47.899,
+      "end": 49.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 49.279,
+      "end": 50.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you deposited <PII_AMOUNT> in your wife's account and withdrew it and you have referred it to your friend's account.",
+      "start": 50.059,
+      "end": 52.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i have referred it.",
+      "start": 52.439,
+      "end": 52.84,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "will i get anything for that?",
+      "start": 52.84,
+      "end": 54.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, on refer, i think so, an offer is going on now.",
+      "start": 54.119,
+      "end": 57.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "on first lending, you and your new refer both get 100 rupees.",
+      "start": 58.939,
+      "end": 142.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i was checking once that this offer was valid till march.",
+      "start": 142.2,
+      "end": 148.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, is there any work in april or not?",
+      "start": 148.379,
+      "end": 149.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i will check once and then tell you on whatsapp.",
+      "start": 149.979,
+      "end": 153.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 153.179,
+      "end": 154.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, okay.",
+      "start": 154.699,
+      "end": 154.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay sir, no problem.",
+      "start": 154.699,
+      "end": 156.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "by the way, how did you come to know about our platform, sir?",
+      "start": 156.059,
+      "end": 160.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "on youtube.",
+      "start": 160.659,
+      "end": 162.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "from youtube.",
+      "start": 162.919,
+      "end": 163.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, no problem.",
+      "start": 163.459,
+      "end": 164.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i follow everything on youtube.",
+      "start": 164.279,
+      "end": 166.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i was watching the video that something has come from london to me.",
+      "start": 167.599,
+      "end": 173.219,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, sir, great.",
+      "start": 173.219,
+      "end": 175.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i downloaded it.",
+      "start": 175.739,
+      "end": 177.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i saw that it is approved by rbi.",
+      "start": 178.919,
+      "end": 180.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "our company has been running for 9 years.",
+      "start": 180.779,
+      "end": 186.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, sir.",
+      "start": 186.219,
+      "end": 186.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it will be 10 years in june.",
+      "start": 186.52,
+      "end": 192.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "how much?",
+      "start": 192.399,
+      "end": 192.54,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "10 years?",
+      "start": 192.54,
+      "end": 193.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, it will be 10 years in june.",
+      "start": 193.059,
+      "end": 193.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "10 years?",
+      "start": 193.979,
+      "end": 194.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, sir, 10 years.",
+      "start": 194.88,
+      "end": 195.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i was thinking that 6 months or 1 year has passed.",
+      "start": 195.999,
+      "end": 201.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, no, sir.",
+      "start": 201.899,
+      "end": 202.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it has been 10 years.",
+      "start": 203.139,
+      "end": 205.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "where do you send the money from?",
+      "start": 205.6,
+      "end": 205.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "do you send it to mumbai?",
+      "start": 205.799,
+      "end": 206.24,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what?",
+      "start": 206.24,
+      "end": 206.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "where do you live?",
+      "start": 206.939,
+      "end": 208.12,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "do you live in <PII_CITY>?",
+      "start": 208.12,
+      "end": 209.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you live in <PII_CITY>, then you can visit our office.",
+      "start": 209.999,
+      "end": 214.24,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, no, i belong to <PII_STATE>.",
+      "start": 214.24,
+      "end": 215.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sorry?",
+      "start": 215.419,
+      "end": 215.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_STATE>.",
+      "start": 216.74,
+      "end": 217.28,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "from <PII_STATE>.",
+      "start": 217.659,
+      "end": 218.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, okay, great.",
+      "start": 218.6,
+      "end": 219.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no problem.",
+      "start": 219.699,
+      "end": 220.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "have you been to <PII_STATE>?",
+      "start": 220.439,
+      "end": 221.32,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "there is jagannath temple.",
+      "start": 221.32,
+      "end": 223.599,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes, yes.",
+      "start": 223.899,
+      "end": 225.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i am from jagannath's village (laughs).",
+      "start": 225.139,
+      "end": 228.0,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, good.",
+      "start": 228.779,
+      "end": 230.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, okay.",
+      "start": 230.699,
+      "end": 233.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "my wife does not have any finance.",
+      "start": 233.159,
+      "end": 234.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "when it is done, i will put hers also.",
+      "start": 234.719,
+      "end": 239.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it's okay, sir.",
+      "start": 239.279,
+      "end": 240.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you check how the platform is working or not.",
+      "start": 240.639,
+      "end": 243.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i will put my friend's also.",
+      "start": 243.419,
+      "end": 247.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i had referred my elder brother.",
+      "start": 247.899,
+      "end": 254.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, he is your brother.",
+      "start": 254.159,
+      "end": 254.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "he has referred.",
+      "start": 254.62,
+      "end": 254.62,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "he has deposited 25,000.",
+      "start": 254.62,
+      "end": 255.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 255.679,
+      "end": 255.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and he will deposit<PII_AMOUNT> rupees.",
+      "start": 256.679,
+      "end": 259.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "but he has to wait for 5 months so that <PII_AMOUNT> gets completed.",
+      "start": 259.719,
+      "end": 262.4,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "then he will deposit<PII_AMOUNT> rupees.",
+      "start": 262.4,
+      "end": 268.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, it's okay.",
+      "start": 270.02,
+      "end": 270.04,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i will talk to him once and if he has any questions, i will ask him also.",
+      "start": 270.04,
+      "end": 278.74,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, talk to him.",
+      "start": 278.74,
+      "end": 279.499,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, okay.",
+      "start": 279.499,
+      "end": 280.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 280.38,
+      "end": 281.259,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

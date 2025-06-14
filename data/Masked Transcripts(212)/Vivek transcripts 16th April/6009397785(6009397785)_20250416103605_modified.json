@@ -1,0 +1,58 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.719,
+      "end": 3.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 4.719,
+      "end": 5.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 7.299,
+      "end": 9.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 10.319,
+      "end": 10.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello.",
+      "start": 11.279,
+      "end": 11.3,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "good morning.",
+      "start": 11.3,
+      "end": 12.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we will be back on a windy day.",
+      "start": 12.159,
+      "end": 13.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 15.699,
+      "end": 17.04,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "but clearly there's a.",
+      "start": 17.079,
+      "end": 21.599,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

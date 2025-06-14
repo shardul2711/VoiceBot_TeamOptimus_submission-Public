@@ -1,0 +1,46 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 2.599,
+      "end": 2.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 4.099,
+      "end": 4.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "good afternoon.",
+      "start": 4.819,
+      "end": 5.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "big talk.",
+      "start": 5.859,
+      "end": 6.599,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "leland clubs.",
+      "start": 6.859,
+      "end": 7.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello.",
+      "start": 11.119,
+      "end": 11.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello.",
+      "start": 12.059,
+      "end": 12.52,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

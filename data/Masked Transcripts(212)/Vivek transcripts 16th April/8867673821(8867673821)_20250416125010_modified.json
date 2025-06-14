@@ -1,0 +1,520 @@
+{
+  "segments": [
+    {
+      "text": "[instrumental music] hello.",
+      "start": 0.079,
+      "end": 0.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 0.959,
+      "end": 1.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 2.399,
+      "end": 2.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "how do you know good afternoon, bri- brie?",
+      "start": 2.419,
+      "end": 3.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "how are you today?",
+      "start": 3.959,
+      "end": 4.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'm doing fine.",
+      "start": 4.48,
+      "end": 8.14,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "s- sorry?",
+      "start": 8.5,
+      "end": 8.84,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you are?",
+      "start": 9.939,
+      "end": 10.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sorry?",
+      "start": 10.159,
+      "end": 10.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you are multiple.",
+      "start": 10.159,
+      "end": 10.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "which language are you comfortable in?",
+      "start": 11.239,
+      "end": 12.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 14.179,
+      "end": 14.52,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello?",
+      "start": 14.939,
+      "end": 15.359,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "answer.",
+      "start": 15.92,
+      "end": 16.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "which language are you comfortable in, sir?",
+      "start": 16.819,
+      "end": 18.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, telugu, tamil, sir.",
+      "start": 20.059,
+      "end": 21.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, comfortable in english?",
+      "start": 22.319,
+      "end": 23.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, yeah, yeah.",
+      "start": 23.959,
+      "end": 24.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ah, yes, actually i am your re- i am calling from lynde club, sir.",
+      "start": 25.039,
+      "end": 28.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 29.559,
+      "end": 30.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, actually i am your relationship manager.",
+      "start": 30.219,
+      "end": 32.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "recently you had invested on a platform, on that p2p lending.",
+      "start": 32.239,
+      "end": 35.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that's why i called you.",
+      "start": 36.399,
+      "end": 37.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 38.099,
+      "end": 38.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, yes, so just wanted to know basically, uh, it was regarding your investments only or you were looking for loan?",
+      "start": 39.02,
+      "end": 45.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "investment.",
+      "start": 47.459,
+      "end": 48.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "investment.",
+      "start": 48.379,
+      "end": 48.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 48.899,
+      "end": 49.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that's good.",
+      "start": 49.34,
+      "end": 49.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so basically just wanted to know, basically, do you have any doubts or any queries that you wanted to ask?",
+      "start": 50.0,
+      "end": 55.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, actually when i invest it shows as 46% interest rate.",
+      "start": 55.259,
+      "end": 60.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "what is the actual return on my investment?",
+      "start": 61.539,
+      "end": 65.019,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so basically that, uh, 46% is a annualized rate of interest.",
+      "start": 65.499,
+      "end": 69.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 69.899,
+      "end": 70.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 70.199,
+      "end": 70.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so what you can do is, essentially, for example, you are investing on 3 months of loan.",
+      "start": 70.779,
+      "end": 75.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 75.819,
+      "end": 75.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so you can, uh, 46 divide by 12.",
+      "start": 75.839,
+      "end": 78.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so you will get a monthly returns- okay ...",
+      "start": 78.779,
+      "end": 81.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "of 3.8%",
+      "start": 81.379,
+      "end": 82.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "on a monthly basis.",
+      "start": 82.519,
+      "end": 83.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 83.879,
+      "end": 83.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "and you can multiply these returns to 3.",
+      "start": 83.899,
+      "end": 86.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 87.519,
+      "end": 87.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so you will get your net returns.",
+      "start": 87.619,
+      "end": 89.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 91.299,
+      "end": 91.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 92.539,
+      "end": 92.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so around in 3 months you will get 11%.",
+      "start": 93.279,
+      "end": 95.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 98.739,
+      "end": 99.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 99.499,
+      "end": 99.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 99.779,
+      "end": 100.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes.",
+      "start": 100.239,
+      "end": 100.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 100.759,
+      "end": 101.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, actually, i invested right now, uh, on your loan, a 1000 5 100, like that.",
+      "start": 102.239,
+      "end": 108.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 108.499,
+      "end": 108.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for 3 months.",
+      "start": 109.319,
+      "end": 110.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, how can- how much can i expect in 3 months?",
+      "start": 110.439,
+      "end": 114.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so basically in 3 months you may have, like, expect around 1,679 rupees with interest.",
+      "start": 114.639,
+      "end": 121.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for 3 months?",
+      "start": 122.819,
+      "end": 123.599,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes.",
+      "start": 123.839,
+      "end": 124.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, so basically you will receive this amount on a monthly basis only.",
+      "start": 124.259,
+      "end": 127.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so from the next month onwards, start repaying the loans.",
+      "start": 128.059,
+      "end": 130.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 131.359,
+      "end": 131.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so with the emi basis, so you will receive that amount on a monthly basis in your bank account directly.",
+      "start": 131.379,
+      "end": 137.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 138.419,
+      "end": 138.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes.",
+      "start": 140.799,
+      "end": 141.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "is there any defaulted case maybe?",
+      "start": 142.259,
+      "end": 145.499,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, yes.",
+      "start": 146.099,
+      "end": 146.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "[coughing] so yes.",
+      "start": 146.799,
+      "end": 148.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so basically on our currently on our platform level we have npa ratio of around 3%.",
+      "start": 148.679,
+      "end": 154.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so if you are investing 100 loans, so there are by chance, 3 might have loans that get defaulted.",
+      "start": 155.079,
+      "end": 160.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "but still you have invested on really diversified your portfolio.",
+      "start": 160.739,
+      "end": 164.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so in this scenario you remain on profit because 97 people are repaying their loans time to time with interest.",
+      "start": 166.079,
+      "end": 173.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 174.459,
+      "end": 174.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes.",
+      "start": 175.239,
+      "end": 175.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 177.439,
+      "end": 177.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "that's what i want to know this.",
+      "start": 178.359,
+      "end": 180.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "just regarding that.",
+      "start": 180.439,
+      "end": 181.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, fine.",
+      "start": 182.199,
+      "end": 182.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no problem.",
+      "start": 182.759,
+      "end": 183.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so meanwhile you can save this number.",
+      "start": 183.259,
+      "end": 184.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you have any doubts or any query, you can call on this number.",
+      "start": 184.699,
+      "end": 187.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 187.899,
+      "end": 188.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 188.259,
+      "end": 188.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 188.579,
+      "end": 189.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 189.379,
+      "end": 190.959,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

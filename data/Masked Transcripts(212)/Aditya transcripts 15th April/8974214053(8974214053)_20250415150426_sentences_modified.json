@@ -1,0 +1,16 @@
+{
+  "segments": [
+    {
+      "text": "<PII_NAME>.",
+      "start": 0.3,
+      "end": 2.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>-",
+      "start": 2.759,
+      "end": 3.219,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

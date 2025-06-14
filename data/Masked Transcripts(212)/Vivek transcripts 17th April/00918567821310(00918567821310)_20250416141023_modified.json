@@ -1,0 +1,46 @@
+{
+  "segments": [
+    {
+      "text": "hello?",
+      "start": 0.419,
+      "end": 0.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, sir.",
+      "start": 1.079,
+      "end": 1.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "how do you go account change?",
+      "start": 1.719,
+      "end": 2.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 3.139,
+      "end": 3.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "check.",
+      "start": 3.379,
+      "end": 3.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 5.159,
+      "end": 6.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 6.099,
+      "end": 6.499,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

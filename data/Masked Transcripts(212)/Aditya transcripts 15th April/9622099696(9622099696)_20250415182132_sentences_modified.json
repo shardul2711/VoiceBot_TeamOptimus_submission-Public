@@ -1,0 +1,40 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 1.039,
+      "end": 1.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>",
+      "start": 2.22,
+      "end": 2.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>, bat karo len den club se <PII_NAME> ji bat kar rahe hai hello <PII_NAME> shah right main <PII_NAME> bat kar raha hun len den club se.",
+      "start": 2.799,
+      "end": 15.48,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>?",
+      "start": 16.539,
+      "end": 18.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello!",
+      "start": 19.159,
+      "end": 19.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello.",
+      "start": 22.719,
+      "end": 31.219,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

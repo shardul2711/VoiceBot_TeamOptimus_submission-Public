@@ -1,0 +1,1198 @@
+{
+  "segments": [
+    {
+      "text": "hello?",
+      "start": 0.599,
+      "end": 0.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 0.979,
+      "end": 1.359,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "good morning, sir.",
+      "start": 2.379,
+      "end": 3.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME> here from lendingclub.",
+      "start": 3.059,
+      "end": 4.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sorry?",
+      "start": 5.699,
+      "end": 6.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'm <PII_NAME>.",
+      "start": 6.559,
+      "end": 7.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i am calling you from lendingclub p2p lending.",
+      "start": 7.199,
+      "end": 10.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 11.159,
+      "end": 11.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "this is mr.-",
+      "start": 11.679,
+      "end": 12.18,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 12.199,
+      "end": 12.46,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "this is- ...",
+      "start": 12.46,
+      "end": 12.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sridhar, right?",
+      "start": 12.859,
+      "end": 13.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, correct.",
+      "start": 15.0,
+      "end": 15.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, you have texted on whatsapp that you wanted to know about lendingclub.",
+      "start": 15.679,
+      "end": 21.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you messaged me first.",
+      "start": 21.279,
+      "end": 21.72,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, yeah.",
+      "start": 21.819,
+      "end": 22.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so you have- what is the meaning of lendingclub?",
+      "start": 23.0,
+      "end": 24.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it's lendingclub is a registered p2p investment platform and you have created account on lendingclub application.",
+      "start": 24.939,
+      "end": 32.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 33.919,
+      "end": 34.42,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 34.559,
+      "end": 35.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and, uh, i know you are looking for investments?",
+      "start": 35.459,
+      "end": 38.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "investments?",
+      "start": 39.779,
+      "end": 40.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you are looking for investments?",
+      "start": 40.899,
+      "end": 42.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what is the rate of interest?",
+      "start": 43.299,
+      "end": 44.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "rate of interest is up to like 18 to 20% per annum you can earn.",
+      "start": 44.779,
+      "end": 48.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "per annum 20%?",
+      "start": 50.219,
+      "end": 51.36,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 51.36,
+      "end": 51.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that we will get for this 1?",
+      "start": 51.419,
+      "end": 52.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct.",
+      "start": 53.0,
+      "end": 53.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "like minimum 18 to 20% you can earn on your investments.",
+      "start": 54.319,
+      "end": 57.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you have created account on linkedin club application.",
+      "start": 57.939,
+      "end": 63.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 64.179,
+      "end": 64.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 65.459,
+      "end": 65.86,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so that's why we arranged a call back for you.",
+      "start": 66.499,
+      "end": 68.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so you were looking for investment?",
+      "start": 68.76,
+      "end": 69.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no.",
+      "start": 69.84,
+      "end": 70.14,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no.",
+      "start": 70.14,
+      "end": 70.16,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "or you're looking for loan?",
+      "start": 70.16,
+      "end": 71.74,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sorry?",
+      "start": 73.139,
+      "end": 73.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you are looking for investments or loan?",
+      "start": 73.959,
+      "end": 76.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "loan also possible?",
+      "start": 77.379,
+      "end": 78.46,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "loan also possible.",
+      "start": 78.76,
+      "end": 79.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for loan you can download instamoney app.",
+      "start": 79.919,
+      "end": 81.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what is the app name?",
+      "start": 83.379,
+      "end": 84.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "instamoney.",
+      "start": 85.1,
+      "end": 85.94,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "instamoney app.",
+      "start": 86.319,
+      "end": 87.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "through instamoney app you can apply for the loan.",
+      "start": 87.319,
+      "end": 89.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 90.359,
+      "end": 90.6,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "what is the rate of interest rate?",
+      "start": 90.6,
+      "end": 92.62,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, that depends upon your credit report.",
+      "start": 92.86,
+      "end": 94.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you can download the application and then you can, uh, apply for the loan.",
+      "start": 94.939,
+      "end": 99.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 100.119,
+      "end": 100.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 101.279,
+      "end": 101.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "start loans also available 1 month return.",
+      "start": 102.099,
+      "end": 104.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, that depends upon your, uh, credit score.",
+      "start": 106.099,
+      "end": 110.04,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 110.04,
+      "end": 110.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so you can just check it over there.",
+      "start": 111.159,
+      "end": 112.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "this is the investment platform where the account was created.",
+      "start": 113.459,
+      "end": 116.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 117.999,
+      "end": 118.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 118.36,
+      "end": 118.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "what is the app name?",
+      "start": 119.239,
+      "end": 120.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "insta?",
+      "start": 120.319,
+      "end": 120.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "instamoney.",
+      "start": 121.119,
+      "end": 121.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "instamoney.",
+      "start": 123.059,
+      "end": 123.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "1 second.",
+      "start": 123.679,
+      "end": 124.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "just 1 more call.",
+      "start": 124.339,
+      "end": 125.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "instamoney.",
+      "start": 130.659,
+      "end": 131.58,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct.",
+      "start": 132.179,
+      "end": 132.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it's rbi approved?",
+      "start": 134.019,
+      "end": 134.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it's rbi registered.",
+      "start": 135.559,
+      "end": 136.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 136.899,
+      "end": 137.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "please try.",
+      "start": 137.54,
+      "end": 138.46,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "instamoney personal map, no?",
+      "start": 142.94,
+      "end": 144.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, yeah.",
+      "start": 145.059,
+      "end": 145.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 147.179,
+      "end": 148.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, so minimum lock in period is 1 year.",
+      "start": 152.259,
+      "end": 156.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sorry?",
+      "start": 158.579,
+      "end": 158.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 159.119,
+      "end": 159.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i need to get the profits and returns on that.",
+      "start": 161.279,
+      "end": 164.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you want to know?",
+      "start": 166.04,
+      "end": 166.7,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 166.7,
+      "end": 167.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes.",
+      "start": 167.239,
+      "end": 167.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "tell me.",
+      "start": 167.459,
+      "end": 167.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, investment plan, i'm asking.",
+      "start": 169.079,
+      "end": 170.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "investment plans are like, uh, we have multiple tenure loans in which your amount gets invested.",
+      "start": 171.04,
+      "end": 177.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and once borrower starts making the repayment via emis, so you receive your returns, like principal plus interest every month in your bank account.",
+      "start": 177.54,
+      "end": 187.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "every month?",
+      "start": 188.019,
+      "end": 188.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "every month whenever borrowers makes the emi payment, you receive the returns in your bank account, the transaction plus 1 day.",
+      "start": 188.959,
+      "end": 195.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "every month?",
+      "start": 195.699,
+      "end": 196.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 196.479,
+      "end": 196.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 196.799,
+      "end": 197.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if they are not, if they are not paying the proper emi, what, what is the...?",
+      "start": 197.139,
+      "end": 201.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "in that case, first is the emi due date for all the borrowers.",
+      "start": 201.079,
+      "end": 205.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so once borrowers starts making the repayment, you receive it in your bank account transaction plus 1 day.",
+      "start": 205.659,
+      "end": 211.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "in case on first borrower doesn't pay or before first he doesn't pay, from very second, we, uh, start the follow up of, on the borrower.",
+      "start": 211.499,
+      "end": 221.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and also the reminders are sent to the borrower so that the loans are, like loan amount is recovered from them.",
+      "start": 222.139,
+      "end": 232.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "in case if they doesn't pay until last emi due date also, we follow up with them and, uh, after that we have 120 days buffer period where we expect that borrower will make the payment.",
+      "start": 232.939,
+      "end": 244.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "any payment received beyond, before this period, so the principal plus interest will be shared with you.",
+      "start": 245.119,
+      "end": 251.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "after 120 days, that particular loan will be considered as a default.",
+      "start": 251.979,
+      "end": 255.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so for example, if i invest some amount, <PII_AMOUNT> or<PII_AMOUNT>.",
+      "start": 258.339,
+      "end": 263.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 263.039,
+      "end": 263.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 263.519,
+      "end": 263.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "if you are giving me this amount to someone, okay, but giving the loans to someone, okay, if they are, if they are not repaying properly will i get my, uh, this amount?",
+      "start": 264.379,
+      "end": 277.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so if that borrower is not paying properly.",
+      "start": 277.559,
+      "end": 280.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you, like, take example, you're investing amount, but that invested amount is not the entire 50,000 you will lend in 1 loan.",
+      "start": 280.179,
+      "end": 289.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "your amount will be diversified like 1, 1 1000 in each loan.",
+      "start": 289.919,
+      "end": 293.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so in that case your amount will be diversified and then only the amount will be lent.",
+      "start": 293.479,
+      "end": 298.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so entire 50,000 may go to more than 200 loans, 300 loans as per you select how much amount you are lending in each loan.",
+      "start": 298.799,
+      "end": 310.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 311.519,
+      "end": 311.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 314.219,
+      "end": 314.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "but it will be, risk will be there, right?",
+      "start": 316.039,
+      "end": 318.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "risk will be there, sir.",
+      "start": 318.319,
+      "end": 319.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "risk is always there, but...",
+      "start": 319.459,
+      "end": 320.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if they are not repaying, who will be responsible?",
+      "start": 320.739,
+      "end": 323.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so if borrowers are not repaying, we have our collection team in place who always take care of it and we are currently running like 97% of recovery, uh, on monthly basis.",
+      "start": 323.819,
+      "end": 338.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so definitely, uh, like overall platforms and pay is between 3 to 3.5%.",
+      "start": 338.999,
+      "end": 345.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so you can definitely lend the amount, but if you are lending <PII_AMOUNT>, that <PII_AMOUNT> will go in multiple loans.",
+      "start": 345.599,
+      "end": 354.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "when, when it goes to multiple loans, so 1 or 2 may get, uh, default, but still your amount will be making money for you.",
+      "start": 354.459,
+      "end": 363.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "rest of the amount will be making money for you.",
+      "start": 363.779,
+      "end": 365.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 368.801,
+      "end": 369.341,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "so your account was created, but it was like kyc is not yet completed.",
+      "start": 372.021,
+      "end": 376.221,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so you can open the application lending club through which you can complete the kyc and then explore the application.",
+      "start": 376.241,
+      "end": 384.061,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, so i wanted to explore this thing but initially it is asking company name loan requirement.",
+      "start": 385.281,
+      "end": 391.381,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sorry?",
+      "start": 391.741,
+      "end": 392.081,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so that is the instamoney app which you have downloaded.",
+      "start": 392.682,
+      "end": 395.721,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that is for loan.",
+      "start": 395.721,
+      "end": 396.782,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for investment we have another application which is lendine club.",
+      "start": 397.541,
+      "end": 401.141,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "lendine?",
+      "start": 402.661,
+      "end": 403.262,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "lendine club.",
+      "start": 403.481,
+      "end": 404.601,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 405.821,
+      "end": 407.682,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what is the minimum amount we can use?",
+      "start": 408.102,
+      "end": 409.982,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "minimum amount you can start with 500 as well and maximum it is up to<PII_AMOUNT>.",
+      "start": 410.501,
+      "end": 416.801,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 416.901,
+      "end": 417.362,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 418.282,
+      "end": 418.681,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for 500, i will get monthly interest.",
+      "start": 420.221,
+      "end": 424.421,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "monthly interest, yeah.",
+      "start": 425.001,
+      "end": 426.061,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "when you lend 500 in 1 loan, if that loan is for 3 months, you will receive your returns in 3 different emis.",
+      "start": 426.061,
+      "end": 434.141,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 436.281,
+      "end": 436.801,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i will explore the link.",
+      "start": 439.462,
+      "end": 441.001,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, sure, sure.",
+      "start": 441.381,
+      "end": 442.622,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "let me know.",
+      "start": 442.642,
+      "end": 443.161,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i'll call you by hour.",
+      "start": 443.161,
+      "end": 444.021,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, monthly, okay, minimum is 500.",
+      "start": 444.941,
+      "end": 447.021,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 447.481,
+      "end": 448.142,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 449.302,
+      "end": 450.161,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 450.261,
+      "end": 450.621,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you tell me 1 thing.",
+      "start": 453.141,
+      "end": 454.541,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what is the...",
+      "start": 454.741,
+      "end": 455.541,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for example, if i invest 1,000, okay?",
+      "start": 456.122,
+      "end": 459.761,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if i choose, i want monthly interest.",
+      "start": 460.261,
+      "end": 462.781,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "correct.",
+      "start": 463.142,
+      "end": 463.542,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "1,000 how much i will get?",
+      "start": 463.802,
+      "end": 465.621,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "1,000 almost like when you lend this amount, 1,000 for the 12 months.",
+      "start": 466.001,
+      "end": 476.281,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 476.401,
+      "end": 476.742,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for the 12 months loan.",
+      "start": 477.041,
+      "end": 478.222,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so almost around, you will earn interest up to 240 rupees, which is minimum 21 to 24%.",
+      "start": 482.642,
+      "end": 493.221,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 493.302,
+      "end": 493.582,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 494.601,
+      "end": 494.982,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for a year.",
+      "start": 495.022,
+      "end": 495.521,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "but are you sure if the person is not repaying this 1,000?",
+      "start": 495.522,
+      "end": 500.722,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so in case, that's why we always say you can start your lending with minimum, like at least 25 to 50,000 so that your amount will be diversified among all the loans.",
+      "start": 500.842,
+      "end": 514.701,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you lend 1 or 2 loans and out of that 1 gets default, that another 1 will be making money for you.",
+      "start": 515.122,
+      "end": 523.942,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so you are just saying minimum you can start with 25,000.",
+      "start": 524.662,
+      "end": 528.662,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, minimum if i invest 25,000, this amount is circulated to some different, different people.",
+      "start": 529.302,
+      "end": 537.041,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, correct.",
+      "start": 537.401,
+      "end": 538.222,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "those persons, if they're not repaying properly, so in that case also the same thing.",
+      "start": 538.281,
+      "end": 543.601,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "in that case also the same thing.",
+      "start": 544.681,
+      "end": 546.001,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if borrower is not making properly repayments, we have a collection team in place.",
+      "start": 546.001,
+      "end": 550.401,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "they follow up with them to get the amount back.",
+      "start": 550.401,
+      "end": 553.381,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, you will follow up with those persons?",
+      "start": 554.302,
+      "end": 557.882,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 558.001,
+      "end": 558.241,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 558.261,
+      "end": 558.582,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "still, they're not paying.",
+      "start": 559.202,
+      "end": 563.781,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "correct.",
+      "start": 564.062,
+      "end": 564.522,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so during that time, i will not get any amount?",
+      "start": 565.142,
+      "end": 567.582,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, during that time, you will not receive the amount until he doesn't pay.",
+      "start": 568.081,
+      "end": 573.281,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "then risk is there, no?",
+      "start": 574.482,
+      "end": 575.982,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "risk is there, sir, everywhere.",
+      "start": 576.581,
+      "end": 578.001,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "even if you lend in...",
+      "start": 578.782,
+      "end": 580.241,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "invest your amount in mutual funds or shares, there is also a risk over there.",
+      "start": 581.401,
+      "end": 586.401,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so here you don't have a market first.",
+      "start": 586.761,
+      "end": 588.821,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "there is a risk all the time.",
+      "start": 589.081,
+      "end": 589.101,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 589.101,
+      "end": 589.321,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, that is...",
+      "start": 589.801,
+      "end": 590.082,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "here you don't have a market first.",
+      "start": 590.082,
+      "end": 592.241,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 592.342,
+      "end": 592.702,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so your risk gets mitigated when you diversify your amount.",
+      "start": 595.141,
+      "end": 599.842,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "when you diversify your amount, like if you lend 5,500 in each loan or 1,000 in each loan, the risk gets mitigated.",
+      "start": 600.001,
+      "end": 607.541,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, sir.",
+      "start": 610.041,
+      "end": 611.561,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i will think and i will just send it.",
+      "start": 611.562,
+      "end": 612.801,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure, sure.",
+      "start": 612.801,
+      "end": 613.361,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "let me know if you can...",
+      "start": 613.622,
+      "end": 614.401,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you can always find it repeated.",
+      "start": 614.422,
+      "end": 615.661,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 615.702,
+      "end": 616.321,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i can share you the product note where you can see the plans and everything.",
+      "start": 617.141,
+      "end": 622.801,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you can go through it and let me know if you have any questions.",
+      "start": 622.821,
+      "end": 625.122,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, send me those details.",
+      "start": 625.202,
+      "end": 626.601,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure, sure.",
+      "start": 626.601,
+      "end": 627.562,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 627.562,
+      "end": 627.961,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

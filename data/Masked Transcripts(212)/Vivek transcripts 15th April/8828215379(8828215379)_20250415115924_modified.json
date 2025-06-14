@@ -1,0 +1,82 @@
+{
+  "segments": [
+    {
+      "text": "hello?",
+      "start": 0.059,
+      "end": 0.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 1.699,
+      "end": 6.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 7.179,
+      "end": 7.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "good afternoon.",
+      "start": 8.659,
+      "end": 9.5,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "how are you?",
+      "start": 9.539,
+      "end": 13.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "linden club.",
+      "start": 13.159,
+      "end": 15.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "huh?",
+      "start": 16.0,
+      "end": 16.02,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "actually, i'm not going to relationship and talk about my platform the investment in p2p lending regarding.",
+      "start": 16.02,
+      "end": 25.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "mehu look at me.",
+      "start": 25.299,
+      "end": 26.54,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "nah, nah, nah.",
+      "start": 26.959,
+      "end": 27.42,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "but look, did you ever.",
+      "start": 27.42,
+      "end": 28.62,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "think you know if you could get out of there?",
+      "start": 28.939,
+      "end": 32.9,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, okay.",
+      "start": 32.9,
+      "end": 34.019,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "segments": [
+    {
+      "text": "[बात करने की ध्वनि] हेलो.",
+      "start": 0.5,
+      "end": 1.3,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हेलो, <PII_NAME> सर।",
+      "start": 2.399,
+      "end": 3.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "यस सर, बताइए।",
+      "start": 3.259,
+      "end": 4.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अ-मैंने एक ईमेल भेज दिया है।",
+      "start": 4.079,
+      "end": 5.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके, ओके फाइन।",
+      "start": 5.879,
+      "end": 7.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आप देख लीजिएगा।",
+      "start": 7.319,
+      "end": 8.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां-हां मैं चेक कर रहा था और आपको-अ-अज इवनिंग तक आ जाएगा।",
+      "start": 8.079,
+      "end": 13.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हाँ, तो यह मेरे को ही अपलोड करना पड़ेगा या आप लोग मेरे को- हां, आप एक्टिवेशन से अपलोड कर दीजिएगा, फिर बाद में मैं यहां से अपलोड कर दूंगा।",
+      "start": 13.639,
+      "end": 20.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "और इसका कॉस्ट नॉर्मली कितना लगता होगा।",
+      "start": 20.979,
+      "end": 23.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_AMOUNT> लगता है।",
+      "start": 24.199,
+      "end": 25.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "बट वो लेनदेन क्लब बैर करता है कॉस्ट।",
+      "start": 25.199,
+      "end": 27.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके ऑल राइट।",
+      "start": 27.699,
+      "end": 28.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ठीक है, तो फिर बाद में जब मैं दस के ऊपर जाऊंगा।",
+      "start": 29.599,
+      "end": 32.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "इसका मेरे को कुछ भी देना पड़ेगा।",
+      "start": 32.279,
+      "end": 34.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "नहीं, कुछ भी नहीं।",
+      "start": 34.319,
+      "end": 35.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके, ठीक है।",
+      "start": 35.479,
+      "end": 36.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "सर।",
+      "start": 36.619,
+      "end": 41.919,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 1.059,
+      "end": 1.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 1.599,
+      "end": 2.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "how do you say?",
+      "start": 2.559,
+      "end": 3.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hey, <PII_NAME>.",
+      "start": 3.179,
+      "end": 3.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hi, sir.",
+      "start": 4.039,
+      "end": 4.48,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "how are you, sir?",
+      "start": 6.059,
+      "end": 6.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "how are you?",
+      "start": 6.379,
+      "end": 6.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'm good, sir.",
+      "start": 7.539,
+      "end": 8.4,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>, i was thinking to invest some money in the-- in these current plans, but i don't get it very much.",
+      "start": 10.219,
+      "end": 18.6,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so how do they work?",
+      "start": 18.76,
+      "end": 20.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "(coughs) sorry.",
+      "start": 20.579,
+      "end": 22.12,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so here, like, as i informed last time, in the 14-month tenure, 11 and 14 months if you invest, here the monthly repayment will be credited to you.",
+      "start": 22.68,
+      "end": 31.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so the returns are expected is around 21% to 24% of the returns.",
+      "start": 31.859,
+      "end": 37.26,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 37.84,
+      "end": 38.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so that's in between only you will be earning amount on 1 lac rupee at the end.",
+      "start": 38.54,
+      "end": 44.18,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "(in hindi) meaning, monthly repayment (in hindi) will come, meaning monthly you will have around 10,000 as repayment, which includes principal plus returns.",
+      "start": 44.18,
+      "end": 51.9,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 52.159,
+      "end": 52.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and at the end of- okay.",
+      "start": 52.799,
+      "end": 53.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "(yawns) yes, by the end of the tenure.",
+      "start": 53.699,
+      "end": 55.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you invest in 14 months, then 12 months of loan tenure is invested by you.",
+      "start": 55.819,
+      "end": 60.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it is the same.",
+      "start": 61.339,
+      "end": 61.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "well, so...",
+      "start": 61.359,
+      "end": 62.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "let me get this straight.",
+      "start": 64.159,
+      "end": 65.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, i mean, now it is 5 months, its minimum amount is 25,000.",
+      "start": 65.039,
+      "end": 68.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 68.619,
+      "end": 68.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so that 25,000 means that my 5 months will be done in 1 go or sip has become?",
+      "start": 69.219,
+      "end": 74.96,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, it will be credited to you by becoming principal plus returns.",
+      "start": 74.96,
+      "end": 77.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so s-- 25,000 for 5 months, so my total investment amount will be 1 lac twenty-five 1000.",
+      "start": 79.419,
+      "end": 85.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "and the 1 which is of 5 months, the return in that is around 12% to 14%, i guess.",
+      "start": 86.479,
+      "end": 91.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hmm, hmm, hmm.",
+      "start": 91.979,
+      "end": 92.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "right.",
+      "start": 93.119,
+      "end": 93.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so how is it, 12 to 14% xirr is there, okay, in that.",
+      "start": 93.679,
+      "end": 98.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so if you see in 5 months and 7 months, then the returns you get in that as compared to 11 and 14 months, it becomes less because those 5 and 7 months have low, medium and high risk borrowers of all 3 types.",
+      "start": 98.039,
+      "end": 113.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and if you see the tenure of 11 and 14 months, repeated borrowers come on all our platforms.",
+      "start": 113.139,
+      "end": 118.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the returns are very good in that.",
+      "start": 118.859,
+      "end": 120.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "like if i tell you a comparison of a lender, that after calculating any-every delay and default and everything, they invested in 5 months, so they, i mean started in november, so till march the returns they made was of 9%.",
+      "start": 120.479,
+      "end": 138.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the same when they invested in 7 months, so it was of 12 months and 9 months was from 15 to 16.",
+      "start": 138.539,
+      "end": 144.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "means 9 months is not completed yet, i told you according to november.",
+      "start": 144.999,
+      "end": 147.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so because of this, i would suggest you that if you want to invest, then you should see in 11 or 14 months tenure, then the returns will be there or else see in 7 months, 5 months also...",
+      "start": 147.539,
+      "end": 158.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "but the minimum investment amount is also 1 lac something, right?",
+      "start": 158.959,
+      "end": 161.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, it is 1 lac.",
+      "start": 161.339,
+      "end": 162.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "(clears throat) sorry.",
+      "start": 163.079,
+      "end": 165.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 165.599,
+      "end": 165.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so if you want, you can start in 7 months, sir.",
+      "start": 166.059,
+      "end": 168.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you can start in 7 months with 25 or 50,000.",
+      "start": 168.199,
+      "end": 171.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the minimum is 25.",
+      "start": 172.319,
+      "end": 173.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so the amount you plan, if it is below 1 lac, then you can start with 7 months.",
+      "start": 173.579,
+      "end": 177.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "returns are good from 7 months also.",
+      "start": 178.719,
+      "end": 179.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so every month i have to manually add it to the lendingclub account or it will be auto-paid from my bank account?",
+      "start": 179.699,
+      "end": 185.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, it will not be auto-paid, sir.",
+      "start": 185.739,
+      "end": 189.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it will not happen to you.",
+      "start": 189.299,
+      "end": 190.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it will be credited to you directly.",
+      "start": 190.599,
+      "end": 191.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "after that, if you want to re-churn it, you will have to add it again and reinvest, sir.",
+      "start": 192.079,
+      "end": 197.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "money.",
+      "start": 197.539,
+      "end": 197.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that money will come to your bank account as soon as your borrower makes any repayment.",
+      "start": 197.559,
+      "end": 203.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 204.999,
+      "end": 206.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "and are these new plans as credible as the old ones?",
+      "start": 207.479,
+      "end": 212.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "because those old plans which had the locking period that i put money today, i did it for 1 year, so my money was locked in for 1 year, after that after 1 year on the same date, i will get the money.",
+      "start": 212.119,
+      "end": 226.499,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so these are my 4 old investments, i have opened 4.",
+      "start": 226.499,
+      "end": 228.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so i trust that process.",
+      "start": 228.719,
+      "end": 230.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "what about this 1?",
+      "start": 230.619,
+      "end": 231.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "this means how much is the credibility risk comparatively and how much is my principal amount safe comparatively and what can be the expected returns?",
+      "start": 232.059,
+      "end": 241.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so that all my concern.",
+      "start": 241.919,
+      "end": 244.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, so the same thing that just happened to you.",
+      "start": 244.859,
+      "end": 248.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "said that the fix will not come at the end of the maturity.",
+      "start": 248.579,
+      "end": 250.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you will get repayment on monthly basis.",
+      "start": 250.719,
+      "end": 252.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you will get the first repay by paying the first and by the second and third your funds will be credited to the registered bank account.",
+      "start": 252.179,
+      "end": 257.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so by the way, talking about returns, if you do churning returns, then you will get churning means borrower repaid, you relined, then if you do the same, then you will get returns of 20 plus, if you are looking in short term, okay.",
+      "start": 259.239,
+      "end": 274.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and if you do it in the tenure of 11 or 14 months, then it will go up to 20 or twenty-five plus, if you do it by churning and either without reinvestment, you will get 18 to 20, between twenty-four, twenty-three, you will get returns because lenders have invested, they have to earn returns up to twenty-two percent, yearly, twelve-month plan means fourteen-month plan.",
+      "start": 274.179,
+      "end": 301.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sir, i can not invest 1 lac per month like this, i would not be a bad, i am not telling you every month, no, you don't have to put it sir, you just have to invest once and the borrower will keep repaying, then you will get credit sir, if you charge in that...",
+      "start": 301.779,
+      "end": 315.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "oh, okay, okay.",
+      "start": 315.459,
+      "end": 315.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, by the way, you don't have to pay auto, for example, you invested 1 lac rupees in a month, then as the borrower will repay from that, he will credit you directly to the bank account, okay?",
+      "start": 315.479,
+      "end": 330.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so that credit amount, if you want to earn more returns on that too, then you can add it back and relent it, otherwise you don't have to relent, then it will be settled in your bank account, then it will be deposited, by the way, you do not have to pay auto.",
+      "start": 330.219,
+      "end": 343.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so it is like monthly income?",
+      "start": 343.479,
+      "end": 345.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, monthly income but principal plus returns both come, means reducing balance by the way.",
+      "start": 345.759,
+      "end": 351.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, good, so now i understand a bit, now it means that yes, now...",
+      "start": 351.979,
+      "end": 359.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>, i got a bit busy, i will call you in a minute.",
+      "start": 359.919,
+      "end": 362.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, okay.",
+      "start": 362.679,
+      "end": 363.519,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

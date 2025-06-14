@@ -1,0 +1,22 @@
+{
+  "segments": [
+    {
+      "text": "[background noise] hello?",
+      "start": 0.059,
+      "end": 2.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 2.899,
+      "end": 5.719,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "hello?",
+      "start": 5.719,
+      "end": 8.219,
+      "speaker_id": "speaker_2"
+    }
+  ]
+}

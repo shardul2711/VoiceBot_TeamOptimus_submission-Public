@@ -1,0 +1,148 @@
+{
+  "segments": [
+    {
+      "text": "[background music] hello.",
+      "start": 0.079,
+      "end": 0.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello, आपारी आवाज बराबर है।",
+      "start": 0.759,
+      "end": 2.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "साहब आरही है।",
+      "start": 2.779,
+      "end": 4.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो मैं बता रहा था तो आपको उसमें कुछ ऐसा डाउट वगैरा है जो पूछना था समझ नहीं रहा था आपको।",
+      "start": 4.519,
+      "end": 9.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "डाउट मतलब यह जो एमआई जब आएगा, यह 21 तारीख को आएगा।",
+      "start": 10.96,
+      "end": 15.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "बेसिकली एमआई जो है वो मंथली बेसिस पर आएगा।",
+      "start": 16.219,
+      "end": 18.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आपको उसमें।",
+      "start": 18.579,
+      "end": 19.68,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ये डेट पर आएगा।",
+      "start": 19.68,
+      "end": 21.2,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी।",
+      "start": 21.699,
+      "end": 22.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कौन सा डेट पे आएगा?",
+      "start": 23.559,
+      "end": 24.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मंथली फीस भी है ना।",
+      "start": 24.399,
+      "end": 25.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी, मंथली बेसिस पर आएगा।",
+      "start": 25.899,
+      "end": 27.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अब कौन से डेट पर आएगा।",
+      "start": 29.119,
+      "end": 30.84,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "एक से जो एमआई डेट होती है वह एक से 10 के बीच में आती है।",
+      "start": 31.279,
+      "end": 34.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "एक से 10 के बीच में।",
+      "start": 35.599,
+      "end": 36.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "यस।",
+      "start": 36.919,
+      "end": 38.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां हां हां जी तो फर्स्ट ईएमआई कब आएगा।",
+      "start": 38.719,
+      "end": 43.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "फर्स्ट ईएमआई आपका जो होगा।",
+      "start": 44.239,
+      "end": 45.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आपने यह मन्थ इन्वेस्ट किया ना तो आपका नेक्स्ट मंथ से आएगा।",
+      "start": 45.599,
+      "end": 49.7,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "नहीं नहीं नहीं है यस वापस आ जाइए।",
+      "start": 50.52,
+      "end": 55.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कल वाला कैंसिल नहीं हुआ था कल वाला हेलो।",
+      "start": 57.079,
+      "end": 61.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ठीक है, ठीक है यह नंबर आप सेव करके रखिए।",
+      "start": 61.359,
+      "end": 63.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "कुछ डाउट वगैरा होता है तो मुझे कॉल करें।",
+      "start": 63.819,
+      "end": 65.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ठीक है, ठीक है, ठीक।",
+      "start": 65.919,
+      "end": 70.239,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

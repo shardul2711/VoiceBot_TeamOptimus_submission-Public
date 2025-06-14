@@ -1,0 +1,682 @@
+{
+  "segments": [
+    {
+      "text": "[phone ringing] hello.",
+      "start": 0.0,
+      "end": 0.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 1.979,
+      "end": 2.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, ji good afternoon, <PII_NAME> baat kar raha hai main leen den club se.",
+      "start": 2.72,
+      "end": 5.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "kahan se?",
+      "start": 7.179,
+      "end": 7.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "leen den club se baat kar raha hai main.",
+      "start": 8.319,
+      "end": 10.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "achcha bole.",
+      "start": 11.079,
+      "end": 11.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "haa ji actually aapne hamare platform pe woh investment kiya tha na p2p lending mein?",
+      "start": 12.219,
+      "end": 15.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haan, haan bole.",
+      "start": 15.639,
+      "end": 17.219,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sorry.",
+      "start": 19.619,
+      "end": 19.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 20.18,
+      "end": 20.46,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "haan investment kiya tha haa.",
+      "start": 21.079,
+      "end": 22.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "haan ji, toh basically just wanted to know by the way aapko usmein kuch queries vagaira hai.",
+      "start": 22.379,
+      "end": 26.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aawaz kam aa raha hai ji aapka.",
+      "start": 26.18,
+      "end": 27.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "main batara hun aapko usmein kuch doubts vagaira hai.",
+      "start": 28.079,
+      "end": 30.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aisa jo poochna tha, samajh nahi <PII_NAME> tha.",
+      "start": 30.199,
+      "end": 31.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "doubts mein <PII_NAME> start kiya 1000 se usmein returns kitna aayega uske hisab se main investment karunga.",
+      "start": 31.799,
+      "end": 36.96,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "accha theek hai.",
+      "start": 37.34,
+      "end": 38.7,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haa wo.",
+      "start": 38.7,
+      "end": 39.219,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "batein batein.",
+      "start": 39.799,
+      "end": 40.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uske alawa payment kab ka hua unka matlab wo genuine hi hai kya?",
+      "start": 41.36,
+      "end": 44.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "wo log returns kab payareha hai sir.",
+      "start": 44.959,
+      "end": 46.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "p2p lending mein ek toh ye hai aap beech mein reh ke uska brokerage jo bhi bolte hai matlab uska charges le rahe ho toh aapka bhi responsibility rehta hai na.",
+      "start": 46.779,
+      "end": 57.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "aisa to hota hai.",
+      "start": 57.799,
+      "end": 58.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct, correct.",
+      "start": 58.739,
+      "end": 59.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "basically, hum log jo bhi borrow.",
+      "start": 59.119,
+      "end": 60.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "toh aap...hunh!",
+      "start": 60.879,
+      "end": 61.099,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "basically, hum log jo bhi borrower platform pe list karte hain toh wahan pe hum khali credit score ke basis par kisi ko approve nahi karte log.",
+      "start": 61.559,
+      "end": 68.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "nahi dekhe agar credit score mera bhi accha hai agar mujhe paise nahi dena to main nahi dunga.",
+      "start": 69.179,
+      "end": 72.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "usmein case...",
+      "start": 73.239,
+      "end": 73.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "toh hamlog khali credit score ke basis pe hi kisi ko loan nahi dete usmein.",
+      "start": 74.519,
+      "end": 78.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "accha ok.",
+      "start": 78.859,
+      "end": 79.359,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "haa to waha pe hum log borrower ki poori detail mein pehle report check karte hain financial report.",
+      "start": 79.579,
+      "end": 83.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 84.039,
+      "end": 84.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uske baad...",
+      "start": 84.399,
+      "end": 84.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 84.979,
+      "end": 85.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "....loan",
+      "start": 85.119,
+      "end": 85.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "dete hain jaise ki unka monthly earning income kitna hai.",
+      "start": 85.479,
+      "end": 87.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "pehle kahin aur se bhi...",
+      "start": 87.999,
+      "end": 88.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haan.",
+      "start": 88.939,
+      "end": 88.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...loans",
+      "start": 88.959,
+      "end": 89.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "vagaira liya tha toh wahan pe unke...",
+      "start": 89.279,
+      "end": 91.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haan.",
+      "start": 91.119,
+      "end": 91.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...repayment",
+      "start": 91.179,
+      "end": 91.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "cycle kaisa thi delays vagaira...",
+      "start": 91.619,
+      "end": 93.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "accha accha ...toh",
+      "start": 93.539,
+      "end": 93.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "kya tha unhone.",
+      "start": 93.879,
+      "end": 94.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "fir last se mahine mein...",
+      "start": 95.039,
+      "end": 96.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok ...kitni",
+      "start": 96.319,
+      "end": 96.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "baar unhone loan par loan ke liye apply kia hai aisa.",
+      "start": 96.679,
+      "end": 99.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 100.019,
+      "end": 100.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "600 plus hamare parameters hai joh hum log check karne ke baad kisi ka loan approve karte hain.",
+      "start": 100.479,
+      "end": 104.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 105.659,
+      "end": 105.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ok.",
+      "start": 106.039,
+      "end": 106.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes but still aisa nahi hain ki saare ke saare...",
+      "start": 106.539,
+      "end": 108.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "chances kam hai...",
+      "start": 108.859,
+      "end": 109.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "haan ji.",
+      "start": 109.619,
+      "end": 109.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "skip karne ka, skip karne ka loan skip karne ka chances kum rahega aisa hain.",
+      "start": 109.819,
+      "end": 114.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct, correct basically joh <PII_NAME> hamare...",
+      "start": 114.979,
+      "end": 117.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "agar koi skip kar raha hai toh utna zyada woh reh raha hai woh kya rahega hamlog action se vagera.",
+      "start": 117.619,
+      "end": 120.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "kya bata rahe ho?",
+      "start": 121.199,
+      "end": 121.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "agar koi maan-pay payment nahi kar raha time ki toh uska koi action le sakta hai kya?",
+      "start": 122.619,
+      "end": 128.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 128.279,
+      "end": 128.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "basically agar koi delays vagaira bhi hota hai toh wahan pe hamari phir khud ki internal recovery team hai joh aapke bhi hain...",
+      "start": 128.699,
+      "end": 134.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok ...paise",
+      "start": 134.519,
+      "end": 134.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "recover karte hai doston.",
+      "start": 134.999,
+      "end": 136.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 137.459,
+      "end": 137.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes aur phir sath mein...",
+      "start": 138.079,
+      "end": 140.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 141.099,
+      "end": 141.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "....alag",
+      "start": 141.119,
+      "end": 141.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "alag agencies ke sath bhi tap karne ka jo yeh aapke bhi ham log saari karte hain.",
+      "start": 141.859,
+      "end": 146.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok and also ab main einthousand invest kiya ok.",
+      "start": 147.399,
+      "end": 151.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "agar compare to 3 usmein fourty 6 percent returns bola tha usse toh kisi kaun si basis par 40 6 percent bol rahe hain matlb mein?",
+      "start": 152.079,
+      "end": 160.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "toh jo 40 6 percent aapko 40 six-forty 7 percent show ho raha hai woh per annum rate of interest matlab saal ka rate of interest.",
+      "start": 160.879,
+      "end": 166.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "per annum.",
+      "start": 166.879,
+      "end": 167.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "haa ji.",
+      "start": 167.779,
+      "end": 168.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 168.559,
+      "end": 168.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "lekin aap jo invest kar rahe ho teen mahine ke liye right?",
+      "start": 168.579,
+      "end": 170.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aap simply woh 40 6 divide by 12 kar dijiye usmein.",
+      "start": 171.399,
+      "end": 175.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "understand.",
+      "start": 176.499,
+      "end": 177.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "haa toh aapko unmein dekhana...",
+      "start": 177.159,
+      "end": 177.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "intu 3 karna hai.",
+      "start": 177.979,
+      "end": 179.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "correct, correct.",
+      "start": 179.219,
+      "end": 180.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "fourty 6 ke...",
+      "start": 180.319,
+      "end": 181.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "around 11 point 5 percent ke as paas hota hai.",
+      "start": 181.759,
+      "end": 183.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 184.339,
+      "end": 185.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "haa ji.",
+      "start": 186.159,
+      "end": 186.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "matlab panchas mein into 11 point 3 karenge toh 50 6 rupees interest aayega.",
+      "start": 186.559,
+      "end": 192.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct.",
+      "start": 192.659,
+      "end": 193.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "theek hai.",
+      "start": 198.119,
+      "end": 198.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "aur kuch suno?",
+      "start": 199.899,
+      "end": 200.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "bas yahi hai tha ki main log more mere pass hai but mujhe itna hi darta hai ki woh timely aaye ya na aaye.",
+      "start": 201.199,
+      "end": 210.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "agar koi jaroorat usi time par nahi aaye toh...",
+      "start": 210.279,
+      "end": 212.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "achha aapke samajh mein samajh k but don't worry aisa kuch problem nahi hai.",
+      "start": 213.639,
+      "end": 219.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "main invest karunga ek baar agar agar mujhe return matlab panchas oh isliye dala mujhe return nahi matlab uska assurance nahi agar assurance timely mujhe ra...",
+      "start": 219.359,
+      "end": 228.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uska payment mil raha hai aur mujhe koi ja-jaan kisi ko phone karna hai baar, baar call karke mera paisa wapas karwaoya aisa bolna hai.",
+      "start": 228.519,
+      "end": 235.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "aisi baat hai to phir mujhe nahi theek hain because already main face kar chuka hun yeh cheez.",
+      "start": 236.019,
+      "end": 239.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct, correct.",
+      "start": 239.399,
+      "end": 240.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "don't take extra tension lekin mera paisa agar mujhe compared to money mujhe stress nahi hona chahiye na.",
+      "start": 240.679,
+      "end": 248.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct, correct.",
+      "start": 248.999,
+      "end": 249.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haa paise ye jayega aur hum hamko return bhi nahi mil rahe ek toh aur extra stress aaye ki ye mera paise leke khar aaye hain.",
+      "start": 250.119,
+      "end": 258.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "haa ji.",
+      "start": 258.499,
+      "end": 258.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "bas itne liye ye cheez agar assurance hai toh main aur invest karne ke liye ready hun.",
+      "start": 259.019,
+      "end": 263.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes koii fikar nahi hamari internal recovery team bhi hoti hai sath mein aapke tere paise recover karte usmein.",
+      "start": 264.019,
+      "end": 269.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 270.759,
+      "end": 271.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "theek hai na.",
+      "start": 271.779,
+      "end": 272.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok ji bas yehi chahieda tha thank you.",
+      "start": 272.919,
+      "end": 273.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so yeh number aap save karke rakhe mera virtual number hai aapka relationship...",
+      "start": 273.839,
+      "end": 276.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aapka naam?",
+      "start": 276.939,
+      "end": 277.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 277.939,
+      "end": 278.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> message kiya tha aapne jo.",
+      "start": 279.559,
+      "end": 281.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes kuch doubts vagaira ho tab mujhe call kar sakte hain aap theek hai.",
+      "start": 281.539,
+      "end": 284.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 284.759,
+      "end": 284.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 289.099,
+      "end": 289.499,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

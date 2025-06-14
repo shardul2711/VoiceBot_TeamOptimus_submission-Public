@@ -1,0 +1,856 @@
+{
+  "segments": [
+    {
+      "text": "Hello?",
+      "start": 0.019,
+      "end": 0.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Hello.",
+      "start": 0.959,
+      "end": 1.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yes, sir.",
+      "start": 2.259,
+      "end": 2.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Uh, sir?",
+      "start": 2.72,
+      "end": 3.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "You have just called me.",
+      "start": 3.439,
+      "end": 4.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Uh, this is Aditya.",
+      "start": 4.739,
+      "end": 5.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "I'm calling you from LendIn Club, P2P lending.",
+      "start": 5.739,
+      "end": 8.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay.",
+      "start": 9.739,
+      "end": 10.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yeah, tell me.",
+      "start": 10.26,
+      "end": 10.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay, this call is in regards to your investment account.",
+      "start": 10.84,
+      "end": 13.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "You have started lending with LendIn Club, right?",
+      "start": 13.619,
+      "end": 16.1,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yes, yes, yes.",
+      "start": 16.219,
+      "end": 16.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay.",
+      "start": 17.059,
+      "end": 17.54,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "May I know do you have any query questions regarding to your investment?",
+      "start": 18.399,
+      "end": 21.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Uh, so, yeah, I think, actually, um...",
+      "start": 22.219,
+      "end": 25.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Uh, yeah.",
+      "start": 26.819,
+      "end": 28.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "One of my, uh, lending accounts has been closed.",
+      "start": 28.699,
+      "end": 31.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay.",
+      "start": 31.519,
+      "end": 32.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Uh, so at that time, when I, when I was checking, no?",
+      "start": 32.059,
+      "end": 33.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "So, uh, I have not received the money in the wallet.",
+      "start": 33.88,
+      "end": 37.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay.",
+      "start": 37.899,
+      "end": 37.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "What I thought is, uh, it will be received in the wallet.",
+      "start": 37.919,
+      "end": 40.12,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay.",
+      "start": 40.2,
+      "end": 40.34,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "But later on, after, uh, reading your, uh, webpage-",
+      "start": 40.34,
+      "end": 43.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Mm-hmm.",
+      "start": 43.119,
+      "end": 43.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "I have, I've got to know that, uh, it will be, it will be directly, directly deposited to-",
+      "start": 43.479,
+      "end": 47.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Directly come to your bank account.",
+      "start": 47.219,
+      "end": 47.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yeah.",
+      "start": 47.819,
+      "end": 48.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Bank.",
+      "start": 48.099,
+      "end": 48.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yeah.",
+      "start": 48.899,
+      "end": 48.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "So I have checked and I have received.",
+      "start": 48.919,
+      "end": 50.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay, okay.",
+      "start": 50.659,
+      "end": 51.0,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Uh, nothing else.",
+      "start": 51.02,
+      "end": 51.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Nothing else.",
+      "start": 51.599,
+      "end": 51.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay, okay, great.",
+      "start": 51.939,
+      "end": 52.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Don't worry.",
+      "start": 52.68,
+      "end": 52.7,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Regarding that only I have just called here.",
+      "start": 52.7,
+      "end": 54.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay, okay.",
+      "start": 54.379,
+      "end": 55.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "This call is in regards like, uh, do you have any other queries or questions with it to investments?",
+      "start": 55.34,
+      "end": 60.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "No, no, no, no, not yet.",
+      "start": 61.539,
+      "end": 62.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay.",
+      "start": 62.679,
+      "end": 62.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Not, not now.",
+      "start": 62.899,
+      "end": 63.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "But, uh-",
+      "start": 63.639,
+      "end": 64.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "You can save this number.",
+      "start": 64.279,
+      "end": 65.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "I just want to know.",
+      "start": 65.039,
+      "end": 65.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yeah, tell me.",
+      "start": 65.879,
+      "end": 66.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yeah, yeah.",
+      "start": 66.179,
+      "end": 66.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "I just want to know if, uh, mm, some of the, uh, borrowers have been escaped from, uh, uh, paying the money back?",
+      "start": 66.899,
+      "end": 75.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Mm-hmm.",
+      "start": 75.719,
+      "end": 76.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Then, in that case, what will be, uh, the case of-",
+      "start": 76.399,
+      "end": 79.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay, sure.",
+      "start": 80.079,
+      "end": 80.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "The money that they have lent?",
+      "start": 80.779,
+      "end": 81.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "So, in case if any borrower is delaying the repayment...",
+      "start": 81.599,
+      "end": 84.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "So first is the EMI due date for all the borrowers.",
+      "start": 84.719,
+      "end": 86.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay.",
+      "start": 87.579,
+      "end": 87.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "In case if borrower is delaying the repayment, in that case, from very next day, like, from very second, uh, we follow, forward them, uh, reminders and make a follow-up call and everything.",
+      "start": 87.639,
+      "end": 99.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Our collection team starts working towards to get the amount back.",
+      "start": 99.739,
+      "end": 102.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay, okay.",
+      "start": 103.239,
+      "end": 103.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay?",
+      "start": 103.679,
+      "end": 104.019,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "And in case if you, uh, if they delay it for, like, until their last EMI due date, we'll work with them to get the amount back.",
+      "start": 104.459,
+      "end": 113.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Also, even after that, he doesn't pay, we have another 120 days buffer period.",
+      "start": 113.799,
+      "end": 117.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay.",
+      "start": 118.539,
+      "end": 118.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "If any amount received before that 120 days, the principal plus interest will be sent to your bank account.",
+      "start": 118.799,
+      "end": 124.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay?",
+      "start": 125.439,
+      "end": 125.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay, okay.",
+      "start": 125.759,
+      "end": 126.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Even after 120 days, he doesn't pay, then that amount goes, gets into the default.",
+      "start": 126.599,
+      "end": 130.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay.",
+      "start": 131.839,
+      "end": 132.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay?",
+      "start": 132.199,
+      "end": 132.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "So there you can say after 120 days, it will be a loss.",
+      "start": 133.019,
+      "end": 136.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "It will be a loss only?",
+      "start": 137.219,
+      "end": 138.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yeah.",
+      "start": 138.299,
+      "end": 138.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "There is no insurance and there is no, uh, particular...",
+      "start": 139.879,
+      "end": 142.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Uh, no, no, there is no insurance over there.",
+      "start": 142.879,
+      "end": 144.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "But, uh, whenever your borrower makes a payment, transaction plus one day, the amount send to you.",
+      "start": 144.979,
+      "end": 149.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "In case if borrower delays and even after last working day or after that 120 days buffer period, also he doesn't pay, then that amount gets calculated as a loss.",
+      "start": 149.759,
+      "end": 159.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay?",
+      "start": 161.179,
+      "end": 161.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay.",
+      "start": 161.439,
+      "end": 161.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "So that's why we always di- uh, suggest you should diversify like 1,000 in each loan, so that if anyone gets into the default, that particular 1,000 will get lost.",
+      "start": 161.799,
+      "end": 172.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "But rest of the amounts will still again make the money for you.",
+      "start": 172.339,
+      "end": 175.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay?",
+      "start": 176.099,
+      "end": 176.599,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay.",
+      "start": 177.499,
+      "end": 177.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay, okay.",
+      "start": 177.659,
+      "end": 178.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "All right.",
+      "start": 178.019,
+      "end": 178.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay, anyways.",
+      "start": 178.959,
+      "end": 179.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Sure, sure.",
+      "start": 179.919,
+      "end": 180.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "You see, I have invested some amount.",
+      "start": 180.199,
+      "end": 182.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yeah, yeah.",
+      "start": 182.239,
+      "end": 182.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "I'll see if the performance is low, then I'll-",
+      "start": 182.619,
+      "end": 184.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Sure, sure",
+      "start": 184.819,
+      "end": 185.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...",
+      "start": 185.079,
+      "end": 185.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "drawback all the bu- all the funds and all.",
+      "start": 185.199,
+      "end": 186.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Sure, sure.",
+      "start": 187.079,
+      "end": 187.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "No worries.",
+      "start": 187.839,
+      "end": 188.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Let me know if you have any questions.",
+      "start": 188.299,
+      "end": 189.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "May I know have you been referred-",
+      "start": 189.699,
+      "end": 190.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "No, no",
+      "start": 191.019,
+      "end": 191.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "...",
+      "start": 191.059,
+      "end": 191.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "by someone?",
+      "start": 191.059,
+      "end": 191.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Like how you came to know about the platform?",
+      "start": 191.759,
+      "end": 194.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Mm, currently, I'm a new investor.",
+      "start": 194.559,
+      "end": 198.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "I'm a new, uh-",
+      "start": 198.939,
+      "end": 199.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay",
+      "start": 200.179,
+      "end": 200.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...",
+      "start": 200.239,
+      "end": 200.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "person to invest in this one.",
+      "start": 200.239,
+      "end": 201.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay, okay.",
+      "start": 201.979,
+      "end": 202.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "So after receiving some payments back-",
+      "start": 202.479,
+      "end": 204.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Mm-hmm",
+      "start": 204.519,
+      "end": 204.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...",
+      "start": 204.819,
+      "end": 205.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, um, I don't know whether my amount will be safe or not.",
+      "start": 205.139,
+      "end": 208.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay, okay.",
+      "start": 209.059,
+      "end": 209.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "After going through for at least one year.",
+      "start": 209.399,
+      "end": 211.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Mm-hmm.",
+      "start": 211.179,
+      "end": 211.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Then only I can suggest my friends or like-",
+      "start": 211.499,
+      "end": 213.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay, I completely understand.",
+      "start": 213.579,
+      "end": 214.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "How you came to know about the platform?",
+      "start": 214.779,
+      "end": 216.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Have you been referred by someone or you came to know about this platform?",
+      "start": 216.679,
+      "end": 219.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "No, no, no, I've not been, I've not been referred by someone.",
+      "start": 219.139,
+      "end": 221.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay, okay, okay.",
+      "start": 221.379,
+      "end": 222.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "But I've been, see, uh, in your, uh, in, uh, YouTube, your people-",
+      "start": 222.059,
+      "end": 225.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay",
+      "start": 225.859,
+      "end": 226.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...",
+      "start": 226.079,
+      "end": 226.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "are continuously throwing your website on our places.",
+      "start": 226.079,
+      "end": 228.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yeah, yeah.",
+      "start": 228.499,
+      "end": 228.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "You know?",
+      "start": 228.919,
+      "end": 229.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "So...",
+      "start": 229.199,
+      "end": 229.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay.",
+      "start": 229.839,
+      "end": 230.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay, okay.",
+      "start": 230.319,
+      "end": 230.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "So that is only, uh, way I came to know about it.",
+      "start": 230.339,
+      "end": 233.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay, okay, okay.",
+      "start": 233.659,
+      "end": 234.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "No worries.",
+      "start": 234.199,
+      "end": 234.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Meanwhile, you can save this number.",
+      "start": 235.239,
+      "end": 236.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Uh, uh, my name is Aditya.",
+      "start": 236.859,
+      "end": 238.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "I'll be your point of contact.",
+      "start": 238.419,
+      "end": 239.599,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "If you have any queries or concerns, you can reach out to me over here.",
+      "start": 239.599,
+      "end": 242.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yeah, yeah, yeah.",
+      "start": 242.819,
+      "end": 243.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay?",
+      "start": 243.519,
+      "end": 243.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Thank you.",
+      "start": 243.539,
+      "end": 243.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Thank you, Aditya.",
+      "start": 243.939,
+      "end": 244.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Sure.",
+      "start": 244.559,
+      "end": 244.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay.",
+      "start": 244.579,
+      "end": 244.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Thank you.",
+      "start": 244.599,
+      "end": 244.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Thank you for your time.",
+      "start": 244.899,
+      "end": 245.699,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

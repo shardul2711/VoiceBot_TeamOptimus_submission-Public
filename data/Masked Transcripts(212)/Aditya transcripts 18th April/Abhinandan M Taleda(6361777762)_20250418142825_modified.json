@@ -1,0 +1,46 @@
+{
+  "segments": [
+    {
+      "text": "hi there, i'm- hello.",
+      "start": 0.359,
+      "end": 1.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "-digital abhinandan.",
+      "start": 1.36,
+      "end": 2.3,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "may i ask who's calling?",
+      "start": 2.639,
+      "end": 3.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 5.179,
+      "end": 5.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, please hold.",
+      "start": 6.94,
+      "end": 7.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i'll be right with you.",
+      "start": 7.96,
+      "end": 8.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "[background talking]",
+      "start": 8.98,
+      "end": 26.479,
+      "speaker_id": "speaker_2"
+    }
+  ]
+}

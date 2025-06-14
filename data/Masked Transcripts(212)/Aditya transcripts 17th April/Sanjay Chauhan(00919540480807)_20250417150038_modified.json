@@ -1,0 +1,826 @@
+{
+  "segments": [
+    {
+      "text": "um, hello?",
+      "start": 0.539,
+      "end": 1.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 2.839,
+      "end": 3.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, good afternoon sir, here from lending club, p2p lending.",
+      "start": 4.539,
+      "end": 7.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, yes.",
+      "start": 9.199,
+      "end": 9.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, so you have uh, some queries right?",
+      "start": 10.179,
+      "end": 13.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you have dropped me a message on whatsapp.",
+      "start": 13.46,
+      "end": 15.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, right.",
+      "start": 15.679,
+      "end": 16.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "regarding the matter about it.",
+      "start": 16.44,
+      "end": 18.28,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "may i know what exact was the query?",
+      "start": 18.959,
+      "end": 20.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "oh yes.",
+      "start": 21.699,
+      "end": 22.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 22.359,
+      "end": 22.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "actually, i'm just checking uh, there were uh, are they really uh, did you installed?",
+      "start": 22.719,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "loans are available, right?",
+      "start": 28.579,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "mm hmm.",
+      "start": 28.579,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "but with that comes a minimum, uh, minimum of loans.",
+      "start": 28.579,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "2000.",
+      "start": 28.579,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "just give me a moment.",
+      "start": 28.579,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "just give me a moment.",
+      "start": 28.579,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 28.579,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 28.579,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 28.579,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 28.579,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 28.579,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no.",
+      "start": 28.579,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "how are you?",
+      "start": 28.579,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i was just telling you, sir.",
+      "start": 28.579,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "actually, we are going to do a daily.",
+      "start": 28.579,
+      "end": 28.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "daily installed loans are available.",
+      "start": 28.62,
+      "end": 30.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "right?",
+      "start": 30.639,
+      "end": 30.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mm hmm.",
+      "start": 31.319,
+      "end": 31.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "but with that the minimum, uh, minimum amount of loan is 2000.",
+      "start": 31.659,
+      "end": 31.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "just give me a moment.",
+      "start": 31.699,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "just give me a moment.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "am i audible now?",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "how are you?",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "tell me, sir.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, actually, uh, we are going to do a daily 2000 loans.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hmm hmm.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "how much is it?",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it's like i cannot lend.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "that is not something that you.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay daily loans are currently available.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "available platform such as loans.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i think it's better to have the media channel.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i'll check today.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "the other day, the charge was available.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "charge was available.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "right.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "how about the minimum amount?",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i can do it in 3 minutes.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "please help.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it will be there for how long or when will it come?",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "loans cases keep coming and going.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "like now if you check, you will get, uh, like how many loans are available on the platform.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you will see that the loans are expected here today or tomorrow.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "1 or 2 days will come, so as those loans come, we will update you, you will see in the application, so currently less loans are available.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "absolutely right and its minimum amount of 2000 will also come down.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sorry actually the minimum amount that you can lend to a particular loan.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "now your normal monthly installed loans and monthly installment loans which is the minimum amount of 250.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, now you can select from 250.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "we want to give in 1 go.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, but whatever is your platform pay daily installment value loan, it used to be 2000, now they have put 2000 means now we are not able to select.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay okay let me check this for you.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh ideally um if you hold the line now, i will check it here.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes, do it.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so you are looking through manual lending to add.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes, yes, yes.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hold on.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so minimum kitna dikhana hai aapko 2000 right?",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, we will show it.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok so wo aaj par bhi system hi hai.",
+      "start": 31.76,
+      "end": 31.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "minimum 2000 hai ok par daily loan agar aap plan karna chahte hain to kyun ki daily loan mein agar samjhe aap 250 add karoge to hardly aapko 99 paise kuch aayenge.",
+      "start": 31.76,
+      "end": 254.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "daily basis par.",
+      "start": 256.939,
+      "end": 257.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ji theek hai.",
+      "start": 258.459,
+      "end": 259.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "achcha sir daily nahi aayega paise baad.",
+      "start": 259.559,
+      "end": 261.219,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mein daily aata hai na returns aapko yeh yeh samjho.",
+      "start": 261.519,
+      "end": 264.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "twelvemonth wala plan hai toh aapko yeh jo 250 agar aap add karte ho 250 divide by 365 days karna hoga toh utna amount usme interest bhi jud ke aayega but woh hardly 1 rupees bhi nahi banta din ka isliye woh daily ke liye yeh criteria rakha hua hai ke 2000 minimum hai phir bhi main hamare team se ek baar team ko forward kar deta hu.",
+      "start": 265.219,
+      "end": 292.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "in case agar kuch changes hote hai to application mein aapko dikh jaayega ok kya.",
+      "start": 292.999,
+      "end": 299.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "jo amount hai installment amount woh kaise decide hoga matlab mere account me kitna ayega main kya woh main time pe check ho sakta ho.",
+      "start": 301.879,
+      "end": 309.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "haa aap application mein check kar sakte ho like agar aap samjho aur like closure of 2 1000 rupees agar aap lend kar rahe ho ok 2 1000 lend kar rahe ho ye ek particular loan mein jo aapko zuleika begum karke dikh rahega ek log.",
+      "start": 309.579,
+      "end": 326.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok to usmein agar aap 2 1000 lend karoge to almost aapko 2360 closure amount ayega to 2360 ko aap divide by 365 kijiyega thik hai.",
+      "start": 326.419,
+      "end": 341.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "to almost ₹6.40",
+      "start": 345.779,
+      "end": 349.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "tak ka amount aapko din ka ayega.",
+      "start": 349.839,
+      "end": 351.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "par din ka cheez pad lega.",
+      "start": 352.679,
+      "end": 354.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haa correct isliye woh limit humne 2000 lagaya taki woh ek amount aata hai to.",
+      "start": 354.219,
+      "end": 359.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haa haa correct hai 250 mein bahot hardly 1 rupee bhi nahi ayega sir.लोन",
+      "start": 360.479,
+      "end": 372.981,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "लेंदे क्लब फैक्ट शेट में आपको रिसाइलेंट ही निकाल सकते हैं।",
+      "start": 372.981,
+      "end": 376.322,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "वो हमारे रिसर्च मॉनिटर में 600 पैरामीटर्स उसके बाद बरो वर्ष का ऑनबोर्ड करते हैं।",
+      "start": 376.362,
+      "end": 383.661,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ये सारे लो रिस्क वाले लोन रहते हैं और इनमें प्लांट करते तो आपको वो एक टेन्योर के बाद लाइक।",
+      "start": 383.681,
+      "end": 391.242,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हर दिन आपको वो रीपेमेंट आते रहता।",
+      "start": 392.061,
+      "end": 395.021,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अच्छा अच्छा बताइए ना।",
+      "start": 395.641,
+      "end": 398.701,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "लंदन के एंड के बारे में कुछ मतलब आप देते नहीं सकते तो कहां दे सकते हो।",
+      "start": 398.741,
+      "end": 403.662,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो आपका वेबसाइट में या गूगल पे आप डायरेक्टली सर्च कीजिएगा।",
+      "start": 403.681,
+      "end": 409.541,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "लेनदेन क्लब फैक्ट शेट तो आपको मंथ वाइज सारे फैक्ट दिखेंगे जहां पर आपको एनपीए रिलेटेड डीटेल्स मिल जाएंगे।",
+      "start": 409.561,
+      "end": 417.141,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओवरऑल पिछले 5 से 7 महीने में तीन से साढ़े तीन परसेंट के बीच में हमारा एनपीए है।",
+      "start": 417.161,
+      "end": 423.561,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अच्छा ठीक है और वन और थिंग क्वेश्चन है जो आपके आंसर मेंशन है।",
+      "start": 423.601,
+      "end": 428.581,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "लेकिन कोई अगर अपनी इंस्टॉलमेंट 90 डेज मिस करता है तो उस केस में हमें कुछ पैसा नहीं देता।",
+      "start": 428.921,
+      "end": 435.681,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "लेट्स से कोई भी आपका बॉरोअर है वो 90 डेज भी मिस करता है अपनी कस्टम।",
+      "start": 435.761,
+      "end": 440.541,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो उसके इसमें हमें कोई पैसा नहीं मिलेगा।",
+      "start": 441.961,
+      "end": 444.221,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सो आई एक्सप्लेन यू दिस प्रोसीजर के समझो।",
+      "start": 444.241,
+      "end": 447.661,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "एक एग्जांपल बॉरोअर का लोन थ्री मंथ्स का है।",
+      "start": 447.721,
+      "end": 450.662,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ठीक है, थ्री मंथ के लोन में आपने इन्वेस्ट किया है थाउजेंड रूपीज।",
+      "start": 450.802,
+      "end": 455.021,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अब बॉरोअर का फर्स्ट ईएमआई आएगा।",
+      "start": 455.622,
+      "end": 457.821,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "फर्स्ट में को फर्स्ट जून फर्स्ट जुलाई।",
+      "start": 457.842,
+      "end": 460.201,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तो फर्स्ट जुलाई के बाद उसका वो लास्ट ईएमआई ड्यूरेड रहेगा।",
+      "start": 460.641,
+      "end": 463.381,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तो लास्ट ईएमआई ड्यूरेड के बाद 120 डेज का एक पीरियड रहता है।",
+      "start": 463.381,
+      "end": 467.442,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "उस बीच में अगर कोई अमाउंट आता है बॉरोअर के थ्रू तो वो आपको प्रिंसिपल प्लस इंटरेस्ट मिल जाएगा।",
+      "start": 468.321,
+      "end": 474.401,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अगर बॉरोअर कोई पेमेंट नहीं कर रहा है वो एडिशनल 120 डेज के बाद भी तो भी वो ऐसे डिफॉल्ट कंसीडर किया जाएगा।",
+      "start": 475.181,
+      "end": 481.842,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अच्छा तो एमपीए शिफ्ट हो जाता है।",
+      "start": 482.221,
+      "end": 483.622,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "एमपीए हो जाता है।",
+      "start": 483.641,
+      "end": 485.162,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अच्छा ओके तो एमपीए के केस में क्या मतलब?",
+      "start": 485.201,
+      "end": 488.101,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "जो लेंददार है उसको कुछ नहीं मिलेगा।",
+      "start": 488.741,
+      "end": 490.361,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "रिकवर हो या नहीं हो सकेगा।",
+      "start": 490.641,
+      "end": 492.061,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके ठीक है तो इसमें मतलब ऑप्शन यह है कि आप जितना डायवर्सिटी करोगे उतना चांसेस बढ़ जाएगा।",
+      "start": 493.482,
+      "end": 499.581,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "डेफिनेटली यस क्योंकि डायवर्सिटी इस मोस्ट इंपॉर्टेंट।",
+      "start": 499.641,
+      "end": 502.501,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "जहां पर आपका अमाउंट हर एक लोन में आप 500-500 या 1000-1000 रुपये से प्लांट करते हो, तभी वो डायवर्सिटी अच्छे से होता है और जिससे रिस्क थोड़ा सा कम हो जाता है।",
+      "start": 502.541,
+      "end": 513.882,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "क्योंकि समझो आप चार हज़ार एक लोन में ऐड करोगे।",
+      "start": 514.302,
+      "end": 516.701,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "उससे अच्छा 4000 अगर आप आठ लोन में ऐड करोगे।",
+      "start": 516.701,
+      "end": 519.621,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तो आपका रिस्क उतना कम हो जाता है।",
+      "start": 521.721,
+      "end": 524.221,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ऑप्शन भी वेरी लेस प्रोबेबिलिटी है कि आप डिफॉल्ट।",
+      "start": 524.821,
+      "end": 527.561,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "करें कुछ भी।",
+      "start": 527.621,
+      "end": 528.701,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "करेक्ट।",
+      "start": 528.742,
+      "end": 529.221,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके।",
+      "start": 531.221,
+      "end": 531.802,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "और कुछ क्वेरी क्वेश्चन है आपको सर।",
+      "start": 534.201,
+      "end": 536.421,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके ये नंबर सेव कर लीजिए।",
+      "start": 537.461,
+      "end": 539.701,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "कुछ क्वेरी रह गई तो आप डायरेक्ट ही इस नंबर पर कॉल कर सकते हैं।",
+      "start": 539.721,
+      "end": 543.042,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ठीक है, थैंक यू।",
+      "start": 543.102,
+      "end": 547.361,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

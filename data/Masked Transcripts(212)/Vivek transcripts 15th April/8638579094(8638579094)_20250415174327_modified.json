@@ -1,0 +1,106 @@
+{
+  "segments": [
+    {
+      "text": "[background music] hello.",
+      "start": 0.0,
+      "end": 0.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 1.899,
+      "end": 2.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी गुड इवनिंग।",
+      "start": 2.779,
+      "end": 3.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> बात कर रहा हूं लेनदेन क्लब से हेलो हेलो।",
+      "start": 3.679,
+      "end": 7.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां हेलो।",
+      "start": 8.539,
+      "end": 9.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी <PII_NAME> बात कर रहा हूं मैं लेनदेन क्लब से।",
+      "start": 9.279,
+      "end": 12.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां हां बोल रहे हो बोल रहे हो।",
+      "start": 12.539,
+      "end": 13.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी, एक्चुअली में आपका रिलेशनशिप मैनेजर बात कर रहा हूं।",
+      "start": 13.799,
+      "end": 16.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अपने हमारे प्लेटफार्म में इन्वेस्टमेंट किया था ना लेंडिंग में?",
+      "start": 16.399,
+      "end": 19.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां हां।",
+      "start": 20.159,
+      "end": 20.5,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी उसे रिगार्डिंग कॉल कर रहा था मैं आपको।",
+      "start": 20.76,
+      "end": 22.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके।",
+      "start": 23.5,
+      "end": 24.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो जस्ट वॉन्टर टू नो आपको आपने अपना इन्वेस्टमेंट किया है तो आपको उसमें कुछ डाउट वगैरा तो नहीं है सर जो मतलब पूछना था।",
+      "start": 24.079,
+      "end": 31.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "डाउट वगैरा अभी के लिए।",
+      "start": 31.039,
+      "end": 32.7,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हेलो, हेलो, हेलो।",
+      "start": 36.68,
+      "end": 38.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मुझे थोड़ा आपका आवाज आवाज अच्छी तरह सुनाई नहीं दे रहा है।",
+      "start": 38.879,
+      "end": 43.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मैं आपको वापिस कॉल कर करते हैं।",
+      "start": 43.259,
+      "end": 45.279,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

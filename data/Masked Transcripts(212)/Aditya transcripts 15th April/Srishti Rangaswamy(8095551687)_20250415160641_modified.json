@@ -1,0 +1,76 @@
+{
+  "segments": [
+    {
+      "text": "your call has been forwarded to voicemail.",
+      "start": 0.059,
+      "end": 2.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the person you're trying to reach is not available.",
+      "start": 2.339,
+      "end": 4.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "at the tone, please record your message.",
+      "start": 4.96,
+      "end": 7.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "when you have finished recording, you may hang up.",
+      "start": 7.539,
+      "end": 9.56,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 10.599,
+      "end": 11.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hi, <PII_NAME>.",
+      "start": 11.8,
+      "end": 12.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "this is <PII_NAME>.",
+      "start": 12.699,
+      "end": 13.38,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'm calling you from lending club p2p lending platform.",
+      "start": 13.399,
+      "end": 16.52,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, this call in regards to your lending for <PII_AMOUNT>, which was done last year and now it's been matured.",
+      "start": 17.399,
+      "end": 23.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "and the amount is in your account balance for, uh, <PII_AMOUNT> rupees.",
+      "start": 23.939,
+      "end": 28.94,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, let me know if you have any queries, like if you want to re-lend the amount, uh, you can reach out to me, i can guide you further.",
+      "start": 29.34,
+      "end": 35.78,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you for your time.",
+      "start": 36.439,
+      "end": 37.44,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

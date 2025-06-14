@@ -1,0 +1,406 @@
+{
+  "segments": [
+    {
+      "text": "[background noise] hello.",
+      "start": 0.5,
+      "end": 0.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sir, aap ko kyc complete karne ke liye maine link bheja.",
+      "start": 1.939,
+      "end": 6.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "link ke thoda sa complete kar dijiyega.",
+      "start": 6.379,
+      "end": 8.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ek minute baad.",
+      "start": 9.92,
+      "end": 10.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mein toh sata sada ka aanda puch raha hoon.",
+      "start": 11.399,
+      "end": 19.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "toh usmein kiya tha sir ne puch raha hoon.",
+      "start": 20.479,
+      "end": 22.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aap log ko mat karo woh wala.",
+      "start": 22.76,
+      "end": 26.6,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "jo gujranwala se tha.",
+      "start": 28.459,
+      "end": 29.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> tak.",
+      "start": 29.779,
+      "end": 31.0,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "kar sakte hain.",
+      "start": 31.0,
+      "end": 33.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aap log iske liye aaye the.",
+      "start": 33.899,
+      "end": 61.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "toh <PII_NAME> tak.",
+      "start": 66.86,
+      "end": 70.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "nahi par.",
+      "start": 70.919,
+      "end": 71.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "kuch log.",
+      "start": 71.879,
+      "end": 71.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "kaam par nahi hai.",
+      "start": 71.879,
+      "end": 72.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "toh aap log log.",
+      "start": 72.559,
+      "end": 72.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haan.",
+      "start": 72.86,
+      "end": 73.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sahab.",
+      "start": 73.399,
+      "end": 73.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "kiya tha.",
+      "start": 73.459,
+      "end": 73.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ek minute.",
+      "start": 73.819,
+      "end": 73.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "pehle.",
+      "start": 73.819,
+      "end": 73.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "detal.",
+      "start": 73.979,
+      "end": 74.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "theek hai.",
+      "start": 76.319,
+      "end": 76.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "zara mail kar ke aao.",
+      "start": 77.04,
+      "end": 103.78,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "toh usmein aap log ko.",
+      "start": 111.839,
+      "end": 119.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "kaam par nahi hai.",
+      "start": 119.299,
+      "end": 129.26,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ek minute.",
+      "start": 130.319,
+      "end": 172.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ab aadmi kaam par nahi hai.",
+      "start": 185.199,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "toh aap log log.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "theek hai.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ab aap log log.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "kar sakte hain.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "jaate jaate.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "theek hai.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aap log log karte ho.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "toh aap log log.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "jaate jaate.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "theek hai.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aap log log karte ho.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "toh aap log log kar sakte ho.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haa, theek hai.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "isliye.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yaar bahut accha kiya.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hum log log.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "kar sakte hain.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "jaate jaate.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "theek hai.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aap log log karte ho.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "toh aap log log kar sakte ho.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haa, theek hai.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "isliye.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yaar bahut accha kiya.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hum log log.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "toh aap log log kar sakte ho.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "jaate jaate.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "theek hai.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aap log log karte ho.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "toh aap log log kar sakte ho.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haa, theek hai.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "isliye.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yaar bahut accha kiya.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hum log log.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "toh aap log log kar sakte ho.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "jaate jaate.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "theek hai.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aap log log karte ho.",
+      "start": 185.22,
+      "end": 185.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "toh aap log log kar sakte ho.",
+      "start": 185.22,
+      "end": 186.1,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

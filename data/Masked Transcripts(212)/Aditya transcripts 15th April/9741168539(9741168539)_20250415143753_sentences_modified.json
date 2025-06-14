@@ -1,0 +1,202 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 1.259,
+      "end": 1.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 1.799,
+      "end": 2.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 3.24,
+      "end": 4.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "this is <PII_NAME> from club p2p lending.",
+      "start": 4.159,
+      "end": 6.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> हेलो!",
+      "start": 8.519,
+      "end": 12.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कैन आई स्पीक टू <PII_NAME>?",
+      "start": 12.539,
+      "end": 14.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हेलो हेलो।",
+      "start": 17.079,
+      "end": 18.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कौन बात करने का?",
+      "start": 19.379,
+      "end": 20.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME> से बात हो सकता है।",
+      "start": 21.92,
+      "end": 23.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "कौन है तुम?",
+      "start": 25.019,
+      "end": 25.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मैं <PII_NAME> बात कर रहा हूं लेनदेन क्लब से।",
+      "start": 26.439,
+      "end": 29.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "लेन देन क्लब।",
+      "start": 29.819,
+      "end": 32.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> एस <PII_NAME>।",
+      "start": 33.439,
+      "end": 39.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आप कौन सर बात करने का।",
+      "start": 39.939,
+      "end": 41.84,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME> बात कर रहा हूं लेन देन क्लब से।",
+      "start": 41.86,
+      "end": 44.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "क्या चाहिए आपको?",
+      "start": 46.0,
+      "end": 46.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME> जी का लेन देन क्लब में अकाउंट है ना उसके रिलेटेड कॉल किया था उनसे बात हो सकती है।",
+      "start": 47.7,
+      "end": 55.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मेरा भैया है भैया बाद में बात करेंगे।",
+      "start": 57.039,
+      "end": 59.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अच्छा आपको कौन सा भाषा आता है?",
+      "start": 59.799,
+      "end": 62.28,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हिंदी इंग्लिश, इंग्लिश नहीं आता हिंदी।",
+      "start": 63.419,
+      "end": 66.5,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके व्हिच लैंग्वेज कंफर्टेबल दूसरा कौन सा तमिल?",
+      "start": 66.519,
+      "end": 70.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तेलुगु।",
+      "start": 70.86,
+      "end": 71.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तेलुगु।",
+      "start": 72.5,
+      "end": 73.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तेलुगु ओके हम कॉल बैक अरेंज करते हैं।",
+      "start": 73.319,
+      "end": 76.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "कब आएंगे?",
+      "start": 77.279,
+      "end": 77.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "क्या?",
+      "start": 79.639,
+      "end": 79.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कब आएंगे?",
+      "start": 80.259,
+      "end": 81.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "कहां पर?",
+      "start": 82.919,
+      "end": 83.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आपके भाई कब आएंगे?",
+      "start": 83.559,
+      "end": 84.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "नाइट।",
+      "start": 86.08,
+      "end": 86.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके इसी नंबर पर कॉल करेंगे ओके पुन।",
+      "start": 87.299,
+      "end": 92.08,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "थैंक यू।",
+      "start": 93.199,
+      "end": 93.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "थैंक यू।",
+      "start": 93.839,
+      "end": 99.04,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

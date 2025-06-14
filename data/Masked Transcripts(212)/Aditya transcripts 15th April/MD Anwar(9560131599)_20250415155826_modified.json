@@ -1,0 +1,16 @@
+{
+  "segments": [
+    {
+      "text": "hello?",
+      "start": 3.419,
+      "end": 3.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?.",
+      "start": 5.98,
+      "end": 6.479,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

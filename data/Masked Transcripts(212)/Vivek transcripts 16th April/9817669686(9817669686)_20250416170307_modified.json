@@ -1,0 +1,154 @@
+{
+  "segments": [
+    {
+      "text": "[background noise] hello.",
+      "start": 0.0,
+      "end": 0.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 2.139,
+      "end": 2.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हाँ जी, गुड इवनिंग लेडी, एक बात करो मैं लिंकद इन क्लब से।",
+      "start": 2.899,
+      "end": 6.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी।",
+      "start": 6.759,
+      "end": 7.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "यस, एक्चुअली में आपका रिलेशनशिप मैनेजर बात कर रहा हूं।",
+      "start": 7.599,
+      "end": 9.96,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अपने वाले प्लेटफार्म पर जो इन्वेस्टमेंट किया था ना पी टू पी लेंडिंग में।",
+      "start": 9.979,
+      "end": 13.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी।",
+      "start": 13.259,
+      "end": 13.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां जी हैंड्स फुल।",
+      "start": 14.019,
+      "end": 14.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "उस रिगार्डिंग कॉल कर रहा था मैं आपको तो।",
+      "start": 14.579,
+      "end": 17.0,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हेलो!",
+      "start": 18.619,
+      "end": 18.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हाँ जी बोलो ना।",
+      "start": 19.219,
+      "end": 20.26,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "यस, वांट टू नो यार कि ये फर्स्ट टाइम ये पी टू पी लेंडिंग में इन्वेस्टमेंट कर रहे हो या फिर ऑलरेडी करते हो कहीं और से?",
+      "start": 20.299,
+      "end": 26.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "फर्स्ट टाइम है फर्स्ट टाइम।",
+      "start": 26.84,
+      "end": 28.42,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अच्छा, ओके ग्रेट बहुत अच्छा है।",
+      "start": 28.42,
+      "end": 29.78,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो फिर आपको मतलब ऑलरेडी पता है पी टू पी लेंडिंग होता क्या है, कैसे वर्क करता है या फिर इसमें कुछ डाउट वगैरह है आपको?",
+      "start": 29.799,
+      "end": 35.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "सर, हम दोनों मेनली हज़ार रुपये इन्वेस्ट कर रहे थे।",
+      "start": 37.899,
+      "end": 40.58,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आपकी आवाज़ बहुत स्लो आ रही है।",
+      "start": 40.599,
+      "end": 41.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "क्या बता रहे हो?",
+      "start": 41.799,
+      "end": 42.34,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "सर, मैं लाइव रिलीइजिंग में हूँ।",
+      "start": 43.659,
+      "end": 46.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello!",
+      "start": 47.52,
+      "end": 47.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "सर, मैं लाइव रिलीइजिंग में हूँ।",
+      "start": 49.36,
+      "end": 51.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "बाद में कॉल करूंगा।",
+      "start": 51.219,
+      "end": 52.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "चलो, चल।",
+      "start": 52.68,
+      "end": 53.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ठीक है सर।",
+      "start": 54.979,
+      "end": 55.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके, लो ल।",
+      "start": 55.84,
+      "end": 58.42,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "segments": [
+    {
+      "text": "hello?",
+      "start": 0.259,
+      "end": 0.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 1.279,
+      "end": 1.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> contra, i'm saying.",
+      "start": 2.48,
+      "end": 7.359,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello?",
+      "start": 8.119,
+      "end": 8.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 9.199,
+      "end": 9.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "how do you tell me?",
+      "start": 9.88,
+      "end": 10.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "but they would be on the club or, you know, give me a call.",
+      "start": 11.42,
+      "end": 15.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "because i already knew what i did.",
+      "start": 15.98,
+      "end": 17.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, because my father never does good enough.",
+      "start": 17.379,
+      "end": 23.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so then how did the received <PII_AMOUNT> kuch dikaar?",
+      "start": 23.819,
+      "end": 27.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "he didn't receive mere wako <PII_AMOUNT> something kuch ho ayi.",
+      "start": 28.039,
+      "end": 31.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "or mera jo balance ka jo transaction history hota hai wahan pe to bus dohi transaction hai kuch do do mila kuch <PII_AMOUNT>.",
+      "start": 32.02,
+      "end": 39.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "usme baaki usme ek transaction dikha tha kal kali dikha tha lekin wo pending tha lekin woh ab hat gaya hai.",
+      "start": 41.279,
+      "end": 46.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aise ho raha hai basically.",
+      "start": 51.0,
+      "end": 53.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "dekhein kal aapko hazaar rupeye kya aaya hoga <PII_AMOUNT> samjhe.",
+      "start": 53.219,
+      "end": 59.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "correct.",
+      "start": 59.619,
+      "end": 59.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aur apne lakin wo transaction history mein so nahi ho raha hai lekin kal pending show ho raha tha.",
+      "start": 60.399,
+      "end": 64.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "lekin <PII_NAME> woh gayab hai.",
+      "start": 64.819,
+      "end": 65.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "apke bank mein agya ho paisa.",
+      "start": 66.36,
+      "end": 67.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "bank mein to agya withdrawal vale wo show ho raha ho gaya.",
+      "start": 68.519,
+      "end": 71.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "check kije nahi.",
+      "start": 72.08,
+      "end": 72.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "usme bhi to 0 0 ho raha hai.",
+      "start": 73.04,
+      "end": 74.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aisa nahi wo wahan pe pending ka success ho gaya hota warna hold par.",
+      "start": 75.619,
+      "end": 79.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aa raha hoga aisa.",
+      "start": 79.86,
+      "end": 80.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "kuchh nahi aarahe wo transaction wo line hi gayab hai.",
+      "start": 81.339,
+      "end": 83.72,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "udhar bus dohi transaction hai wo pahle ka do matlab 400 ya 300.",
+      "start": 83.72,
+      "end": 87.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "do.",
+      "start": 87.419,
+      "end": 87.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "do hai.",
+      "start": 88.019,
+      "end": 88.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay to overall apko <PII_NAME> tak <PII_AMOUNT> kya aaya hoga.",
+      "start": 89.22,
+      "end": 93.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haan aisa receive.",
+      "start": 93.739,
+      "end": 94.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hua lekin usme jo portfolio section hai udhar lumpsum karke udhar dikhaa rahe hai ki total received 4000 aise.",
+      "start": 94.479,
+      "end": 100.28,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "toh basically jo pending amount hai wo aaj hi borrower ki taraf se aaya hoga.",
+      "start": 100.459,
+      "end": 104.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "jo hazaar rupeye woh <PII_AMOUNT> ho to wo to do din pahle se dikha raha hai <PII_AMOUNT> wala.",
+      "start": 104.759,
+      "end": 109.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "accha.",
+      "start": 111.059,
+      "end": 111.4,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "mujhe uska screenshot bijiyena main apko ek bar team ko raise kar deta yahan se.",
+      "start": 111.779,
+      "end": 115.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aapke is number pe whatsapp hai na.",
+      "start": 116.159,
+      "end": 118.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "whatsapp se bhi.",
+      "start": 118.54,
+      "end": 119.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok ok mai bhejta hu.",
+      "start": 119.759,
+      "end": 121.14,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

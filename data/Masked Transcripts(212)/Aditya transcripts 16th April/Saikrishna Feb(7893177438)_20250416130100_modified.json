@@ -1,0 +1,790 @@
+{
+  "segments": [
+    {
+      "text": "good morning.",
+      "start": 0.039,
+      "end": 0.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello, good morning, sir.",
+      "start": 0.68,
+      "end": 1.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh.",
+      "start": 2.599,
+      "end": 3.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, what's up?",
+      "start": 3.279,
+      "end": 3.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "recently, i referred somebody, he is getting 500.",
+      "start": 3.439,
+      "end": 7.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "minimum investment is 500.",
+      "start": 7.919,
+      "end": 9.94,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "convert that into the 250.",
+      "start": 10.42,
+      "end": 11.94,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 13.119,
+      "end": 13.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 13.439,
+      "end": 13.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 13.759,
+      "end": 13.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sure, sir.",
+      "start": 14.619,
+      "end": 14.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "why previously it automatically actually, for new accounts, it is now- uh- minimum 500, actually.",
+      "start": 14.859,
+      "end": 22.42,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "minimum is the 1,000.",
+      "start": 22.42,
+      "end": 24.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 25.059,
+      "end": 25.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 25.599,
+      "end": 25.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, i will get it done for the 250.",
+      "start": 25.619,
+      "end": 27.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so if you refer any new accounts, you can just let me know and i can get these changes done because this is for new users who are applying.",
+      "start": 27.84,
+      "end": 37.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "however, uh, whenever, like, uh, any users you have- any other service 1000, no issue because of they have some confusion.",
+      "start": 38.04,
+      "end": 46.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 46.819,
+      "end": 47.18,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 47.219,
+      "end": 47.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "250 investment is not okay.",
+      "start": 47.399,
+      "end": 48.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 48.579,
+      "end": 48.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 48.879,
+      "end": 49.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 49.119,
+      "end": 49.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sure.",
+      "start": 49.68,
+      "end": 49.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sure.",
+      "start": 49.959,
+      "end": 50.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "anything like that.",
+      "start": 50.119,
+      "end": 50.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure.",
+      "start": 51.159,
+      "end": 51.5,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sure.",
+      "start": 51.5,
+      "end": 51.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 52.379,
+      "end": 53.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "just give me a moment.",
+      "start": 53.079,
+      "end": 54.099,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'll make the changes right away.",
+      "start": 54.099,
+      "end": 55.96,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 56.259,
+      "end": 56.52,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 56.539,
+      "end": 56.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "when i will get referrals?",
+      "start": 57.36,
+      "end": 58.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "um, for this there is no referral currently but uh, as -uh, <PII_NAME>, right?",
+      "start": 59.219,
+      "end": 67.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>?",
+      "start": 67.259,
+      "end": 67.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes.",
+      "start": 67.859,
+      "end": 68.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 68.199,
+      "end": 68.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 68.299,
+      "end": 68.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME> is a new lender.",
+      "start": 68.539,
+      "end": 70.499,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "new account he has created.",
+      "start": 70.679,
+      "end": 72.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, uh, there is 1 offer which is which we are running for the new users.",
+      "start": 72.939,
+      "end": 76.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 77.559,
+      "end": 77.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 78.079,
+      "end": 78.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "for which he will be eligible if he lend more than ₹1,000 rupees, which will be his first lending.",
+      "start": 78.499,
+      "end": 85.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "he must have received the notifications.",
+      "start": 86.139,
+      "end": 88.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, he will receive around 5% of returns and which is capped for ₹250.",
+      "start": 89.719,
+      "end": 97.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so up to 5000 he can lend for his first lending this offer will be applicable.",
+      "start": 98.099,
+      "end": 103.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 104.799,
+      "end": 105.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 105.059,
+      "end": 105.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "now referral we are not getting.",
+      "start": 106.699,
+      "end": 108.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no.",
+      "start": 108.499,
+      "end": 108.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "right now, currently referral program is off.",
+      "start": 108.519,
+      "end": 110.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 111.359,
+      "end": 111.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, uh, whenever it is on, i will get in touch with you and i'll update you for this.",
+      "start": 111.379,
+      "end": 115.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 116.119,
+      "end": 116.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 116.419,
+      "end": 116.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 116.799,
+      "end": 117.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 117.359,
+      "end": 117.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "mhm.",
+      "start": 117.999,
+      "end": 118.099,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mhm.",
+      "start": 118.099,
+      "end": 118.099,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "in stock market, in stock market.",
+      "start": 118.099,
+      "end": 120.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "mhm.",
+      "start": 120.679,
+      "end": 120.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "any broker is there.",
+      "start": 121.019,
+      "end": 121.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you refer somebody, they do any tradings.",
+      "start": 122.019,
+      "end": 125.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 125.499,
+      "end": 125.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "we get some brokerage.",
+      "start": 126.259,
+      "end": 127.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "like that we don't have it.",
+      "start": 127.679,
+      "end": 128.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for all tradings you receive it?",
+      "start": 128.759,
+      "end": 130.219,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "all tradings.",
+      "start": 130.639,
+      "end": 131.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "not only we buy stock.",
+      "start": 131.459,
+      "end": 133.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 133.499,
+      "end": 133.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 133.519,
+      "end": 133.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "we do have a referral program, but referral program is for his first lending only.",
+      "start": 133.539,
+      "end": 138.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "and currently the referral program is not on.",
+      "start": 139.219,
+      "end": 142.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "once it is on, i will get in touch with you.",
+      "start": 142.339,
+      "end": 144.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 144.639,
+      "end": 145.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it looks very good and better.",
+      "start": 145.419,
+      "end": 147.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 147.859,
+      "end": 148.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i think it's good program.",
+      "start": 148.499,
+      "end": 149.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 149.659,
+      "end": 149.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 149.899,
+      "end": 150.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 150.039,
+      "end": 150.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i think stock market also i referred some more ???",
+      "start": 150.199,
+      "end": 152.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "also.",
+      "start": 153.279,
+      "end": 153.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "some go apps, some data app.",
+      "start": 153.859,
+      "end": 155.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 156.239,
+      "end": 156.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 156.279,
+      "end": 156.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 156.639,
+      "end": 156.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no worries.",
+      "start": 157.879,
+      "end": 158.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'll get it done for, uh, i have done it for 1, uh, like 250 for <PII_NAME>.",
+      "start": 158.319,
+      "end": 164.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i referred more than 1000 people.",
+      "start": 164.899,
+      "end": 166.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "when they do trading, i will get some brokerage of 2 rupee or 3 rupee per trade.",
+      "start": 167.099,
+      "end": 171.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 171.979,
+      "end": 171.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 171.999,
+      "end": 171.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "if they do 2, 3 trades for a day.",
+      "start": 171.999,
+      "end": 174.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 175.059,
+      "end": 175.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'll get around 500 for a day like that.",
+      "start": 175.459,
+      "end": 177.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 177.899,
+      "end": 177.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mhm.",
+      "start": 177.959,
+      "end": 177.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'm asking if they learn something, they get interested in interest, they will get something because of referral.",
+      "start": 177.959,
+      "end": 184.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, recently i did in upstox also.",
+      "start": 185.079,
+      "end": 188.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 188.379,
+      "end": 188.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "upstox, all that.",
+      "start": 188.979,
+      "end": 189.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 190.139,
+      "end": 190.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 191.879,
+      "end": 192.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so currently this offer is not available with us.",
+      "start": 192.159,
+      "end": 194.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 194.779,
+      "end": 195.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i can, uh, i can forward your feedback to my team and let's check what can be done.",
+      "start": 195.639,
+      "end": 202.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it gives some more funding, no?",
+      "start": 202.799,
+      "end": 204.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 205.039,
+      "end": 205.219,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 205.279,
+      "end": 205.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 205.499,
+      "end": 205.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct.",
+      "start": 206.419,
+      "end": 206.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct.",
+      "start": 206.719,
+      "end": 207.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "recently upstox also we referred in <PII_STATE> and <PII_STATE>.",
+      "start": 207.719,
+      "end": 211.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "users are more than 10 lakh people i think in only 2 states.",
+      "start": 211.919,
+      "end": 217.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 217.599,
+      "end": 217.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 217.879,
+      "end": 218.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "recent times.",
+      "start": 218.419,
+      "end": 219.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "because of these opportunities only.",
+      "start": 219.939,
+      "end": 222.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 222.219,
+      "end": 222.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 223.259,
+      "end": 223.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 223.799,
+      "end": 223.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 224.059,
+      "end": 224.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 224.839,
+      "end": 224.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i just made the changes.",
+      "start": 224.859,
+      "end": 226.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ask your, uh, referral to refresh the app and then he will be able to continue.",
+      "start": 226.919,
+      "end": 232.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sure.",
+      "start": 232.999,
+      "end": 233.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 233.559,
+      "end": 235.799,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

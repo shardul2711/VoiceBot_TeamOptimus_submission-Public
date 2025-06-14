@@ -1,0 +1,160 @@
+{
+  "segments": [
+    {
+      "text": "[beep] hello.",
+      "start": 0.079,
+      "end": 1.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 1.799,
+      "end": 2.159,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "hi there, good afternoon.",
+      "start": 2.679,
+      "end": 3.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "șef de proast, grammer, lindy and club sir.",
+      "start": 3.779,
+      "end": 5.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, tell me.",
+      "start": 6.659,
+      "end": 7.319,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "uh, yes, actually i'm a relationship manager from lindy and club.",
+      "start": 7.48,
+      "end": 10.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, basically- yeah.",
+      "start": 11.099,
+      "end": 11.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...",
+      "start": 11.759,
+      "end": 12.019,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, actually i had invested on our platform, on that p2p lending, right?",
+      "start": 12.019,
+      "end": 15.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "that's according to- yeah.",
+      "start": 15.259,
+      "end": 18.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes.",
+      "start": 18.139,
+      "end": 18.459,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "uh, yes, so just wanted to know, basically, do you have any doubts or any queries that you wanted to ask?",
+      "start": 18.819,
+      "end": 23.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, i don't have, uh, right now i don't have any doubt.",
+      "start": 24.359,
+      "end": 27.039,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "i see.",
+      "start": 28.219,
+      "end": 28.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 28.639,
+      "end": 28.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "fine.",
+      "start": 29.159,
+      "end": 29.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no problem.",
+      "start": 29.399,
+      "end": 29.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 29.859,
+      "end": 29.879,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "so meanwhile, you can save this number.",
+      "start": 29.879,
+      "end": 31.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "if you have any doubts or any querying in future- okay.",
+      "start": 31.459,
+      "end": 34.18,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...",
+      "start": 34.18,
+      "end": 34.2,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "and can call on this number anytime.",
+      "start": 34.259,
+      "end": 35.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 35.739,
+      "end": 36.039,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "sure.",
+      "start": 36.099,
+      "end": 36.419,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "sure.",
+      "start": 36.759,
+      "end": 36.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 37.0,
+      "end": 37.46,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.299,
+      "end": 0.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 0.899,
+      "end": 1.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>, sir.",
+      "start": 1.759,
+      "end": 2.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello!",
+      "start": 2.419,
+      "end": 2.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अधिकतम बात कर रहा हूं लिंक्डइन पर से <PII_NAME> जैसे बात हो रही है।",
+      "start": 2.659,
+      "end": 6.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "यस",
+      "start": 6.719,
+      "end": 7.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां सर।",
+      "start": 7.599,
+      "end": 8.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "गुड आफ्टरनून एडिट पर बात कर रहा हूं।",
+      "start": 8.119,
+      "end": 9.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आपने लिंक्डइन क्लब में अकाउंट क्रिएट किया है।",
+      "start": 9.679,
+      "end": 11.68,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "लैंडिंग भी स्टार्ट किया है।",
+      "start": 11.699,
+      "end": 12.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "कल चालिस कुछ क्वेरी क्वेश्चंस हैं।",
+      "start": 13.979,
+      "end": 17.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आपको लैंडिंग रिलेटेड नो नो ओके।",
+      "start": 17.299,
+      "end": 20.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मैं अपने इस प्लेटफार्म के बारे में कहां से पता चला।",
+      "start": 21.899,
+      "end": 27.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "क्या?",
+      "start": 27.559,
+      "end": 27.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "प्लेटफार्म के रिलेटेड आपको कहां से पता चला?",
+      "start": 28.519,
+      "end": 30.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "जान सकते हैं हम।",
+      "start": 30.679,
+      "end": 33.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सॉरी।",
+      "start": 33.559,
+      "end": 34.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके आपके सिस्टर ने रेफर किया आपको।",
+      "start": 34.819,
+      "end": 38.18,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके उनका नंबर शेयर कर सकते हो।",
+      "start": 38.959,
+      "end": 41.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मुझे नंबर।",
+      "start": 41.759,
+      "end": 45.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_PHONE>।",
+      "start": 46.68,
+      "end": 56.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके, कोई भी क्वेरी क्वेश्चन रहते हैं तो आप हमें इस नंबर पर रिचार्ज कर सकते हो।",
+      "start": 56.899,
+      "end": 62.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> जी नाम है ना उनका?",
+      "start": 63.239,
+      "end": 64.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "राइट।",
+      "start": 65.5,
+      "end": 66.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके ओके तो एक मिनिट होल्ड कीजिएगा।",
+      "start": 66.04,
+      "end": 88.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "और कोई प्लान है सर और अमाउंट ऐड करने के लिए अभी तक।",
+      "start": 94.36,
+      "end": 98.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके ओके फाइन।",
+      "start": 99.5,
+      "end": 100.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सबके रिलेशनशिप मैनेजर है।",
+      "start": 101.099,
+      "end": 102.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "उनके थ्रू आपको मैसेज आ जाएगा।",
+      "start": 102.799,
+      "end": 105.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "उनके साथ कोऑर्डिनेट कर पाओगे।",
+      "start": 105.199,
+      "end": 107.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "उनका नाम ओके ठीक है।",
+      "start": 107.839,
+      "end": 111.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "थैंक यू।",
+      "start": 111.439,
+      "end": 115.359,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

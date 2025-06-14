@@ -1,0 +1,256 @@
+{
+  "segments": [
+    {
+      "text": "...",
+      "start": 0.459,
+      "end": 0.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you got the money?",
+      "start": 0.479,
+      "end": 0.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yeah.",
+      "start": 0.5,
+      "end": 0.5,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Hello?",
+      "start": 0.5,
+      "end": 0.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Hello.",
+      "start": 1.559,
+      "end": 2.34,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yeah, good afternoon, sir.",
+      "start": 2.659,
+      "end": 3.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "It's Dev.",
+      "start": 3.579,
+      "end": 3.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "What car do I get you?",
+      "start": 3.879,
+      "end": 4.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yes.",
+      "start": 6.799,
+      "end": 6.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yes, sir.",
+      "start": 7.079,
+      "end": 7.359,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Hallo?",
+      "start": 7.359,
+      "end": 7.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yes.",
+      "start": 8.539,
+      "end": 9.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yes, sir.",
+      "start": 9.159,
+      "end": 9.499,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yes, sir.",
+      "start": 9.519,
+      "end": 10.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yesterday, we had word with you, uh, like regarding the lending and everything.",
+      "start": 10.3,
+      "end": 14.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yes.",
+      "start": 15.319,
+      "end": 16.1,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yes, yes.",
+      "start": 16.1,
+      "end": 16.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yes, yes.",
+      "start": 16.479,
+      "end": 17.08,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "So, uh, you were, uh, like about to add amount, right?",
+      "start": 17.18,
+      "end": 20.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yeah.",
+      "start": 21.199,
+      "end": 21.54,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "You know, any credit?",
+      "start": 21.559,
+      "end": 22.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "I will do it today.",
+      "start": 22.539,
+      "end": 22.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay.",
+      "start": 23.18,
+      "end": 23.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "I will do it today first.",
+      "start": 23.619,
+      "end": 24.36,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay.",
+      "start": 24.42,
+      "end": 25.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Because not very well.",
+      "start": 25.059,
+      "end": 27.84,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay, okay, fine, fine.",
+      "start": 27.84,
+      "end": 28.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "No worries.",
+      "start": 28.959,
+      "end": 29.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yeah.",
+      "start": 29.879,
+      "end": 29.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "I love you so much.",
+      "start": 29.899,
+      "end": 29.94,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Let me know if you have any concerns, okay?",
+      "start": 29.94,
+      "end": 31.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay.",
+      "start": 31.779,
+      "end": 31.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay.",
+      "start": 31.799,
+      "end": 31.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "You can call me on this number, okay?",
+      "start": 31.819,
+      "end": 33.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay.",
+      "start": 34.119,
+      "end": 34.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yeah.",
+      "start": 34.599,
+      "end": 34.72,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay.",
+      "start": 35.0,
+      "end": 35.219,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "No worries.",
+      "start": 35.239,
+      "end": 35.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "No worries.",
+      "start": 35.759,
+      "end": 35.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Thank you.",
+      "start": 36.219,
+      "end": 36.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay.",
+      "start": 36.84,
+      "end": 37.24,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay.",
+      "start": 37.259,
+      "end": 37.759,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

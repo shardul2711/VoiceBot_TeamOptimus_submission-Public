@@ -1,0 +1,238 @@
+{
+  "segments": [
+    {
+      "text": "hello?",
+      "start": 0.759,
+      "end": 1.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 2.859,
+      "end": 3.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 4.219,
+      "end": 4.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "good afternoon, sir.",
+      "start": 5.039,
+      "end": 5.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> here from lending club, p2p lending.",
+      "start": 5.819,
+      "end": 8.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sorry, hello?",
+      "start": 11.079,
+      "end": 11.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello.",
+      "start": 11.84,
+      "end": 12.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "am i talking to mr.",
+      "start": 12.259,
+      "end": 13.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>?",
+      "start": 13.179,
+      "end": 13.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, this is him.",
+      "start": 14.519,
+      "end": 15.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "who is this?",
+      "start": 15.42,
+      "end": 16.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, this is <PII_NAME>.",
+      "start": 16.379,
+      "end": 17.34,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i'm calling you from lending club, p2p lending.",
+      "start": 17.359,
+      "end": 20.7,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you have started investments with lending club, right?",
+      "start": 21.0,
+      "end": 23.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, yeah, yes.",
+      "start": 25.399,
+      "end": 26.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes.",
+      "start": 26.359,
+      "end": 26.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, this is just a call in regards to the same.",
+      "start": 26.379,
+      "end": 28.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "like, do you have any query questions related to lending investment?",
+      "start": 28.459,
+      "end": 31.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sir, currently i am, uh, little busy, sir.",
+      "start": 33.759,
+      "end": 35.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "um-",
+      "start": 36.079,
+      "end": 36.38,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay",
+      "start": 36.419,
+      "end": 36.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "...",
+      "start": 36.659,
+      "end": 36.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "can you please connect, connect me, uh, evening, sir or call me-",
+      "start": 36.779,
+      "end": 40.14,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "evening, by what time can i arrange a call back for you?",
+      "start": 40.239,
+      "end": 42.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "maybe, uh, after 7, sir, after 7?",
+      "start": 43.819,
+      "end": 47.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "after 7?",
+      "start": 48.319,
+      "end": 49.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, i'll try their...",
+      "start": 49.139,
+      "end": 50.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 50.459,
+      "end": 50.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "in case if i am not available, you can reach me out on this number.",
+      "start": 50.5,
+      "end": 54.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure.",
+      "start": 54.039,
+      "end": 54.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 54.059,
+      "end": 54.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure, sure.",
+      "start": 54.459,
+      "end": 54.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "and save this number.",
+      "start": 54.899,
+      "end": 55.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure, sir.",
+      "start": 55.759,
+      "end": 55.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'm your relationship manager.",
+      "start": 55.779,
+      "end": 57.28,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure, sure.",
+      "start": 58.119,
+      "end": 58.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 58.619,
+      "end": 59.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 60.239,
+      "end": 60.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you, sir.",
+      "start": 60.279,
+      "end": 60.78,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "segments": [
+    {
+      "text": "Hello.",
+      "start": 0.579,
+      "end": 0.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Hello?",
+      "start": 1.319,
+      "end": 2.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Hello?",
+      "start": 2.799,
+      "end": 2.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Oh, he's just about a second.",
+      "start": 2.819,
+      "end": 5.219,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Hello?",
+      "start": 7.919,
+      "end": 8.32,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Hello?",
+      "start": 8.439,
+      "end": 8.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Can you call that?",
+      "start": 9.8,
+      "end": 10.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "She might get that.",
+      "start": 10.859,
+      "end": 11.66,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "But I learned in club.",
+      "start": 11.759,
+      "end": 12.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "See?",
+      "start": 12.84,
+      "end": 13.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "That's the battery.",
+      "start": 13.92,
+      "end": 15.499,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "In club.",
+      "start": 16.44,
+      "end": 17.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Wrong number.",
+      "start": 19.18,
+      "end": 20.299,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

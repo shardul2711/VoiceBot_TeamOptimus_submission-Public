@@ -1,0 +1,232 @@
+{
+  "segments": [
+    {
+      "text": "yes, hello.",
+      "start": 0.759,
+      "end": 1.12,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 1.719,
+      "end": 2.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, good afternoon.",
+      "start": 2.659,
+      "end": 3.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>, yes, from land's end club.",
+      "start": 3.419,
+      "end": 4.94,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sir, i have your number, so i called you.",
+      "start": 5.659,
+      "end": 7.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, tell me, sir.",
+      "start": 7.799,
+      "end": 9.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i am associated with your club as a lender.",
+      "start": 9.84,
+      "end": 13.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, sir, i have to change my account details.",
+      "start": 14.46,
+      "end": 16.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, so how can i do it, sir?",
+      "start": 17.84,
+      "end": 19.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure, sure.",
+      "start": 20.319,
+      "end": 20.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you can email me.",
+      "start": 21.1,
+      "end": 23.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, you will have to send a canceled check to the bank whose bank account you want to update.",
+      "start": 23.699,
+      "end": 29.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "canceled check or front page of passbook or front page of pen statement, you have to send it.",
+      "start": 29.879,
+      "end": 36.56,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, send it on email.",
+      "start": 36.579,
+      "end": 39.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, you can share it on email.",
+      "start": 39.119,
+      "end": 40.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "well, i'll put the canceled check, you immediately change my account.",
+      "start": 40.099,
+      "end": 44.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, okay, sure, sure.",
+      "start": 44.02,
+      "end": 46.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, sir, which support ad should i put on the london club?",
+      "start": 46.239,
+      "end": 48.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you can ask me directly.",
+      "start": 49.379,
+      "end": 50.94,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "please tell me your email.",
+      "start": 51.059,
+      "end": 53.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok, give me a minute, sir.",
+      "start": 53.799,
+      "end": 55.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "your whatsapp number is also there in whatsapp.",
+      "start": 55.599,
+      "end": 57.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes, of course, sir.",
+      "start": 57.719,
+      "end": 59.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok, ok.",
+      "start": 59.659,
+      "end": 60.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "look, send it.",
+      "start": 60.0,
+      "end": 90.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 90.699,
+      "end": 91.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 91.459,
+      "end": 92.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, sir, let me share my email id with you.",
+      "start": 92.22,
+      "end": 98.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 98.579,
+      "end": 98.82,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "then you email me, i will update your bank details.",
+      "start": 98.879,
+      "end": 102.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, you will get the reference from this number only, right?",
+      "start": 102.18,
+      "end": 105.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes, you will get it.",
+      "start": 106.54,
+      "end": 107.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok sir, i will put the detail.",
+      "start": 107.659,
+      "end": 107.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 107.659,
+      "end": 107.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, sir, will it happen today only, will it happen today only?",
+      "start": 107.659,
+      "end": 107.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, as soon as you share your details, your bank details will be updated.",
+      "start": 107.659,
+      "end": 115.72,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok sir, ok, i am doing it now, i am doing it now.",
+      "start": 115.72,
+      "end": 115.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 115.799,
+      "end": 119.159,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

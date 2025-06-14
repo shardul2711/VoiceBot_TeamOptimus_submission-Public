@@ -1,0 +1,34 @@
+{
+  "segments": [
+    {
+      "text": "Your call has been forwarded to voicemail.",
+      "start": 0.099,
+      "end": 2.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "The person you are trying to reach is not available.",
+      "start": 2.419,
+      "end": 5.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "At the tone, please record your message.",
+      "start": 5.299,
+      "end": 7.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "When you have finished recording, you may hang up.",
+      "start": 7.699,
+      "end": 9.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "[bell sounds]",
+      "start": 9.719,
+      "end": 12.98,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

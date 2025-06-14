@@ -1,0 +1,46 @@
+{
+  "segments": [
+    {
+      "text": "[overlapping dialogue] hello?",
+      "start": 0.079,
+      "end": 0.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello!",
+      "start": 0.719,
+      "end": 0.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, no, yes your account has been updated.",
+      "start": 1.079,
+      "end": 3.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "please check it once.",
+      "start": 3.559,
+      "end": 5.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, okay, i'll do it once and then message you back.",
+      "start": 9.3,
+      "end": 10.64,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, yeah, okay.",
+      "start": 10.659,
+      "end": 11.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 11.139,
+      "end": 11.259,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

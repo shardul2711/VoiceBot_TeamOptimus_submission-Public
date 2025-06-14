@@ -1,0 +1,58 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.639,
+      "end": 1.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 2.899,
+      "end": 3.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 3.72,
+      "end": 4.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "huh?",
+      "start": 4.299,
+      "end": 4.54,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "good afternoon.",
+      "start": 5.179,
+      "end": 6.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "good afternoon.",
+      "start": 6.099,
+      "end": 6.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "actually, the relationship manager.",
+      "start": 6.659,
+      "end": 10.94,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i'm not interested in talking right now.",
+      "start": 12.239,
+      "end": 20.28,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "actually, i registered on a platform-",
+      "start": 20.84,
+      "end": 22.239,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

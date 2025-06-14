@@ -1,0 +1,82 @@
+{
+  "segments": [
+    {
+      "text": "[परिचय ध्वनि] हैलो हैलो।",
+      "start": 0.099,
+      "end": 1.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां।",
+      "start": 1.919,
+      "end": 3.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी, गुड मॉर्निंग.",
+      "start": 3.039,
+      "end": 3.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> बात कर रहा।",
+      "start": 3.98,
+      "end": 4.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मैं लेनदेन क्लब से।",
+      "start": 4.799,
+      "end": 6.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "कहाँ से सर?",
+      "start": 7.239,
+      "end": 7.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "लेन देन क्लब से बात कर रहा है मैं।",
+      "start": 8.439,
+      "end": 11.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "लेनदेन क्लब अच्छा मैं बिजने में थोड़ी देर बाद बात कर लूंगा।",
+      "start": 11.279,
+      "end": 13.96,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मुझे कोई टाइम बता सकते हो।",
+      "start": 13.96,
+      "end": 14.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "वो टाइम पे कांटेक्ट कर देता हूं।",
+      "start": 14.979,
+      "end": 16.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "शाम को पांच बजे के बाद।",
+      "start": 16.1,
+      "end": 17.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ठीक है।",
+      "start": 17.539,
+      "end": 17.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां।",
+      "start": 18.979,
+      "end": 19.84,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

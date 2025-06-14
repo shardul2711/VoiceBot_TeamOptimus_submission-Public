@@ -1,0 +1,58 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 1.279,
+      "end": 1.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 2.359,
+      "end": 2.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हेलो।",
+      "start": 3.779,
+      "end": 4.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां जी, गुड आफ्टरनून।",
+      "start": 4.739,
+      "end": 5.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME> बात कर रहा हूं लेन देन क्लब से ।",
+      "start": 5.819,
+      "end": 7.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "जी।",
+      "start": 9.019,
+      "end": 10.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां जी, एक्चुअली मैं आपका रिलेशनशिप मैनेजर बात कर रहा हूं।",
+      "start": 10.119,
+      "end": 12.34,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अपने हमारे प्लेटफार्म पर कोई इन्वेस्टमेंट किया था ना पी टू पी लेन- अच्छा!",
+      "start": 12.359,
+      "end": 17.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके।",
+      "start": 19.219,
+      "end": 20.159,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

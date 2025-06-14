@@ -1,0 +1,46 @@
+{
+  "segments": [
+    {
+      "text": "hello, <PII_NAME>",
+      "start": 0.539,
+      "end": 3.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>?",
+      "start": 8.439,
+      "end": 9.6,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "sir i <PII_NAME> p2p lending,<PII_NAME>.",
+      "start": 9.6,
+      "end": 15.88,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>?",
+      "start": 15.88,
+      "end": 18.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 21.119,
+      "end": 22.2,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i <PII_NAME>, i <PII_NAME>, i <PII_NAME> a while.",
+      "start": 22.359,
+      "end": 25.779,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "okay, <PII_NAME>?",
+      "start": 25.779,
+      "end": 26.979,
+      "speaker_id": "speaker_2"
+    }
+  ]
+}

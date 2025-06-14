@@ -1,0 +1,1492 @@
+{
+  "segments": [
+    {
+      "text": "[background music] hello.",
+      "start": 0.079,
+      "end": 1.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello।",
+      "start": 1.519,
+      "end": 1.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "गुड आफ्टरनून, सर।",
+      "start": 2.679,
+      "end": 3.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> यहाँ से लिंक्डइन क्लब, पी टू पी लेंडिंग।",
+      "start": 3.299,
+      "end": 5.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "या <PII_NAME> यहाँ से।",
+      "start": 6.46,
+      "end": 7.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "या दिस इस <PII_NAME>, राइट?",
+      "start": 7.159,
+      "end": 9.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "यस।",
+      "start": 10.219,
+      "end": 10.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "यस, सर, यू हैव बी स्टार्टेड इन लेंडिंग विद लिंक्डइन क्लब?",
+      "start": 10.739,
+      "end": 13.92,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "करेक्ट।",
+      "start": 14.639,
+      "end": 15.18,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "या, मैंने।",
+      "start": 15.219,
+      "end": 16.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "डू यू हैव एनी क्वेरी क्वेश्चंस रिलेटेड टू लेंडिंग और इन्वेस्टमेंट?",
+      "start": 16.319,
+      "end": 19.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "एक डाउट है।",
+      "start": 20.939,
+      "end": 22.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अभी जो आप रेट ऑफ इंटरेस्ट दिखा रहे हैं।",
+      "start": 22.5,
+      "end": 24.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "वह पूरे साल का है या क्या है वो?",
+      "start": 25.26,
+      "end": 27.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "42-44 परसेंट रेट ऑफ इंटरेस्ट पूरे साल का है और आपको रिटर्न्स आते हैं।",
+      "start": 28.099,
+      "end": 32.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "एस पर द ईएमआई इस लाइक बोरोवर्स जो टेन्युर राहता है लोन टेन्युर।",
+      "start": 32.059,
+      "end": 35.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सो इफ लोन टेन्युर इस लाइक रेट ऑफ इंटरेस्ट, इस 40 परसेंट एंड लोन टेन्युर is फॉर सिक्स मंथ्स।",
+      "start": 36.439,
+      "end": 42.92,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सो यू विल रिसीव रिटर्न्स अप टू 20% ऑन दैट।",
+      "start": 42.939,
+      "end": 45.58,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "रिटर्न्स अप टू मतलब?",
+      "start": 46.299,
+      "end": 47.3,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "20% if द लोन is फॉर सिक्स मंथ्स।",
+      "start": 47.439,
+      "end": 49.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके तो इफ इट् इस मेंशन 40 परसेंट देन जो भी मंथली मेरे को ईएमआई का जो क्रेडिट होगा उसमें मुझे कितना मिलेगा फिर।",
+      "start": 50.979,
+      "end": 61.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "टेक एग्जांपल आप समझो ये किसी लोन में इन्वेस्ट कर रहे हो।",
+      "start": 61.759,
+      "end": 67.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके लेट्स assum मैंने दस लोन लिया है।",
+      "start": 67.479,
+      "end": 69.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हर एक का थाउजेंड थाउजेंड मैंने दिया है एंड ऑल रेट ऑफ इंटरेस्ट इस 40 परसेंट ओके तो मेरा मंथली ईएमआई अमाउंट जो मुझे क्रेडिट हो कितना होग?",
+      "start": 69.959,
+      "end": 80.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "सिक्स मंथ्स का लोन टेन्युर।",
+      "start": 81.039,
+      "end": 83.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "सिक्स मंथ्स का लोन टेन्युर में।",
+      "start": 83.939,
+      "end": 85.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां सो अलमोस्ट आपको लाइक ट्विल थाउजेंड रुपीज तक का आएगा।",
+      "start": 85.899,
+      "end": 92.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके?",
+      "start": 93.179,
+      "end": 93.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "पूरा मिलाकर।",
+      "start": 93.539,
+      "end": 94.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "पूरा मिलाकर।",
+      "start": 94.439,
+      "end": 95.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तो जिसमें आपका प्रिंसिपल भी है, इंटरेस्ट भी है।",
+      "start": 95.779,
+      "end": 98.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "बट आपको जो रिटर्न्स आएंगे वो मंथली बेसिस पर आएगा।",
+      "start": 98.859,
+      "end": 101.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "बोरोवर्स का ईएमआई रहता है तो ईएमआई के थ्रू पे करेंगे।",
+      "start": 101.759,
+      "end": 104.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तो हर बोरोवर अलग अलग डेट पर भी पे कर सकता है।",
+      "start": 105.259,
+      "end": 108.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आइडियली उनका ईएमआई ड्यू डेट फर्स्ट ऑफ एवरी मंथ रहता है।",
+      "start": 108.919,
+      "end": 111.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "इन केस अगर कोई बोरोवर जल्दी रिपेमेंट करता है तो वो जल्दी आ जाएगा।",
+      "start": 111.659,
+      "end": 115.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके?",
+      "start": 116.439,
+      "end": 116.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके।",
+      "start": 116.899,
+      "end": 119.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "सपोज बोरोवर पे नहीं करेगा तो?",
+      "start": 120.299,
+      "end": 122.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "इन केस अगर बोरोवर रिपेमेंट नहीं करते हैं तो हमारे पास हमारी कलेक्शन टीम इनप्लेस्ड है।",
+      "start": 122.279,
+      "end": 127.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सो कलेक्शन टीम लाइक एक तारीख को अगर किसी का ईएमआई नहीं आता है तो वेरी फ्रॉम सेकंड रिमाइंडर्स और फॉलो अप का काम स्टार्ट कर देते हैं।",
+      "start": 127.699,
+      "end": 136.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तो बोरोवर्स का जैसे रिपेमेंट फर्स्ट को हो जाता है तो जितने भी बोरोवर्स का पेंडिंग है उनको वह लोग कॉल करते हैं ताकि रिमाइंडर भी फॉरवर्ड करते हैं, ताकि हम उसका रिपेयरमेंट रिकवरी कर सकें।",
+      "start": 136.439,
+      "end": 150.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तो उसके उसके लिए हम कुछ चार्ज करते हैं इनको।",
+      "start": 150.579,
+      "end": 153.359,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "नहीं आपको कोई भी चार्ज नहीं रहेगा।",
+      "start": 153.779,
+      "end": 156.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आप मेरे को नहीं करोगे।",
+      "start": 156.239,
+      "end": 157.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "डिले करने के लिए वह बंदे को आप को चार्ज करते हो।",
+      "start": 158.419,
+      "end": 162.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "एडिशनल।",
+      "start": 162.279,
+      "end": 162.599,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "एडिशनल डिले चार्जेस अप्लिकेबल रहते हैं।",
+      "start": 162.719,
+      "end": 165.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "बट आप जैसे बोरोवर्स रिपेमेंट करेंगे आपको आपका प्रिंसिपल और इंटरेस्ट आ जाएगा।",
+      "start": 165.819,
+      "end": 171.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तो जो आप एडिशनल इंटरेस्ट उनसे लेते हो।",
+      "start": 172.079,
+      "end": 174.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "वो एडकर्विवस के लिए रहता है।",
+      "start": 174.579,
+      "end": 176.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके ओके अभी मेरे के मेरे मेरे को भी डिले हुआ ना उसको आप मुझे कंपनसेट नहीं करोगे कुछ भी।",
+      "start": 177.599,
+      "end": 184.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मेरे को फर्स्ट को आना था ना पैसा।",
+      "start": 184.719,
+      "end": 186.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "करेक्ट करेक्ट।",
+      "start": 186.479,
+      "end": 187.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आपने मुझे लेट दिया ना।",
+      "start": 187.699,
+      "end": 188.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "सर वो नहीं होता ना इसलिए।",
+      "start": 189.919,
+      "end": 191.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आइडियली आपको आपका प्रिंसिपल प्लस इंटरेस्ट दिया जाता है।",
+      "start": 191.399,
+      "end": 195.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आई नो आई एम आस्किंग हौ यू आर चार्जिंग थेम।",
+      "start": 195.139,
+      "end": 197.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आइडियली यू शुड अलसो गिव मी नो आई एम नॉट टेलिंग हंड्रेड परसेंट यू हैव टू गिव मी।",
+      "start": 198.919,
+      "end": 203.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "सम परसेंटेज यू शुड अलसो गिव मी राइट बिकॉज आई ऑल्सो रिसीव्ड इट लेट।",
+      "start": 203.599,
+      "end": 207.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "करेक्ट।",
+      "start": 207.819,
+      "end": 208.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आई कंप्लीटली अंडरस्टैंड बट देयर इज द टेन्युर लाइक एंड लाइक लास्ट ईएमआई ड्यू डेट तक भी बोरोवर का रिपेमेंट नहीं आता है तो देयर इज अनदर वन ट्वेंटी डेज का पीरियड व्हेयर वी एक्सपेक्ट के बोरोवर से रिपेमेंट आएगा।",
+      "start": 208.139,
+      "end": 220.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तो वहां तक अगर कोई भी रिपेमेंट आता है तो आपको आपका प्रिंसिपल इंटरेस्ट पूरा दिया जाता है आपको।",
+      "start": 221.399,
+      "end": 226.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "बट।",
+      "start": 226.599,
+      "end": 226.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "वन मंथ लेट दिया तो मेरे को वन मंथ लेट आएगा।",
+      "start": 227.499,
+      "end": 230.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "करेक्ट।",
+      "start": 230.359,
+      "end": 231.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सपोज उसने दिया ही नहीं है फिर?",
+      "start": 231.639,
+      "end": 233.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "इन केस अगर बोरोवर रिपेमेंट ही नहीं करता है तो लास्ट ईएमआई ड्यू डेट के बाद वी हैव वन ट्वेंटी डेज जिसमें हम कोशिश करते हैं बोरोवर से रिपेमेंट लेकर आने के लिए।",
+      "start": 233.299,
+      "end": 242.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अगर वहां पर भी वह पेमेंट नहीं करता है।",
+      "start": 242.599,
+      "end": 244.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "after 1 20 डेज दैट पर्टिकुलर लोन विल बी कंसीडर अस एनपीए।",
+      "start": 244.999,
+      "end": 248.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "देन?",
+      "start": 249.659,
+      "end": 249.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "देन, देन इट विल बी अः प्रिंसिपल लॉस एट दैट स्पॉट।",
+      "start": 250.219,
+      "end": 254.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सो वो...",
+      "start": 254.739,
+      "end": 255.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "फॉर मी, ऑल्सो आई विल ऑल्सो नॉट गेट एन अमाउंट।",
+      "start": 255.299,
+      "end": 257.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "करेक्ट।",
+      "start": 257.699,
+      "end": 258.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आई विल नॉट गेट इंटरेस्ट और आई विल नॉट गेट प्रिंसिपल एनीथिंग।",
+      "start": 259.239,
+      "end": 261.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "करेक्ट करेक्ट।",
+      "start": 261.639,
+      "end": 262.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "इट इज कंसीडर एस अ बैड डेट।",
+      "start": 262.199,
+      "end": 263.499,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके।",
+      "start": 265.079,
+      "end": 265.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आफ्टर वन ट्वेंटी डेज बट आइडियली इट डसंट हप्पंस बिकॉज ओवरऑल प्लैटफॉर्म एनपीआईज बिटवीन थ्री परसेंट, थ्री टू थ्री पॉइंट फाइव परसेंट एंड व्हेन यू डाइवर्सिफाई योर अमाउंट द रिस्क गेट्स मिटीगेटेड ओवर हियर लाइक व्हेन यू डाइवर्सिफाई लाइक वन वन थाउजेंड...",
+      "start": 265.479,
+      "end": 279.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "बट डोंट यू कॉम्पेंसेट एवं आ बिट ऑफ अमाउंट अलसो टू द लैंडर।",
+      "start": 279.619,
+      "end": 289.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "नो सर, एक्चुअली इट्स पीटीपी प्लैटफॉर्म राइट से व्हेनेवर बोरोवर में...",
+      "start": 289.399,
+      "end": 292.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आई अंडरस्टैंड इट्स पीटीपी प्लैटफॉमग बट आपको भी तो उसमें रहता है।",
+      "start": 292.939,
+      "end": 297.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "यू आर अलसो गेटिंग ए बेनिफिट।",
+      "start": 297.399,
+      "end": 298.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "यू आर आल्सो हैविंग मार्जिनल प्रॉफिट।",
+      "start": 299.739,
+      "end": 302.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "जब तक बॉरोबर्स के थ्रू कोई रिपेमेंट नहीं आता है वी आलसो डोंट अर्न बिकॉज वी डोंट चार्ज यू एनी प्लैटफॉर्म फीस एट द टाइम व्हेन यू लेंड द अमाउंट वी चार्ज यू प्लैटफॉर्म फीस व्हेन यू रिसीव योर रिटर्न्स राइट सो व्हेन बोरोवर्स विल मेक पेमेंट यू विल रिसीव योर रिटर्न्स प्लस द्वारा व्हाइल रिसीविंग रिटर्न्स देयर विल बी अ टू टू थ्री परसेंट ऑफ प्लैटफॉर्म फीस व्हिच विल बी डिडक्टेड फ्रॉम योर प्रिंसिपल अमाउंट।",
+      "start": 302.339,
+      "end": 326.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "वेल जस्ट चार्जेस व्हिच वी विल बी गेटिंग।",
+      "start": 327.159,
+      "end": 329.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सो इफ बोरोवर्स.....",
+      "start": 330.339,
+      "end": 330.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मेरेको आएगा 3 परसेंट उसमें आप टू परसेंट लोगे तो मेरे को एक परसेंट आएगा फिर।",
+      "start": 330.999,
+      "end": 336.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "नहीं नहीं नहीं आपका इंटरेस्ट अमाउंट आपको इंटरेस्ट आ रहा है राइट?",
+      "start": 336.879,
+      "end": 341.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां।",
+      "start": 341.699,
+      "end": 342.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हम इंटरेस्ट पर चार्ज नहीं कर रहे हैं।",
+      "start": 342.279,
+      "end": 343.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आपको आपके प्रिंसिपल पर टू टू थ्री परसेंट डिडक्टेड होता है।",
+      "start": 343.879,
+      "end": 347.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "पर each ईएमआई?",
+      "start": 348.759,
+      "end": 349.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां each ईएमआई बिकॉज़ ईच ईएमआई 1000 इफ यू हैव लेन्ड फॉर थ्री मंथ्स।",
+      "start": 351.079,
+      "end": 355.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "1000 का करेक्ट एक 1000 मुझे वापस आ रहा है।",
+      "start": 355.879,
+      "end": 359.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके एवरी मंथ।",
+      "start": 359.339,
+      "end": 360.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "लेट्स assume दैट 10000 आई हैव जीवन टू वन पर्सन।",
+      "start": 361.059,
+      "end": 363.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आई हैव जीवन फुल 10000 पूरा मैंने ही फंड किया एक बंदे का लोन को।",
+      "start": 363.859,
+      "end": 367.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "लेट्स assume हाइपॉथेटिकल सिचुएशन।",
+      "start": 367.699,
+      "end": 370.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "जनरली आप तीन चार लोगों को भी बोलते हो।",
+      "start": 370.259,
+      "end": 372.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "बट लेट्स assume आई हैव ओनली फंडेड फुल।...",
+      "start": 372.599,
+      "end": 376.23,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "10,000.",
+      "start": 376.23,
+      "end": 376.249,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, usne 10,000 ka loan liya- yes, sir ...",
+      "start": 376.249,
+      "end": 378.369,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "40% rate of interest hai.",
+      "start": 378.369,
+      "end": 380.049,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "theek hai?",
+      "start": 380.47,
+      "end": 380.829,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "aur usne kuch...",
+      "start": 380.829,
+      "end": 382.05,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "let's assume 10 months ka liya hai.",
+      "start": 382.05,
+      "end": 383.569,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct.",
+      "start": 383.869,
+      "end": 384.089,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "aur to make it easy 6,000 usne liya hai.",
+      "start": 384.669,
+      "end": 387.409,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hmm-hmm.",
+      "start": 387.669,
+      "end": 387.809,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "pura 6-month mein hi fund kiya hai.",
+      "start": 387.809,
+      "end": 389.41,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hmm-hmm.",
+      "start": 389.609,
+      "end": 389.689,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "6 months ka emi hai.",
+      "start": 389.769,
+      "end": 390.969,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 391.249,
+      "end": 391.629,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "and 40% ka yeh hai.",
+      "start": 391.669,
+      "end": 393.089,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct, sir.",
+      "start": 393.389,
+      "end": 394.049,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "toh every month, merko 1000 plus interest aayega.",
+      "start": 394.489,
+      "end": 397.649,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct?",
+      "start": 397.709,
+      "end": 398.089,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "aapko interest correct.",
+      "start": 400.909,
+      "end": 402.169,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haan.",
+      "start": 402.969,
+      "end": 403.329,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mereko 40% hai toh kitna aayega?",
+      "start": 403.35,
+      "end": 405.309,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeh aapka calculator hai kya aapke pass kuch?",
+      "start": 406.689,
+      "end": 408.749,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "check, sir.",
+      "start": 408.809,
+      "end": 409.069,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yahi situation ka.",
+      "start": 409.069,
+      "end": 410.05,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "64,000.",
+      "start": 412.329,
+      "end": 415.029,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "6000, 6 months emi, 40% rate of interest.",
+      "start": 415.029,
+      "end": 417.609,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so basically you will receive like 1400.",
+      "start": 424.829,
+      "end": 446.089,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "1,400.",
+      "start": 446.129,
+      "end": 447.369,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "[paper rustling] every month?",
+      "start": 447.369,
+      "end": 449.569,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "every month.",
+      "start": 449.649,
+      "end": 450.309,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "which will be including principal plus interest.",
+      "start": 450.649,
+      "end": 453.189,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 453.189,
+      "end": 453.329,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "haan.",
+      "start": 453.989,
+      "end": 454.309,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "toh how much you will charge me in that?",
+      "start": 454.489,
+      "end": 455.949,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "now 2 to 3% will be a platform fees.",
+      "start": 456.329,
+      "end": 459.209,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "let's assume 3%.",
+      "start": 459.529,
+      "end": 460.669,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "then?",
+      "start": 460.789,
+      "end": 461.049,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "3%.",
+      "start": 461.049,
+      "end": 461.149,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "kitna aayega phir?",
+      "start": 462.969,
+      "end": 463.849,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "30 rupees?",
+      "start": 466.349,
+      "end": 467.089,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "monthly 58.",
+      "start": 467.929,
+      "end": 468.949,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sorry, monthly kitna?",
+      "start": 469.949,
+      "end": 470.829,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_AMOUNT>",
+      "start": 470.889,
+      "end": 472.249,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_AMOUNT> rupees you will receive.",
+      "start": 472.409,
+      "end": 476.229,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 476.269,
+      "end": 476.749,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 476.949,
+      "end": 477.249,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "wahi almost sum amm...",
+      "start": 477.629,
+      "end": 479.209,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "40...",
+      "start": 479.469,
+      "end": 480.029,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "40 change rupee, right?",
+      "start": 480.089,
+      "end": 481.269,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 481.329,
+      "end": 481.509,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "40 rupees per month.",
+      "start": 481.509,
+      "end": 482.449,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct.",
+      "start": 482.609,
+      "end": 483.049,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 483.749,
+      "end": 484.109,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so mera jo 400 mere ko aa rahe hai usmein se 40 rupes...",
+      "start": 484.109,
+      "end": 487.809,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you are investing <PII_AMOUNT>, toh aapko almost 8...",
+      "start": 487.829,
+      "end": 489.669,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_AMOUNT> rupees aata hai.",
+      "start": 489.809,
+      "end": 491.789,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 492.629,
+      "end": 493.069,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "in 6 months of time.",
+      "start": 493.469,
+      "end": 494.589,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct?",
+      "start": 497.549,
+      "end": 497.989,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct.",
+      "start": 498.109,
+      "end": 498.649,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "theek hai.",
+      "start": 499.649,
+      "end": 500.249,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "understood.",
+      "start": 500.509,
+      "end": 501.169,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hmm.",
+      "start": 502.649,
+      "end": 503.029,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 503.189,
+      "end": 503.509,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "theek hai.",
+      "start": 503.749,
+      "end": 503.869,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "alright.",
+      "start": 503.869,
+      "end": 504.289,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "let me know if you have any queries, questions in future.",
+      "start": 504.489,
+      "end": 507.249,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "understand.",
+      "start": 507.309,
+      "end": 508.549,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ek loan ka pura funding main kar sakta hoon?",
+      "start": 508.569,
+      "end": 510.489,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "nahi, sir.",
+      "start": 510.909,
+      "end": 511.449,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "diversification is most important because ek hi loan mein agar aap samjho huge amount add kar dete ho.",
+      "start": 511.589,
+      "end": 517.609,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "haan.",
+      "start": 518.189,
+      "end": 518.469,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so basically as per p2p platform we don't suggest because you should diversify amount.",
+      "start": 518.469,
+      "end": 525.009,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ek hi loan mein agar agar wohi particular loan agar delay ya default main chala jaata hai.",
+      "start": 525.069,
+      "end": 529.089,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hmmm.",
+      "start": 529.729,
+      "end": 529.749,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so it will become a huge principal loss over there- umm-hmm ...",
+      "start": 529.749,
+      "end": 533.889,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so we always suggest you should diversify your amount.",
+      "start": 533.889,
+      "end": 536.309,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you could diversify five-five 100 in each loan like if you are lending 4,000 rupees- understood.",
+      "start": 536.589,
+      "end": 541.969,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "...",
+      "start": 541.969,
+      "end": 542.189,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that 4,000 can go to 4 person that can go to 8 person as well.",
+      "start": 542.189,
+      "end": 547.289,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "o-who...",
+      "start": 548.269,
+      "end": 549.069,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so when you...",
+      "start": 549.429,
+      "end": 549.749,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "who is the governing body for you?",
+      "start": 549.749,
+      "end": 551.489,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "rbi regulation.",
+      "start": 551.909,
+      "end": 552.909,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "rbi.",
+      "start": 552.969,
+      "end": 553.449,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "rbi only?",
+      "start": 554.009,
+      "end": 554.709,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 554.709,
+      "end": 555.029,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 556.149,
+      "end": 556.569,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you suppo...",
+      "start": 556.689,
+      "end": 557.569,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you submit any returns or documents?",
+      "start": 557.589,
+      "end": 559.829,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "to rbi?",
+      "start": 561.989,
+      "end": 562.029,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "we have a...",
+      "start": 562.049,
+      "end": 563.169,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, definitely and we are rbi compliant so there is every time rbi audits and everything is happening.",
+      "start": 563.289,
+      "end": 569.949,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and whatever loan people take from you, you do cibil and woh bhi report karte ho na?",
+      "start": 569.949,
+      "end": 574.629,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "woh bhi sari cheezein hum report karte hain.",
+      "start": 574.629,
+      "end": 576.429,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 577.589,
+      "end": 578.129,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 578.409,
+      "end": 578.429,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and whatever interest you are giving me- [clearing throat] hm-hm.",
+      "start": 578.449,
+      "end": 581.469,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "are you declaring it with the...",
+      "start": 581.789,
+      "end": 583.869,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "will you deduct any tds from it?",
+      "start": 584.829,
+      "end": 586.289,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "about...",
+      "start": 586.289,
+      "end": 586.309,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no-no-no, we don't deduct any tds.",
+      "start": 586.309,
+      "end": 588.369,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we provide you the entire interest with you.",
+      "start": 588.389,
+      "end": 591.049,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so...",
+      "start": 592.129,
+      "end": 592.249,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so there is no tds.",
+      "start": 592.249,
+      "end": 593.069,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so no.",
+      "start": 593.069,
+      "end": 593.529,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "at the...",
+      "start": 593.849,
+      "end": 594.269,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "by year end, like financial year end, we can provide you an interest certificate where you can uh...",
+      "start": 594.349,
+      "end": 600.449,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "which you can share it with your ca while closing your accounts and...",
+      "start": 601.029,
+      "end": 604.909,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so under which category this will come like...",
+      "start": 604.909,
+      "end": 607.469,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "other source.",
+      "start": 608.809,
+      "end": 609.329,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "other source, i understand.",
+      "start": 609.329,
+      "end": 610.129,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 610.129,
+      "end": 610.429,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "but woh bank interest jaisa aayega ya kaise aayega?",
+      "start": 610.849,
+      "end": 613.769,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "kaunse ise under aayega?",
+      "start": 613.769,
+      "end": 615.029,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i...",
+      "start": 616.689,
+      "end": 616.849,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "will i get the exemption under the interest ka jo hai na 10,000 tak mere ko exemption milta hai na?",
+      "start": 616.849,
+      "end": 622.129,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sir, yahan par exemption nahi hai.",
+      "start": 622.149,
+      "end": 624.049,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeh ideally as per rbi regulations aap reimburse karva sakte ho jab aap like-like whenever you show it in other source of income, you can definitely check it with your ca for this.",
+      "start": 624.129,
+      "end": 639.369,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "but what...",
+      "start": 641.009,
+      "end": 641.789,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "but see, if you are selling something, you should also tell the client that what is the taxable...",
+      "start": 642.029,
+      "end": 648.349,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "applicability on it.",
+      "start": 648.889,
+      "end": 649.929,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so tax-taxes are applicable for this, but we don't deduct any tax from here.",
+      "start": 650.729,
+      "end": 655.549,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "are you not liable to deduct the tax or you don't deduct the tax?",
+      "start": 656.769,
+      "end": 659.169,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "we don't deduct the tax from your interest.",
+      "start": 659.169,
+      "end": 661.409,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so you are saying you are not liable to deduct?",
+      "start": 663.269,
+      "end": 665.589,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "what's up?",
+      "start": 666.989,
+      "end": 667.489,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "as per rbi regulations, we cannot deduct the tax from your income, but we don't deduct here and...",
+      "start": 667.509,
+      "end": 673.889,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "do you file do you file the...",
+      "start": 673.989,
+      "end": 677.009,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "this thing against my pan in the income tax portal?",
+      "start": 677.289,
+      "end": 680.829,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no.",
+      "start": 682.829,
+      "end": 683.129,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you don't?",
+      "start": 684.469,
+      "end": 685.029,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no.",
+      "start": 685.489,
+      "end": 685.729,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 686.689,
+      "end": 687.089,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so you are...",
+      "start": 687.869,
+      "end": 688.309,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "whatever you give me, if i disclose, there is nothing.",
+      "start": 688.309,
+      "end": 691.089,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "there is no...",
+      "start": 691.409,
+      "end": 691.869,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "that's what you are telling?",
+      "start": 692.489,
+      "end": 693.329,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "if you...",
+      "start": 693.369,
+      "end": 693.389,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes, if you disclose it to your ca, it will be sho...",
+      "start": 693.469,
+      "end": 697.029,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "reflect under the other source of income for you.",
+      "start": 697.449,
+      "end": 699.969,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 700.629,
+      "end": 701.109,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 701.269,
+      "end": 701.609,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "understood.",
+      "start": 702.409,
+      "end": 703.109,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ok, great.",
+      "start": 704.329,
+      "end": 704.969,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 704.969,
+      "end": 705.689,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "bye.",
+      "start": 706.429,
+      "end": 706.749,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

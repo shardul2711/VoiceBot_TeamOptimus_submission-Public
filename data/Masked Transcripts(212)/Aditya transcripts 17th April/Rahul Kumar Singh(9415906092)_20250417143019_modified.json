@@ -1,0 +1,238 @@
+{
+  "segments": [
+    {
+      "text": "[background noise].",
+      "start": 0.099,
+      "end": 0.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हेलो।",
+      "start": 0.839,
+      "end": 0.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हेलो।",
+      "start": 0.979,
+      "end": 2.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "बोलिए।",
+      "start": 2.579,
+      "end": 3.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "जी नमस्कार सर, <PII_NAME> बात कर रहे हैं लिंक्डइन पर राहुल कुमार जी से बात हो रही है।",
+      "start": 3.299,
+      "end": 7.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां बोलते हैं।",
+      "start": 8.42,
+      "end": 9.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सर आपने लिंक्डइन में अकाउंट क्रिएट किया है।",
+      "start": 9.139,
+      "end": 11.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आप इन्वेस्टमेंट भी स्टार्ट किए हुए हैं।",
+      "start": 11.679,
+      "end": 13.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां।",
+      "start": 15.139,
+      "end": 15.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "रिलेटेड कॉल का कुछ क्वेरी क्वेश्चन से आपका इन्वेस्टमेंट के रिलेटेड।",
+      "start": 15.5,
+      "end": 19.099,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "नहीं नहीं।",
+      "start": 20.159,
+      "end": 20.92,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके।",
+      "start": 21.059,
+      "end": 21.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "इस्टर्न कर रहा था।",
+      "start": 21.459,
+      "end": 22.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मैं देख रहा था अभी भी।",
+      "start": 22.5,
+      "end": 23.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके ।",
+      "start": 23.719,
+      "end": 24.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हम्म।",
+      "start": 24.939,
+      "end": 25.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां।",
+      "start": 25.1,
+      "end": 25.42,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अ-जान सकते हैं प्लेटफार्म के बारे में कहां से पता चला।",
+      "start": 26.439,
+      "end": 29.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "यार यह तो नहीं पता मेरे को कहीं देखा था।",
+      "start": 31.179,
+      "end": 33.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मैं सोचा चलो ट्राई करते हैं।",
+      "start": 33.84,
+      "end": 35.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके, ओके।",
+      "start": 35.119,
+      "end": 35.9,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो अभी ट्रायल फेज पे ही है।",
+      "start": 35.919,
+      "end": 37.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके, ओके।",
+      "start": 37.36,
+      "end": 37.36,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अभी देखते हैं आगे क्या कर सकते हैं उसमें।",
+      "start": 37.36,
+      "end": 39.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ऑलराइट।",
+      "start": 39.119,
+      "end": 39.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अभी ऐसा कुछ क्वेश्चन अराइज नहीं हुई है।",
+      "start": 39.439,
+      "end": 41.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके।",
+      "start": 42.04,
+      "end": 42.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आगे अगर ज्यादा अमाउंट में डालते हैं तो ऐसा कुछ प्लान करते हैं तो फिर हो सकता है कि।",
+      "start": 42.319,
+      "end": 47.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "श्योर, श्योर।",
+      "start": 47.239,
+      "end": 47.68,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कोई बात कही।",
+      "start": 50.399,
+      "end": 50.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सो, बेसिकली यह नंबर सेव कर लीजिएगा।",
+      "start": 50.419,
+      "end": 52.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मेरा नाम आदित्य है आपका।",
+      "start": 52.739,
+      "end": 54.04,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "रिलेशनशिप प्रोजेक्टर हूं।",
+      "start": 54.059,
+      "end": 55.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अच्छा।",
+      "start": 55.419,
+      "end": 55.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "कोई भी क्वेरी, क्वेश्चन इन्वेस्टमेंट के रिलेटेड तो आपको मैं रिचाउट कर सकता है।",
+      "start": 55.439,
+      "end": 59.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके?",
+      "start": 59.959,
+      "end": 60.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "बिल्कुल।",
+      "start": 60.539,
+      "end": 61.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "थैंक यू।",
+      "start": 61.059,
+      "end": 62.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "थैंक यू।",
+      "start": 63.599,
+      "end": 75.36,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

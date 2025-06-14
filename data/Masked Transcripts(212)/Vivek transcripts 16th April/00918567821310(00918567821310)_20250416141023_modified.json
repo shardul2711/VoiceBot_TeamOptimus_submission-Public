@@ -1,0 +1,58 @@
+{
+  "segments": [
+    {
+      "text": "hello?",
+      "start": 0.419,
+      "end": 0.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, sir.",
+      "start": 1.079,
+      "end": 1.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, what's your account change?",
+      "start": 1.74,
+      "end": 2.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 3.139,
+      "end": 3.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what you got?",
+      "start": 3.359,
+      "end": 3.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "check it out.",
+      "start": 3.379,
+      "end": 4.42,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i'll check it out.",
+      "start": 4.42,
+      "end": 5.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 5.699,
+      "end": 6.08,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 6.099,
+      "end": 6.499,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}
