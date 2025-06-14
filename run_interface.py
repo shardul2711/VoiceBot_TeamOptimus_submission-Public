@@ -1,17 +1,19 @@
 import os
-import streamlit as st
+import pandas as pd
+from dotenv import load_dotenv
 from modules.vector import initialize_vector_db_for_session
 from langchain_ollama import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
-from modules.supabase_client import save_conversation, get_conversation_history
-from modules.asr_module import listen_to_user, speak_text
 
+# Load .env variables
+load_dotenv()
+
+# Load Ollama model
 model = OllamaLLM(model="llama3.2")
 
-st.session_state.setdefault("session_id", "session_1")
-
+# Initialize your prompt
 prompt_template = """
-You are a "Relationship Manager" named Satyajit working at Lenden Club, you are trained to support users with Lenden Club related queries , AND NOTHING ELSE. Lenden Club is a peer-to-peer (P2P) lending platforms. Your job is to help with the following three tasks for LenDenClub Customers, India's largest P2P lending platform.
+You are a "Relationship Manager" named Satyajit working at Lenden Club, you are trained to support users with Lenden Club related queries , AND NOTHING ELSE. Lenden Club is a peer-to-peer (P2P) lending platform. Your job is to help with the following three tasks for LenDenClub Customers, India's largest P2P lending platform.
 
 When responding to queries about P2P lending or LenDenClub, always follow these guidelines:
 
@@ -54,95 +56,32 @@ Relevant Documents:
 User Query:
 {question}
 """
+
 prompt = ChatPromptTemplate.from_template(prompt_template)
+chain = prompt | model
 
-def get_next_session_id(context_root="Context"):
-    os.makedirs(context_root, exist_ok=True)
-    existing = [d for d in os.listdir(context_root) if d.startswith("session_")]
-    nums = [int(d.split("_")[1]) for d in existing if d.split("_")[1].isdigit()]
-    next_id = max(nums, default=0) + 1
-    return f"session_{next_id}"
+# Load session context
+SESSION_ID = "session_1"
+retriever = initialize_vector_db_for_session(SESSION_ID)
 
-def list_sessions(context_root="Context"):
-    return sorted([d for d in os.listdir(context_root) if d.startswith("session_")])
+# Load the test CSV
+df = pd.read_csv("Tests/test1.csv")
+responses = []
 
-def save_uploaded_files(files, session_id):
-    upload_path = f"Context/{session_id}/docs"
-    os.makedirs(upload_path, exist_ok=True)
-    for file in files:
-        with open(os.path.join(upload_path, file.name), "wb") as f:
-            f.write(file.read())
+print("📥 Processing test.csv questions...")
+for idx, row in df.iterrows():
+    question = row['Questions']
+    docs = retriever.invoke(question)
+    combined_docs = "\n\n".join([doc.page_content for doc in docs])
 
-st.set_page_config(page_title="LenDenClub Relationship Manager")
-st.title("🤝 LenDenClub Relationship Manager")
+    response = chain.invoke({
+        "context": combined_docs,
+        "question": question
+    })
 
-session_mode = st.radio("Choose Session Mode", ["Use Existing Session", "Create New Session"])
+    responses.append(str(response))
 
-if session_mode == "Use Existing Session":
-    sessions = list_sessions()
-    if not sessions:
-        st.warning("No existing sessions found. Please create a new one.")
-    else:
-        selected_session = st.selectbox("Select a session", sessions)
-        if st.button("Load Session"):
-            st.session_state["session_id"] = selected_session
-            st.session_state["retriever"] = initialize_vector_db_for_session(selected_session)
-
-elif session_mode == "Create New Session":
-    uploaded_files = st.file_uploader("Upload context files (PDF, CSV, DOCX)", type=["pdf", "csv", "docx"], accept_multiple_files=True)
-
-    if uploaded_files:
-        if st.button("Create Session"):
-            new_session_id = get_next_session_id()
-            save_uploaded_files(uploaded_files, new_session_id)
-            st.session_state["session_id"] = new_session_id
-            st.session_state["retriever"] = initialize_vector_db_for_session(new_session_id)
-            st.success(f"Session `{new_session_id}` created and loaded!")
-
-# Show chat history
-st.markdown("### 🕘 Previous Chat History")
-chat_history = get_conversation_history(st.session_state["session_id"])
-
-if chat_history:
-    for chat in chat_history:
-        st.markdown(f"**🧑 You:** {chat['user_query']}")
-        st.markdown(f"**🤖 Bot:** {chat['bot_response']}")
-        st.markdown("---")
-else:
-    st.info("No previous chats in this session.")
-
-# Chat Interface
-if "retriever" in st.session_state:
-    st.subheader(f"💬 Chat for {st.session_state['session_id']}")
-    chat_mode = st.radio("Choose Input Mode", ["Text", "Voice"])
-
-    if chat_mode == "Text":
-        user_input = st.text_input("Ask a question about P2P Lending / LenDenClub")
-        if user_input:
-            docs = st.session_state["retriever"].invoke(user_input)
-            combined_docs = "\n\n".join([doc.page_content for doc in docs])
-            chain = prompt | model
-            response = chain.invoke({"context": combined_docs, "question": user_input})
-            st.markdown("**Response:**")
-            st.write(response)
-            save_conversation(st.session_state["session_id"], user_input, str(response))
-
-    elif chat_mode == "Voice":
-        if st.button("🎤 Start Voice Conversation"):
-            user_input = listen_to_user()
-            if user_input:
-                st.markdown(f"**🧑 You said:** {user_input}")  # 👈 This line shows what the user said
-
-                docs = st.session_state["retriever"].invoke(user_input)
-                combined_docs = "\n\n".join([doc.page_content for doc in docs])
-                chain = prompt | model
-                response = chain.invoke({"context": combined_docs, "question": user_input})
-
-                st.markdown("**🤖 Response:**")
-                st.write(response)
-
-                speak_text(str(response))
-                save_conversation(st.session_state["session_id"], user_input, str(response))
-            else:
-                st.warning("Sorry, could not recognize your voice.")
-
+# Save to output
+df['Responses'] = responses
+df.to_csv("test1_with_responses.csv", index=False)
+print("✅ Responses saved to test_with_responses.csv")
