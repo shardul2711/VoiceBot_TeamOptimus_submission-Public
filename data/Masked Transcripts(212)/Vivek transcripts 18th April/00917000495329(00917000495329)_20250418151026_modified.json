@@ -1,0 +1,190 @@
+{
+  "segments": [
+    {
+      "text": "yes sir, i was asking that the 1 who has a daily installment plan, right sir?",
+      "start": 3.179,
+      "end": 6.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, what is there in it, sir, the 1 who is speaking makes payment to us daily.",
+      "start": 7.319,
+      "end": 15.26,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, daily payment means for example, yesterday evening, if any loan is fulfilled for the borrower.",
+      "start": 15.26,
+      "end": 20.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so that sir will start crediting from today evening means in the next day evening or the day after that.",
+      "start": 21.76,
+      "end": 25.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "your repayment will mostly start from the next week.",
+      "start": 26.599,
+      "end": 30.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "well, from the next week, yes, it will start from the next week, then from there we will make the payment on a daily basis.",
+      "start": 30.039,
+      "end": 37.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "well, well, okay, that first means that your app transfers the payment and then you pay according to that, right?",
+      "start": 37.399,
+      "end": 45.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "correct.",
+      "start": 45.68,
+      "end": 47.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "exactly yes.",
+      "start": 47.059,
+      "end": 48.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so after 7 days, does it remain continuous or does it become week wise after that, sir?",
+      "start": 48.52,
+      "end": 53.88,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, no, by the way, most of the borrowers make their payments on a daily basis.",
+      "start": 54.199,
+      "end": 59.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 59.819,
+      "end": 60.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, let's pay on a daily basis.",
+      "start": 62.039,
+      "end": 66.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "well, after that, it gets adjusted automatically on a daily basis.",
+      "start": 66.459,
+      "end": 68.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 69.439,
+      "end": 69.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "meaning that it takes 7 days for the first transaction to be completed.",
+      "start": 69.679,
+      "end": 71.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, basically not the first transaction because our disbursement period is 1 week.",
+      "start": 71.679,
+      "end": 78.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "within 1 week we disburse that loan, so okay lump sum, i had seen sir, what is there in that for me, after adding the amount in lump sum, what has to come in it that we have to select the criteria in it.",
+      "start": 78.379,
+      "end": 96.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i have to say which borrowers i want to give money to.",
+      "start": 96.379,
+      "end": 96.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i did not like that a little, so basically there you simply if you want to diversify your portfolio properly, then there you can simply select all preferences, so how was it in that case?",
+      "start": 96.399,
+      "end": 107.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that there we check the complete detail financial report of the borrower and then give you the loan.",
+      "start": 107.259,
+      "end": 107.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so then in the manual lending, someone writes that i am salaried and he has written that my salary is <PII_SALARY>, so sir, will you go and verify it manually or sir, online, basically what happens in that, understand that for example, if someone applies for salary design, then there we ask for the details of their salary account, okay with them, then there, as if someone puts the details of salary account of icici bank.",
+      "start": 107.259,
+      "end": 107.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so there again our system automatically checks that the company they had mentioned, from that company, for how long, how much salary is coming, then it automatically fetches all those things from the bank, okay yes means manually all the things are not there here.",
+      "start": 107.259,
+      "end": 107.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "all the things happen automatically but we have tied up with banks and financial institutes with ckyc, so from there we directly fetch the details of their borrowers.",
+      "start": 107.259,
+      "end": 107.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for example, i entered my bank that i am an sbi lender, so you mean i came to you.",
+      "start": 107.259,
+      "end": 107.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you have taken consent from me, of course, obviously, you mean my entire data will be available to you.",
+      "start": 107.259,
+      "end": 107.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "basically, we check for verification purpose, do not store the data but check for verification purpose, that is fine, that is fine.",
+      "start": 107.259,
+      "end": 107.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for example, suppose i am a lender, so you don't have any problem, brother, the person in front is giving the money, the problem is when he is taking it and after that can he return or not, basically we have to check that, yes.",
+      "start": 107.259,
+      "end": 107.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so i was talking about the borrower, let's check the complete financial report of the borrower in detail and how many months do you check the transaction?",
+      "start": 107.259,
+      "end": 114.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sir, for salary, it depends sir, if he switches multiple times, then how long has he been jobbing there?",
+      "start": 114.519,
+      "end": 221.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "minimum 1 year, 2 years, by the way, okay sir, call sir, thank you for telling sir, okay.",
+      "start": 221.599,
+      "end": 231.939,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

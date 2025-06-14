@@ -1,0 +1,136 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.919,
+      "end": 1.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello, <PII_NAME>.",
+      "start": 2.7,
+      "end": 3.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 4.38,
+      "end": 5.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i don't <PII_NAME>.",
+      "start": 5.839,
+      "end": 5.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello?",
+      "start": 7.739,
+      "end": 8.099,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 8.659,
+      "end": 10.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>, i'm <PII_NAME>'s <PII_NAME>.",
+      "start": 10.899,
+      "end": 13.34,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>?",
+      "start": 13.92,
+      "end": 15.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "actually, <PII_NAME>, <PII_NAME>.",
+      "start": 17.239,
+      "end": 20.7,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i mean, <PII_NAME>.",
+      "start": 21.52,
+      "end": 23.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> a <PII_NAME>.",
+      "start": 24.059,
+      "end": 29.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 30.059,
+      "end": 30.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 30.079,
+      "end": 35.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 36.68,
+      "end": 38.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>?",
+      "start": 38.779,
+      "end": 42.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> i <PII_NAME>.",
+      "start": 43.02,
+      "end": 45.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i <PII_NAME>'s okay.",
+      "start": 45.799,
+      "end": 48.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, sir.",
+      "start": 48.979,
+      "end": 49.68,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 49.68,
+      "end": 50.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 50.119,
+      "end": 50.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 50.68,
+      "end": 51.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 51.36,
+      "end": 51.839,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

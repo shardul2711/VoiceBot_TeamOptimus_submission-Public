@@ -1,0 +1,352 @@
+{
+  "segments": [
+    {
+      "text": "[background noise].",
+      "start": 0.099,
+      "end": 0.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हैलो।",
+      "start": 0.819,
+      "end": 1.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हेलो।",
+      "start": 2.079,
+      "end": 2.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां जी गुड मॉर्निंग सर।",
+      "start": 3.099,
+      "end": 4.38,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां गुड मॉर्निंग।",
+      "start": 4.4,
+      "end": 5.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां जी बताइए।",
+      "start": 5.639,
+      "end": 6.599,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां!",
+      "start": 7.599,
+      "end": 7.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मैसेज किया था।",
+      "start": 8.079,
+      "end": 9.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "नहीं मैंने तो आपको जैसे कि मैसेज किया था कुछ।",
+      "start": 9.519,
+      "end": 12.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कैसी चल रही है आपकी?",
+      "start": 12.659,
+      "end": 13.4,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "क्या क्या?",
+      "start": 14.659,
+      "end": 15.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आवाज नहीं आ रहा है।",
+      "start": 15.359,
+      "end": 16.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मैं बता रहा हूं।",
+      "start": 16.859,
+      "end": 17.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मैंने तो आपको खाली सर्विस कॉल किया था।",
+      "start": 17.539,
+      "end": 19.52,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो कैसी चल रही है?",
+      "start": 19.539,
+      "end": 20.44,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मैसेज किया था कैसी चल रही है आपकी।",
+      "start": 20.539,
+      "end": 22.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "इन्वेस्टमेंट वगैरा।",
+      "start": 22.059,
+      "end": 22.78,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "उसके रिगार्डिंग।",
+      "start": 22.799,
+      "end": 23.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मैं तो कर रहा हूँ।",
+      "start": 24.18,
+      "end": 25.12,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हर रोज सेवेन टु फाइव कर रहा हूँ।",
+      "start": 25.519,
+      "end": 27.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अच्छा ठीक है, ठीक है।",
+      "start": 27.479,
+      "end": 28.42,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अभी क्या कैशबैक चल रहा है क्या ऊपर?",
+      "start": 30.239,
+      "end": 33.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "नहीं सर, फिलहाल तो कोई कैशबैक नहीं चल रहा है।",
+      "start": 34.719,
+      "end": 37.42,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "और यह उसका जो वह जो पीयूष बनसल ने हां।",
+      "start": 38.779,
+      "end": 44.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां, वह जो वह क्या प्रोडक्ट मैनेजर है ना।",
+      "start": 44.719,
+      "end": 47.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां जी।",
+      "start": 48.059,
+      "end": 49.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां, वह मेरे को मैसेज किया था कि आपका कैसे चल रहा है।",
+      "start": 49.099,
+      "end": 51.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "फीडबैक के लिए मैसेज किया था।",
+      "start": 51.939,
+      "end": 53.34,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मैं बोला था कि वह पोर्टफोलियो का जो हेल्प ऑप्शन है, पोर्टफोलियो हेल्प ऑप्शन कमिंग सून दिखा रहा है।",
+      "start": 53.34,
+      "end": 59.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "वह बोल रहे थे कि दिखाएगा बाद में दिखाएगा।",
+      "start": 60.0,
+      "end": 63.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अभी चल रहा है।",
+      "start": 63.52,
+      "end": 64.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "क्या अपडेट चल रहा है?",
+      "start": 64.119,
+      "end": 64.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "क्या हां जी हां जी।",
+      "start": 64.919,
+      "end": 66.18,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अपडेट चल रहा है अपडेट।",
+      "start": 66.199,
+      "end": 67.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "वह क्या?",
+      "start": 69.76,
+      "end": 71.66,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "वह मतलब वह क्या है कि वहीं पर काम करते हैं कि काम पर काम करते हैं।",
+      "start": 73.159,
+      "end": 79.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "नहीं नहीं वो हमारे ऑफिस में काम करते हैं।",
+      "start": 79.979,
+      "end": 82.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "काम पर?",
+      "start": 83.119,
+      "end": 83.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हमारे हमारे साथ ही काम करते होगे।",
+      "start": 83.779,
+      "end": 85.98,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां हां हां।",
+      "start": 86.0,
+      "end": 86.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "नहीं वोही मुंबई में।",
+      "start": 87.939,
+      "end": 90.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां जी।",
+      "start": 90.839,
+      "end": 92.019,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां हां हां।",
+      "start": 92.04,
+      "end": 93.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "और जो वह आपका जो सीईओ क्या है उनका कुछ पोर्टल क्या नाम है।",
+      "start": 95.459,
+      "end": 103.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>",
+      "start": 103.399,
+      "end": 104.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां, हां <PII_NAME> वो भी वहीं पर काम करते हैं।",
+      "start": 104.759,
+      "end": 108.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां जी।",
+      "start": 108.079,
+      "end": 109.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आपका टोटल टू फिफ्टी मेंबर है।",
+      "start": 110.54,
+      "end": 114.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ज्यादा है सर।",
+      "start": 114.399,
+      "end": 115.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ज्यादा है?",
+      "start": 116.059,
+      "end": 116.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां जी।",
+      "start": 116.779,
+      "end": 117.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मैं वो एक पॉडकास्ट में बोल रहे थे ना।",
+      "start": 117.86,
+      "end": 121.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "टू फिफ्टी मेंबर नहीं।",
+      "start": 121.379,
+      "end": 122.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "नहीं नहीं ज्यादा है सर।",
+      "start": 122.519,
+      "end": 123.499,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आपने पहले का देखा होगा इंटरव्यू!",
+      "start": 123.68,
+      "end": 125.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां हां हां।",
+      "start": 125.899,
+      "end": 128.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ठीक है <PII_NAME>!",
+      "start": 129.36,
+      "end": 130.02,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां हां और यह।",
+      "start": 130.599,
+      "end": 133.119,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

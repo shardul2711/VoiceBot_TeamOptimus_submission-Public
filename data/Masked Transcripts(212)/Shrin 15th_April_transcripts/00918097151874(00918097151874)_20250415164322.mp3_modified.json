@@ -1,0 +1,52 @@
+{
+  "segments": [
+    {
+      "text": "हैलो!",
+      "start": 0.439,
+      "end": 1.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हांजी।",
+      "start": 2.099,
+      "end": 2.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी।",
+      "start": 2.879,
+      "end": 2.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां जी।",
+      "start": 2.899,
+      "end": 3.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सॉरी एक्चुअली वो <PII_NAME> थे जो मैंने अभी लास्ट आपको नंबर बताया।",
+      "start": 3.139,
+      "end": 7.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "वो कोई और यूजर है।",
+      "start": 8.039,
+      "end": 9.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "उनका भी स्टार्ट नेम मनोज रहे इसलिए मैं कन्फ्यूज हो गई।",
+      "start": 9.319,
+      "end": 12.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "चलिए अब मैंने सेव कर लिया तो आपका नंबर सर ओके।",
+      "start": 12.019,
+      "end": 16.799,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

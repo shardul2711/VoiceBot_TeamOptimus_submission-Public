@@ -1,0 +1,106 @@
+{
+  "segments": [
+    {
+      "text": "Hello.",
+      "start": 0.599,
+      "end": 1.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Hello.",
+      "start": 2.099,
+      "end": 2.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Uh, good evening, ma'am.",
+      "start": 2.939,
+      "end": 3.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> here from Lending Club P2P lending.",
+      "start": 3.839,
+      "end": 6.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "...",
+      "start": 6.1,
+      "end": 6.4,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "This is Aditya from Lending Club.",
+      "start": 7.139,
+      "end": 9.979,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "Which language?",
+      "start": 9.979,
+      "end": 10.739,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "English?",
+      "start": 10.739,
+      "end": 11.079,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "Hindi?",
+      "start": 11.119,
+      "end": 11.56,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "English.",
+      "start": 13.179,
+      "end": 13.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay.",
+      "start": 14.139,
+      "end": 14.579,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "Ma'am, you have started investments- investments with Lending Club, right?",
+      "start": 14.92,
+      "end": 18.419,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "Okay.",
+      "start": 19.84,
+      "end": 20.28,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yeah, this call in regards to the same.",
+      "start": 20.379,
+      "end": 22.319,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "Like, do you have any query questions related to investments?",
+      "start": 22.319,
+      "end": 25.579,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "One second, one second.",
+      "start": 27.799,
+      "end": 28.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yeah.",
+      "start": 28.959,
+      "end": 29.239,
+      "speaker_id": "speaker_2"
+    }
+  ]
+}

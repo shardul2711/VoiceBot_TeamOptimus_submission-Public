@@ -1,0 +1,148 @@
+{
+  "segments": [
+    {
+      "text": "hello, hello, hello.",
+      "start": 1.199,
+      "end": 5.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> बात कर रहा हूं लेनदेन का।",
+      "start": 5.96,
+      "end": 9.359,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कहां से?",
+      "start": 9.359,
+      "end": 10.54,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "लेन देन क्लब से बात कर रहा हूं।",
+      "start": 11.199,
+      "end": 13.46,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "जी बोल रहे हैं।",
+      "start": 13.579,
+      "end": 14.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मैं आपका रिलेशनशिप मैनेजर बात कर रहा हूं।",
+      "start": 15.079,
+      "end": 16.92,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अपने हमारे प्लेटफार्म पर जो इन्वेस्टमेंट किया था ना पीटीडी में।",
+      "start": 16.92,
+      "end": 20.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "जी।",
+      "start": 20.799,
+      "end": 21.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "उसे रिगार्डिंग कॉल कर रहा था।",
+      "start": 21.779,
+      "end": 23.6,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "जी बताइए।",
+      "start": 23.68,
+      "end": 24.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां जी जस्ट वॉन्टेड टेन आपको उसमें कुछ क्वेरीज वगैरा है।",
+      "start": 24.659,
+      "end": 27.42,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "शायद ये पूछना था।",
+      "start": 27.42,
+      "end": 28.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "समझिए।",
+      "start": 28.42,
+      "end": 29.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "नहीं कोई क्वेरी वगैरा कुछ नहीं है।",
+      "start": 29.779,
+      "end": 31.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सर जो मैंने किया रिटर्न का ऐसा अमाउंट का विड्रोल करना है।",
+      "start": 31.559,
+      "end": 35.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सॉरी क्या बता रहे हो?",
+      "start": 37.479,
+      "end": 38.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ये करना चाहूंगा।",
+      "start": 40.819,
+      "end": 42.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अच्छा नहीं आपकी वॉइस रिकॉर्ड ही नहीं चाहिए।",
+      "start": 42.279,
+      "end": 51.0,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "नहीं चाहिए सर।",
+      "start": 52.899,
+      "end": 53.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "नहीं समझ पा रहा आप क्या बता रहे हो।",
+      "start": 54.819,
+      "end": 57.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अरे कुछ जानकारी नहीं चाहिए।",
+      "start": 58.059,
+      "end": 59.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ठीक है ना।",
+      "start": 59.719,
+      "end": 60.0,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मेन वाली नंबर सेव कर के रखिए।",
+      "start": 60.319,
+      "end": 61.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कुछ डाउट हो गया था तो फोन पे कॉल कर ठीक हूं।",
+      "start": 61.939,
+      "end": 65.76,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

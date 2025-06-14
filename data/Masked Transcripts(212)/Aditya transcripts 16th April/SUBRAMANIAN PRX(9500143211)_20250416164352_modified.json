@@ -1,0 +1,124 @@
+{
+  "segments": [
+    {
+      "text": "हैलो।",
+      "start": 0.239,
+      "end": 1.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हैलो।",
+      "start": 1.199,
+      "end": 2.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "सुनना।",
+      "start": 2.159,
+      "end": 2.88,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सर, आई एम कॉलिंग फ्रॉम लेंडन क्लब।",
+      "start": 2.899,
+      "end": 4.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "पे टू पे लैंड्रिंग।",
+      "start": 4.859,
+      "end": 6.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मिस्टर <PII_NAME>, राइट?",
+      "start": 7.099,
+      "end": 8.96,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आमा ।",
+      "start": 9.42,
+      "end": 9.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "या।",
+      "start": 10.479,
+      "end": 11.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "इज योर गुड टाइम स्पीक टु यू?",
+      "start": 11.199,
+      "end": 12.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "एंगार से कॉल कर रहे हो?",
+      "start": 13.559,
+      "end": 14.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सर व्हिच लैंग्वेज यू आर कम्फर्टेबल?",
+      "start": 15.059,
+      "end": 16.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तमिल।",
+      "start": 17.739,
+      "end": 18.54,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तमिल ओके इंग्लिश।",
+      "start": 18.559,
+      "end": 21.28,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हिंदी सर।",
+      "start": 21.299,
+      "end": 22.0,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "वेयर ए यू कॉलिंग फ्रॉम?",
+      "start": 23.139,
+      "end": 24.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आई एम कॉलिंग फ्रॉम लेनदेन क्लब पी टू पी लैंडिंग।",
+      "start": 24.359,
+      "end": 27.18,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके।",
+      "start": 28.039,
+      "end": 28.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "एक्चुअली आई एम बिजी राइट नाउ सर।",
+      "start": 28.359,
+      "end": 29.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "प्लीज कॉल मी टुमारो मॉर्निंग।",
+      "start": 29.899,
+      "end": 31.26,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके श्यूर थैंक यू।",
+      "start": 31.299,
+      "end": 35.68,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

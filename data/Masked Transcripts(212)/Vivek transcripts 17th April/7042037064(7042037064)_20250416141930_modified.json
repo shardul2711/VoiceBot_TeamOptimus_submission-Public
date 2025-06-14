@@ -1,0 +1,64 @@
+{
+  "segments": [
+    {
+      "text": "[background noise].",
+      "start": 0.0,
+      "end": 1.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हैलो।",
+      "start": 1.279,
+      "end": 2.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हेलो।",
+      "start": 2.819,
+      "end": 3.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "गुड आफ्टरनून।",
+      "start": 4.239,
+      "end": 4.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "बात कर रहा हूं मैं लेनदेन क्लब से।",
+      "start": 4.88,
+      "end": 7.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कहां से?",
+      "start": 8.539,
+      "end": 8.9,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "लेनदेन क्लब से बात कर रहा हूं।",
+      "start": 9.719,
+      "end": 12.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आपने हमारे प्लेटफार्म पर इन्वेस्टमेंट किया था ना।",
+      "start": 12.519,
+      "end": 16.12,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "उसे रिगार्डिंग कॉल कर रहा हूं।",
+      "start": 16.199,
+      "end": 20.92,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "वैसे आपको उसमें कुछ क्वेरीज वगैरा है ऐसा जो पूछना था, समझ में नहीं आ रहा था।",
+      "start": 21.539,
+      "end": 33.119,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "segments": [
+    {
+      "text": "[background noise].",
+      "start": 0.079,
+      "end": 0.34,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 0.34,
+      "end": 0.78,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, hello.",
+      "start": 3.099,
+      "end": 3.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां जी गुड आफ्टरनून।",
+      "start": 5.5,
+      "end": 6.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME> बात कर रहा हूं मैं लीन देन क्लास के साथ।",
+      "start": 6.559,
+      "end": 9.26,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां बताइए सर।",
+      "start": 9.3,
+      "end": 10.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी, एक्चुअली आप कुछ पूछ रहे थे।",
+      "start": 10.319,
+      "end": 11.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मैं बोल रहे थे ना वो टेन ईयर के बारे में।",
+      "start": 11.899,
+      "end": 15.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "नहीं नहीं इनफॉरमेशन ली थी थाना।",
+      "start": 15.579,
+      "end": 17.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मैं बस बोल रहा हूं कि वो कसन होने जाने पर मैं एक बड़ा इन्वेस्ट करने का सोचूंगा।",
+      "start": 17.079,
+      "end": 22.46,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "फर्स्ट टाइम है ना तो मेरे को पता होना चाहिए ना कि ऐसे वर्कर का क्या है।",
+      "start": 22.479,
+      "end": 25.46,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अगर आएगा तो मेरे को भी ट्रस्ट मिलेगा तुम्हारा।",
+      "start": 25.899,
+      "end": 28.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "करेक्ट करेक्ट।",
+      "start": 28.039,
+      "end": 28.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "बेसिकली इसमें क्या है कि फ्रॉम द नेक्स्ट मंथ जैसे बोरोअर अपना ईएमआई पे करेगा, तो नेक्स्ट मंथ से आपको रिटर्न्स आना स्टार्ट हो जाएगा।",
+      "start": 28.639,
+      "end": 36.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "यस।",
+      "start": 37.579,
+      "end": 38.52,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो मतलब आपको पूरा टेन ईयर वेट करने की जरूरत नहीं है।",
+      "start": 38.54,
+      "end": 41.54,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आपको नेक्स्ट मंथ से ईएमआई अमाउंट आना स्टार्ट हो जाएगा।",
+      "start": 41.559,
+      "end": 44.2,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "यस।",
+      "start": 46.059,
+      "end": 46.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ठीक है वो।",
+      "start": 48.0,
+      "end": 48.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "वो होने दीजिए ना अभी।",
+      "start": 48.639,
+      "end": 50.02,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "वन मंथ भी नहीं हुआ है।",
+      "start": 50.02,
+      "end": 51.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "करेक्ट है ना।",
+      "start": 51.34,
+      "end": 52.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "थोड़ा मांग डाला है।",
+      "start": 52.119,
+      "end": 53.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी मंथ बड़ा इन्वेस्टमेंट करूंगा ना।",
+      "start": 53.739,
+      "end": 56.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ठीक है भाई।",
+      "start": 56.779,
+      "end": 57.02,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "सो मीनवाइल ये नंबर आप सेव करके रखिए।",
+      "start": 57.399,
+      "end": 59.08,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कुछ डाउट वगैरह होता है तो मुझे डायरेक्ट कॉल कर सकते हैं।",
+      "start": 59.099,
+      "end": 61.34,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आपका रिलेशनशिप ठीक है।",
+      "start": 61.359,
+      "end": 62.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ठीक है।",
+      "start": 62.5,
+      "end": 62.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "थैंक यू।",
+      "start": 64.299,
+      "end": 64.599,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आपका नाम <PII_NAME>।",
+      "start": 64.659,
+      "end": 67.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>।",
+      "start": 67.659,
+      "end": 68.04,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>।",
+      "start": 68.059,
+      "end": 68.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME> सॉरी।",
+      "start": 69.4,
+      "end": 70.099,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अच्छा ठीक है विवेक या।",
+      "start": 70.119,
+      "end": 76.18,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

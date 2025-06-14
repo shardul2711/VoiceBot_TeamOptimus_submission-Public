@@ -1,0 +1,508 @@
+{
+  "segments": [
+    {
+      "text": "Hello?",
+      "start": 1.179,
+      "end": 1.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Hello?",
+      "start": 1.639,
+      "end": 1.96,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Mm, hello?",
+      "start": 2.359,
+      "end": 2.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Uh, good afternoon, sir.",
+      "start": 3.399,
+      "end": 4.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Aditya here.",
+      "start": 4.38,
+      "end": 4.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "I'm calling you from Lending Club, P2P lending.",
+      "start": 4.98,
+      "end": 7.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yes, yes.",
+      "start": 7.859,
+      "end": 8.44,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yeah, this is Mr.",
+      "start": 8.479,
+      "end": 9.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> right?",
+      "start": 9.46,
+      "end": 10.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yes.",
+      "start": 10.779,
+      "end": 11.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yeah.",
+      "start": 11.319,
+      "end": 11.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "You have started investments with Lending Club.",
+      "start": 11.599,
+      "end": 13.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "May I know do you have any query, questions related to investments?",
+      "start": 13.759,
+      "end": 16.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Uh...",
+      "start": 18.959,
+      "end": 19.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Hello?",
+      "start": 21.219,
+      "end": 21.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yeah, yeah.",
+      "start": 22.219,
+      "end": 22.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "I can hear you.",
+      "start": 22.899,
+      "end": 23.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yeah, you have started investments with Lending Club, right?",
+      "start": 23.159,
+      "end": 25.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "On 2nd April-",
+      "start": 25.699,
+      "end": 26.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yeah, 2nd.",
+      "start": 26.639,
+      "end": 26.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...",
+      "start": 26.739,
+      "end": 26.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you have added some amount.",
+      "start": 26.739,
+      "end": 27.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "So-",
+      "start": 29.5,
+      "end": 29.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yes, I have",
+      "start": 29.659,
+      "end": 29.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...",
+      "start": 29.879,
+      "end": 29.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "may I know do you have any queries, any questions related to investments?",
+      "start": 29.879,
+      "end": 33.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Uh, the question I have is that w- when I l- uh, lend someone...",
+      "start": 34.719,
+      "end": 40.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Sorry?",
+      "start": 40.899,
+      "end": 41.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "I- is it reflected to my CIBIL score?",
+      "start": 41.34,
+      "end": 43.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "No, no, no.",
+      "start": 44.159,
+      "end": 44.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "There is no impact on your CIBIL score.",
+      "start": 45.099,
+      "end": 47.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Oh.",
+      "start": 47.2,
+      "end": 47.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "So, when you lend to someone, you are giving amount to someone to invest.",
+      "start": 47.22,
+      "end": 51.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Like, you are investing your amount in borrower loans.",
+      "start": 52.18,
+      "end": 54.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay.",
+      "start": 55.119,
+      "end": 55.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "And once borrower makes the payment, it will directly come to your bank account.",
+      "start": 55.139,
+      "end": 59.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Oh.",
+      "start": 59.84,
+      "end": 60.18,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay?",
+      "start": 60.379,
+      "end": 60.7,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "I see.",
+      "start": 60.84,
+      "end": 61.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yes.",
+      "start": 61.579,
+      "end": 62.019,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yes.",
+      "start": 62.34,
+      "end": 62.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yeah.",
+      "start": 62.419,
+      "end": 62.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "So, I am your relationship manager.",
+      "start": 63.119,
+      "end": 64.68,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "You can save this number for your reference.",
+      "start": 64.68,
+      "end": 66.82,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay?",
+      "start": 67.559,
+      "end": 67.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yes.",
+      "start": 68.58,
+      "end": 68.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yes.",
+      "start": 68.819,
+      "end": 68.86,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "And, uh, may I know how you came to know about this platform?",
+      "start": 68.86,
+      "end": 71.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Mm-hmm.",
+      "start": 73.379,
+      "end": 73.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "E- Actually, I was searching for an app, uh, that would help me build my CIBIL score.",
+      "start": 73.86,
+      "end": 78.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay.",
+      "start": 79.779,
+      "end": 79.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "I thought that by lending, uh,-",
+      "start": 79.799,
+      "end": 82.359,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay",
+      "start": 82.72,
+      "end": 82.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "...",
+      "start": 82.739,
+      "end": 82.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "I would increase my CIBIL score.",
+      "start": 82.739,
+      "end": 84.14,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay, okay.",
+      "start": 84.36,
+      "end": 84.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "For CIBIL score, it is not, but yeah, there you'll definitely earn amount because whenever borrower makes the payment-",
+      "start": 84.879,
+      "end": 91.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Hmm",
+      "start": 91.819,
+      "end": 91.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...",
+      "start": 91.979,
+      "end": 91.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "your, your amount will be invest- amount is now invested in borrower loan.",
+      "start": 92.159,
+      "end": 97.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "So, whenever a borrower makes a payment, you will receive it in your bank account.",
+      "start": 97.0,
+      "end": 100.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Oh.",
+      "start": 101.059,
+      "end": 101.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay?",
+      "start": 101.159,
+      "end": 101.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "It takes-",
+      "start": 101.519,
+      "end": 101.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay.",
+      "start": 101.879,
+      "end": 101.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yeah.",
+      "start": 101.899,
+      "end": 101.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yeah",
+      "start": 101.899,
+      "end": 101.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...",
+      "start": 101.899,
+      "end": 101.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "transaction plus one day to transfer the amount.",
+      "start": 101.899,
+      "end": 104.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Hmm.",
+      "start": 104.639,
+      "end": 104.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "However, this is the lending platform where you lend the amount and you earn interest on your lendings.",
+      "start": 104.839,
+      "end": 109.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Oh, I see.",
+      "start": 110.279,
+      "end": 110.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "I see.",
+      "start": 110.919,
+      "end": 110.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Okay?",
+      "start": 111.04,
+      "end": 111.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yes.",
+      "start": 112.019,
+      "end": 112.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yes.",
+      "start": 112.319,
+      "end": 112.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Sure.",
+      "start": 112.72,
+      "end": 113.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Thank you.",
+      "start": 113.399,
+      "end": 113.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Okay, yeah.",
+      "start": 114.54,
+      "end": 115.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Thank you.",
+      "start": 115.279,
+      "end": 115.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Yeah.",
+      "start": 115.939,
+      "end": 116.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Mm.",
+      "start": 116.259,
+      "end": 116.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Hmm.",
+      "start": 116.459,
+      "end": 116.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "You're most welcome.",
+      "start": 116.479,
+      "end": 117.059,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

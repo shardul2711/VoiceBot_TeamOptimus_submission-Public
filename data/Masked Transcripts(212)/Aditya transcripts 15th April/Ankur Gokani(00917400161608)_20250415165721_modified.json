@@ -1,0 +1,196 @@
+{
+  "segments": [
+    {
+      "text": "...",
+      "start": 0.28,
+      "end": 0.58,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "2000 or- hello.",
+      "start": 0.819,
+      "end": 1.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 1.339,
+      "end": 1.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 2.7,
+      "end": 3.019,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, good afternoon, sir.",
+      "start": 3.199,
+      "end": 4.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> here from lendingclub, p2p lending.",
+      "start": 4.099,
+      "end": 6.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hi.",
+      "start": 6.799,
+      "end": 7.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hi, <PII_NAME>.",
+      "start": 7.179,
+      "end": 7.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, <PII_NAME>, right?",
+      "start": 7.98,
+      "end": 9.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 9.659,
+      "end": 10.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, <PII_NAME>, you have started your investments with lendingclub and i'm your relationship manager.",
+      "start": 10.199,
+      "end": 15.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, and, uh,- okay ...",
+      "start": 15.239,
+      "end": 16.4,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "do you have any query questions related to lending or investment?",
+      "start": 16.92,
+      "end": 19.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "mm-mm, no, no, i'm good.",
+      "start": 19.479,
+      "end": 21.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 21.379,
+      "end": 21.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "actually i'm working with you only.",
+      "start": 21.52,
+      "end": 22.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, yeah, i know you.",
+      "start": 23.299,
+      "end": 24.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "[laughs] [laughs] just call you.",
+      "start": 24.259,
+      "end": 26.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so let me know if you have any questions, okay?",
+      "start": 26.779,
+      "end": 28.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes, yes.",
+      "start": 29.42,
+      "end": 30.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, sure.",
+      "start": 30.179,
+      "end": 30.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure.",
+      "start": 30.399,
+      "end": 30.42,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 30.439,
+      "end": 30.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you can save this number.",
+      "start": 30.619,
+      "end": 31.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "my name is <PII_NAME>.",
+      "start": 31.899,
+      "end": 32.54,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure.",
+      "start": 32.54,
+      "end": 32.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 33.119,
+      "end": 33.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure.",
+      "start": 33.219,
+      "end": 33.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 33.559,
+      "end": 34.02,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 34.139,
+      "end": 34.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "bye.",
+      "start": 34.159,
+      "end": 34.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "really good.",
+      "start": 35.5,
+      "end": 35.86,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

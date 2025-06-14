@@ -1,0 +1,136 @@
+{
+  "segments": [
+    {
+      "text": "yes, yes.",
+      "start": 0.059,
+      "end": 0.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 0.659,
+      "end": 1.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "please let's call you back.",
+      "start": 2.299,
+      "end": 3.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "please.",
+      "start": 4.039,
+      "end": 4.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello, good evening sir ...",
+      "start": 4.9,
+      "end": 6.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...",
+      "start": 6.139,
+      "end": 6.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "from indian clubs, sir.",
+      "start": 6.899,
+      "end": 8.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "bully sir.",
+      "start": 8.979,
+      "end": 9.48,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "<PII_NAME> ji baat kar rahe hai, right?",
+      "start": 9.76,
+      "end": 11.44,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "haa.",
+      "start": 11.979,
+      "end": 12.319,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "sir aapko repayment receive ho gaya rahega, right?",
+      "start": 12.359,
+      "end": 14.599,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "aapne repayment related query raise kia tha kal.",
+      "start": 14.599,
+      "end": 17.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "haan, haa, haa, haa.",
+      "start": 17.559,
+      "end": 18.379,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "why it was like delayed no?",
+      "start": 18.399,
+      "end": 20.26,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "so it takes transaction plus 1 day to get the amount credited to your bank account.",
+      "start": 20.26,
+      "end": 24.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 24.579,
+      "end": 24.619,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "so when borrower makes it reflects in the application but it takes transaction plus 1 day to get it credited to your account.",
+      "start": 24.619,
+      "end": 31.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so it.",
+      "start": 31.819,
+      "end": 32.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ok, got it.",
+      "start": 32.719,
+      "end": 33.919,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "thank you.",
+      "start": 33.919,
+      "end": 34.12,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "yeah, yeah, yeah, yeah.",
+      "start": 34.34,
+      "end": 34.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you are most welcome.",
+      "start": 35.479,
+      "end": 36.46,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

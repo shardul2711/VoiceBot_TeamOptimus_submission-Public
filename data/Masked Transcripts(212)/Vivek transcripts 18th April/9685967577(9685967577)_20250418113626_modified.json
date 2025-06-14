@@ -1,0 +1,154 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.539,
+      "end": 0.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 2.679,
+      "end": 2.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "good morning, <PII_NAME>.",
+      "start": 3.98,
+      "end": 5.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what can i lean the club?",
+      "start": 5.699,
+      "end": 7.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 8.679,
+      "end": 9.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 10.3,
+      "end": 10.64,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, sir.",
+      "start": 11.239,
+      "end": 11.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "your relationship manager.",
+      "start": 12.039,
+      "end": 13.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what can i do?",
+      "start": 13.88,
+      "end": 14.4,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "our platform to invest.",
+      "start": 14.4,
+      "end": 15.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "check.",
+      "start": 15.939,
+      "end": 16.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "p2p lending.",
+      "start": 17.399,
+      "end": 18.54,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 19.619,
+      "end": 19.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "look here.",
+      "start": 20.1,
+      "end": 20.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i did.",
+      "start": 21.84,
+      "end": 22.18,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i didn't do it.",
+      "start": 22.18,
+      "end": 22.18,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i did it before.",
+      "start": 22.18,
+      "end": 22.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i didn't do it now.",
+      "start": 22.399,
+      "end": 23.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, basically at that time you had left after completing your process and then it is not there right now.",
+      "start": 24.079,
+      "end": 33.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "there are some doubts, etc.",
+      "start": 34.079,
+      "end": 36.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, no, no doubt.",
+      "start": 36.68,
+      "end": 37.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sir, first of all, when the payment comes, then it happens after investment.",
+      "start": 37.7,
+      "end": 40.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, then mean while number, you save it and keep it.",
+      "start": 41.239,
+      "end": 47.7,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "if there are any doubts, you can call me.",
+      "start": 47.7,
+      "end": 48.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ok, ok, brother, ok sir, thank you so much for your time.",
+      "start": 48.279,
+      "end": 50.359,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

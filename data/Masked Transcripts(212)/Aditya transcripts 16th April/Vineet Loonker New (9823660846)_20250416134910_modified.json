@@ -1,0 +1,196 @@
+{
+  "segments": [
+    {
+      "text": "[phone ringing] hello.",
+      "start": 0.079,
+      "end": 1.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, that they bought it.",
+      "start": 1.779,
+      "end": 2.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, we need to add it to back at home.",
+      "start": 2.399,
+      "end": 3.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, okay.",
+      "start": 5.0,
+      "end": 5.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "just pan card and, uh, any pan download key, right?",
+      "start": 5.819,
+      "end": 9.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "pan download key.",
+      "start": 9.719,
+      "end": 10.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes.",
+      "start": 10.739,
+      "end": 11.0,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, uh, well, it's my signature not verified or i know you currently download key over here.",
+      "start": 11.0,
+      "end": 18.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "paired up with the car key.",
+      "start": 18.0,
+      "end": 19.12,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 19.52,
+      "end": 19.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "verified.",
+      "start": 20.119,
+      "end": 20.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "not yeah.",
+      "start": 20.699,
+      "end": 21.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it's not verified.",
+      "start": 21.319,
+      "end": 22.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "just let me see it now.",
+      "start": 23.459,
+      "end": 26.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 26.559,
+      "end": 26.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 26.559,
+      "end": 26.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you feel up there as a go just for now.",
+      "start": 26.559,
+      "end": 26.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "regular pan.",
+      "start": 26.559,
+      "end": 27.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "right.",
+      "start": 27.139,
+      "end": 27.34,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the rest of pan.",
+      "start": 28.279,
+      "end": 28.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "right.",
+      "start": 28.319,
+      "end": 28.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "then regular name online.",
+      "start": 28.319,
+      "end": 30.52,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "only apply.",
+      "start": 30.52,
+      "end": 31.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 31.619,
+      "end": 31.92,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 31.939,
+      "end": 32.3,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "check.",
+      "start": 33.079,
+      "end": 33.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "check.",
+      "start": 33.439,
+      "end": 33.54,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "please.",
+      "start": 33.54,
+      "end": 33.56,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "available.",
+      "start": 34.259,
+      "end": 34.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "right now.",
+      "start": 34.899,
+      "end": 36.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sure.",
+      "start": 37.18,
+      "end": 37.42,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 38.419,
+      "end": 38.839,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

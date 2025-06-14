@@ -1,0 +1,178 @@
+{
+  "segments": [
+    {
+      "text": "[background noise] hello.",
+      "start": 0.079,
+      "end": 0.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 0.62,
+      "end": 0.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "[background noise] yes, now you are coming clearly.",
+      "start": 0.879,
+      "end": 2.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, it is very clear right now.",
+      "start": 2.759,
+      "end": 5.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so basically i was telling you that the show which is going on to you for 11 months and 14 months is also a good loan.",
+      "start": 5.559,
+      "end": 10.82,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you will get good returns in that too.",
+      "start": 10.96,
+      "end": 15.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so i mean, which 1 did i click on it now?",
+      "start": 15.159,
+      "end": 17.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so there, see if you want to do the same through lumpsum, then see there you will get 11 months and 14 months, in that also you can do it.",
+      "start": 17.399,
+      "end": 23.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "now i am on the home page.",
+      "start": 24.719,
+      "end": 26.42,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "did you click on the dashboard?",
+      "start": 26.42,
+      "end": 27.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, there you will see lumpsum, click on it.",
+      "start": 27.639,
+      "end": 32.64,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "there you will see 11 months and 14 months.",
+      "start": 33.2,
+      "end": 38.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so in that what is yours, if you go to see 11 months, then it is 18 to 20 1 percent as per historical data.",
+      "start": 38.799,
+      "end": 48.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "those who invested earlier got this much average returns and those who are of 14 months, 20 1 to 20 4 percent per annum.",
+      "start": 48.219,
+      "end": 56.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that is also a very good loan.",
+      "start": 57.599,
+      "end": 58.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so it shows minimum investment of <PII_AMOUNT>.",
+      "start": 58.739,
+      "end": 63.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, in this your investment of 11 months and 14 months is also minimum <PII_AMOUNT>.",
+      "start": 63.5,
+      "end": 67.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 73.919,
+      "end": 74.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, i was seeing the same.",
+      "start": 75.119,
+      "end": 75.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so basically, in this, your lump sum is compared to yours.",
+      "start": 75.639,
+      "end": 82.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it will also be a little cheap, so from here you have to select the loan, we will select the loan on the basis of your preferences.",
+      "start": 82.759,
+      "end": 87.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i was looking for this, should i do like this?",
+      "start": 89.9,
+      "end": 99.359,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, i was doing like this earlier, give multiple borrowers with minimum amount.",
+      "start": 99.359,
+      "end": 105.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "that's fine.",
+      "start": 105.419,
+      "end": 105.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so basically, if you do it through manual lending, then there you simply see the 1 of 9 months and 12 months.",
+      "start": 106.699,
+      "end": 113.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the loan of 9 months will go to 11 months.",
+      "start": 113.739,
+      "end": 118.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "when will it start daily?",
+      "start": 119.759,
+      "end": 130.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "is there anything like this or not?",
+      "start": 131.959,
+      "end": 137.82,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, there is nothing like this at the moment.",
+      "start": 137.839,
+      "end": 142.24,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

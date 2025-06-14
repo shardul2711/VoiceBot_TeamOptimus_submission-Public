@@ -1,0 +1,46 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.479,
+      "end": 0.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 4.719,
+      "end": 5.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 8.679,
+      "end": 9.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "good afternoon.",
+      "start": 9.8,
+      "end": 10.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we will talk about lean teams.",
+      "start": 10.8,
+      "end": 13.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "this is actually a relationship manager.",
+      "start": 14.46,
+      "end": 17.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what can i invest in regarding the call centre?",
+      "start": 17.319,
+      "end": 26.559,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

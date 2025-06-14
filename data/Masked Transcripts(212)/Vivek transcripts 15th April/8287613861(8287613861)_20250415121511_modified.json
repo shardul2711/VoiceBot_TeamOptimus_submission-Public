@@ -1,0 +1,100 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.979,
+      "end": 1.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 1.279,
+      "end": 1.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 2.98,
+      "end": 3.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी, गुड आफ्टरनून, फ्री बात कर रहा हूं मैं लेनदेन क्लब से।",
+      "start": 3.859,
+      "end": 8.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "यस, टेल मी।",
+      "start": 8.399,
+      "end": 9.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "यस!",
+      "start": 9.76,
+      "end": 9.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "एक्चुअली आपका रिलेशनशिप मैनेजर बात कर रहा हूं।",
+      "start": 9.96,
+      "end": 11.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अपने हमारे प्लेटफार्म पर इन्वेस्टमेंट किया था ना।",
+      "start": 11.779,
+      "end": 14.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हांजी।",
+      "start": 14.079,
+      "end": 15.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "येस, उसी रिगार्डिंग कॉल काट रहा हूं।",
+      "start": 16.0,
+      "end": 19.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आई एम मिडिल ऑफ समथिंग, कैन वे टॉक लेटर?",
+      "start": 19.799,
+      "end": 21.88,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अराउंड व्हाट टाइम शुड ऐवन?",
+      "start": 22.02,
+      "end": 23.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "इन इवनिंग।",
+      "start": 24.359,
+      "end": 25.8,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "श्योर, नो इश्योर।",
+      "start": 25.879,
+      "end": 27.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अल सो गुड नाइट।",
+      "start": 27.76,
+      "end": 28.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "थैंक यू।",
+      "start": 28.34,
+      "end": 29.619,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

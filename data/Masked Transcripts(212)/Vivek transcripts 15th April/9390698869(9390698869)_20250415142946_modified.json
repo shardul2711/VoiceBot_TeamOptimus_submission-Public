@@ -1,0 +1,124 @@
+{
+  "segments": [
+    {
+      "text": "[background noise].",
+      "start": 0.099,
+      "end": 0.7,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 1.419,
+      "end": 1.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 3.299,
+      "end": 3.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "गुड आफ्टरनून।",
+      "start": 4.239,
+      "end": 5.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> बात कर रहा हूं लेनदेन से।",
+      "start": 5.159,
+      "end": 8.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां बोले।",
+      "start": 8.42,
+      "end": 8.96,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी, एक्चुअली मैं आपका रिलेशनशिप मैनेजर बात कर रहा हूं।",
+      "start": 9.479,
+      "end": 11.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अपने हमारे प्लेटफार्म पर को इन्वेस्टमेंट किया था ना पीटीपी लेंडिंग पर।",
+      "start": 11.76,
+      "end": 16.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हमम।",
+      "start": 16.579,
+      "end": 16.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी, उसके रिगार्डिंग कॉल कर रहा था मैं आपको।",
+      "start": 17.559,
+      "end": 20.26,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आपका नाम?",
+      "start": 22.18,
+      "end": 22.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>, विवेक बात कर रहा हूं मैं।",
+      "start": 23.139,
+      "end": 26.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "बात करो, हां।",
+      "start": 26.119,
+      "end": 27.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "यस, जस्ट वॉन्टेड टू नो वेस आपको उसमें कुछ क्वेरीज वगैरा है ऐसा जो पूछना था, समझ नहीं आ रहा था।",
+      "start": 27.719,
+      "end": 34.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सॉरी हेलो, आपकी आवाज बहुत स्लो आ रही थी।",
+      "start": 37.059,
+      "end": 39.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां बोलिए।",
+      "start": 40.2,
+      "end": 41.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मैं बता रहा था आपको उसमें कुछ डाउट वगैरा है ऐसा जो पूछना था, समझ में नहीं आ रहा था आपको।",
+      "start": 41.319,
+      "end": 45.9,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "क्या बोल रहे हैं?",
+      "start": 47.239,
+      "end": 48.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हेलो।",
+      "start": 49.36,
+      "end": 49.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हम्म।",
+      "start": 52.279,
+      "end": 54.879,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

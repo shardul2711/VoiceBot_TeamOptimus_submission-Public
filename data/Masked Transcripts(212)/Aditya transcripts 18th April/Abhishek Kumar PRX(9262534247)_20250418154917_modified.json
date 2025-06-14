@@ -1,0 +1,88 @@
+{
+  "segments": [
+    {
+      "text": "[background noise] hello good afternoon sir it is <PII_NAME> from lending club sir.",
+      "start": 0.239,
+      "end": 5.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हाँ।",
+      "start": 7.919,
+      "end": 8.199,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "अभिषेक कुमार जी से बात हो रही है?",
+      "start": 8.639,
+      "end": 10.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां हां।",
+      "start": 10.679,
+      "end": 11.199,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "सर आपने लेनदेन क्लब में अकाउंट क्रिएट किया है।",
+      "start": 11.579,
+      "end": 14.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आप इन्वेस्टमेंट के ऑप्शन देख रहे थे।",
+      "start": 14.239,
+      "end": 16.44,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "राइट?",
+      "start": 16.44,
+      "end": 16.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां, आपने लेन देन क्लब में अकाउंट क्रिएट किया है, उससे रिलेटेड कॉल था।",
+      "start": 17.84,
+      "end": 22.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कुछ क्वेरी क्वेश्चन आपको लैंडिंग इन्वेस्टमेंट से रिलेटेड।",
+      "start": 23.139,
+      "end": 26.1,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "क्या हुआ?",
+      "start": 27.68,
+      "end": 28.26,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "लेनदेन क्लब में आपने जो अकाउंट बनाया है तो हम जानना चाहते हैं कि आपको अपने जो <PII_AMOUNT> इन्वेस्ट किए हैं आपको लेनदेन क्लब के बारे में या इन्वेस्टमेंट के बारे में कुछ क्वेरी क्वेश्चन है।",
+      "start": 28.659,
+      "end": 40.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ना ना ना कुछ नहीं है।",
+      "start": 41.099,
+      "end": 42.86,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "आपको यह प्लेटफार्म के बारे में कहां से पता चला सर?",
+      "start": 42.86,
+      "end": 45.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "पैसे दे अभी हम दूसरे जगह पर कर लिया थोड़ा।",
+      "start": 46.719,
+      "end": 52.479,
+      "speaker_id": "speaker_2"
+    }
+  ]
+}

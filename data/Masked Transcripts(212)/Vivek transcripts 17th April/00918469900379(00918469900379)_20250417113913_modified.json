@@ -1,0 +1,262 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.599,
+      "end": 1.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 2.679,
+      "end": 3.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "good morning, <PII_NAME>.",
+      "start": 3.5,
+      "end": 5.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "but the main thing is...",
+      "start": 5.059,
+      "end": 6.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello.",
+      "start": 8.699,
+      "end": 10.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 10.14,
+      "end": 10.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "actually, haji, actually, i'm going to tell you something about my friend.",
+      "start": 10.439,
+      "end": 12.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "what's your name?",
+      "start": 12.259,
+      "end": 12.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "my name is <PII_NAME>.",
+      "start": 12.279,
+      "end": 12.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "what is your last name?",
+      "start": 12.279,
+      "end": 12.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "my last name is <PII_NAME>.",
+      "start": 12.279,
+      "end": 12.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "my father's family is from china.",
+      "start": 12.479,
+      "end": 16.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, okay.",
+      "start": 19.079,
+      "end": 19.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so what?",
+      "start": 23.479,
+      "end": 24.04,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'm not from here.",
+      "start": 29.239,
+      "end": 29.26,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'm just visiting.",
+      "start": 29.26,
+      "end": 29.26,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "can you tell me about your family?",
+      "start": 29.26,
+      "end": 37.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "my father's family is from china.",
+      "start": 37.799,
+      "end": 37.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "my mother's family is from china.",
+      "start": 37.799,
+      "end": 38.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "my grandfather's family are from china.",
+      "start": 38.299,
+      "end": 38.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, so you have a lot of family.",
+      "start": 38.459,
+      "end": 49.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, i have a lot of family.",
+      "start": 49.219,
+      "end": 60.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so where are you from in china?",
+      "start": 66.019,
+      "end": 66.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i'm from <PII_CITY>, <PII_STATE>.",
+      "start": 66.579,
+      "end": 66.599,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "and what about you?",
+      "start": 66.599,
+      "end": 68.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "my family is also from <PII_COUNTRY>.",
+      "start": 68.239,
+      "end": 68.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we are from the same city.",
+      "start": 68.719,
+      "end": 68.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "oh, you're from <PII_CITY>.",
+      "start": 68.839,
+      "end": 68.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "what city?",
+      "start": 68.999,
+      "end": 69.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_CITY>.",
+      "start": 69.159,
+      "end": 69.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "do you know how much i love to eat idli and dosa?",
+      "start": 69.18,
+      "end": 76.28,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, me too.",
+      "start": 77.239,
+      "end": 83.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, do you want to go to my place and eat some food?",
+      "start": 83.419,
+      "end": 95.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, thank you.",
+      "start": 96.199,
+      "end": 97.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'm okay.",
+      "start": 97.9,
+      "end": 98.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "but you should come to my place and eat some food.",
+      "start": 98.399,
+      "end": 99.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "let's meet later.",
+      "start": 99.679,
+      "end": 99.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 99.679,
+      "end": 99.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i'll see you later.",
+      "start": 99.679,
+      "end": 99.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "have a good day.",
+      "start": 99.679,
+      "end": 99.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 99.679,
+      "end": 99.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "see you later.",
+      "start": 99.679,
+      "end": 99.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "bye.",
+      "start": 99.86,
+      "end": 101.439,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

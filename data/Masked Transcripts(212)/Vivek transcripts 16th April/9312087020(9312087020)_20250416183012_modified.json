@@ -1,0 +1,16 @@
+{
+  "segments": [
+    {
+      "text": "[background noise] हैलो हैन जी आप भी बात कर रहा है।",
+      "start": 0.519,
+      "end": 6.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "लेन देन क्लब से हेलो हेलो हेलो।",
+      "start": 6.519,
+      "end": 20.8,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

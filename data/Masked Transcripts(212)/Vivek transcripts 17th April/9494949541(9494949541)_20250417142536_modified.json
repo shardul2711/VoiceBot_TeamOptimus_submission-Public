@@ -1,0 +1,70 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.56,
+      "end": 0.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 4.579,
+      "end": 4.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 6.099,
+      "end": 6.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "good afternoon, <PII_NAME>.",
+      "start": 6.899,
+      "end": 8.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "this side, i'm calling from linkedin club.",
+      "start": 8.639,
+      "end": 10.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sorry.",
+      "start": 11.42,
+      "end": 11.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>, this side, i'm calling from linkedin club.",
+      "start": 12.219,
+      "end": 15.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 15.839,
+      "end": 16.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "if you don't mind, you can call me after 1 hour.",
+      "start": 16.639,
+      "end": 18.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sure, no problem.",
+      "start": 19.059,
+      "end": 20.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, thanks.",
+      "start": 21.699,
+      "end": 22.28,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

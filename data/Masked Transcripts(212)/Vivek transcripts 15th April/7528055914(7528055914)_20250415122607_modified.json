@@ -1,0 +1,268 @@
+{
+  "segments": [
+    {
+      "text": "excuse me, 1 minute.",
+      "start": 0.019,
+      "end": 1.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 2.359,
+      "end": 2.5,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello?",
+      "start": 2.5,
+      "end": 2.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "good afternoon, <PII_NAME> talking from lending club.",
+      "start": 3.24,
+      "end": 6.02,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "from where?",
+      "start": 7.599,
+      "end": 7.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "lending club.",
+      "start": 8.739,
+      "end": 9.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 11.259,
+      "end": 11.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "your relationship manager is speaking.",
+      "start": 11.439,
+      "end": 14.5,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you invested in p2p on our platform, right?",
+      "start": 14.5,
+      "end": 18.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 18.52,
+      "end": 19.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i am calling regarding that.",
+      "start": 19.659,
+      "end": 20.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 21.619,
+      "end": 21.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i just wanted to know if you have any doubts or if there is anything that was not understood.",
+      "start": 22.379,
+      "end": 28.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, i just, to tell you the truth, peer to peer, this is person to person, isn't it a lending platform?",
+      "start": 28.899,
+      "end": 36.68,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "isn't it?",
+      "start": 36.719,
+      "end": 37.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes, yes.",
+      "start": 37.7,
+      "end": 38.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so i just checked how much he is giving now, what is happening, i just invested like this, it is not that serious.",
+      "start": 38.899,
+      "end": 48.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, no issue.",
+      "start": 48.899,
+      "end": 52.04,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if yes, if he gives good then i will take it seriously and after that i will invest subsequently.",
+      "start": 52.5,
+      "end": 60.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure, sure, no problem.",
+      "start": 60.319,
+      "end": 61.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i just let you know as per the historical data who had invested on our platform.",
+      "start": 61.259,
+      "end": 65.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so they have got up to 20 percent per annum return.",
+      "start": 65.659,
+      "end": 68.82,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so you can also expect that for your...",
+      "start": 69.26,
+      "end": 71.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, okay.",
+      "start": 72.479,
+      "end": 72.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i have just 1 doubt.",
+      "start": 72.699,
+      "end": 74.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if 1 person defaults the payment, then what will be the consequences?",
+      "start": 74.5,
+      "end": 80.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so basically in that scenario if someone is not paying their repayments or having delays in repayment, so in that scenario we have our own internal recovery team and at the same time we have also tied up with some external recovery agencies.",
+      "start": 80.819,
+      "end": 95.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so they try to recover your amount.",
+      "start": 95.839,
+      "end": 98.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, okay.",
+      "start": 99.419,
+      "end": 101.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and if still someone is not repaying their repayments or hitting defaults, so in that scenario they will get affected with it, like credit score and everything.",
+      "start": 103.279,
+      "end": 114.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "is there any kind of insurance that you guys are providing?",
+      "start": 115.319,
+      "end": 119.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, currently this is not any kind of insurance because this is a totally unsecured loan.",
+      "start": 120.079,
+      "end": 124.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "but still as per our historical data, so current npnr platform level is around 3 percent.",
+      "start": 124.86,
+      "end": 131.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so for example, if you are investing on 100 loans, so there are chances that 3 or 4 borrowers might get default.",
+      "start": 131.5,
+      "end": 137.58,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "but still we have diversified our portfolio very well.",
+      "start": 137.94,
+      "end": 141.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so in that scenario you will remain on profit because the other ninety-seven percent are repaying with interest.",
+      "start": 141.879,
+      "end": 148.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "right?",
+      "start": 148.279,
+      "end": 148.62,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, ninety-seven percent of the persons are paying the...",
+      "start": 149.72,
+      "end": 153.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "with interest.",
+      "start": 153.599,
+      "end": 154.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, okay.",
+      "start": 155.319,
+      "end": 156.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, thank you.",
+      "start": 158.44,
+      "end": 159.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we will let you know if...",
+      "start": 159.58,
+      "end": 161.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure, you can say this number.",
+      "start": 161.879,
+      "end": 163.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, thank you.",
+      "start": 164.239,
+      "end": 165.519,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 2.319,
+      "end": 2.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "good afternoon.",
+      "start": 3.419,
+      "end": 3.98,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh-huh.",
+      "start": 3.98,
+      "end": 4.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "this is shereen from lendingclub p2p lending platform.",
+      "start": 4.0,
+      "end": 6.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "am i speaking with <PII_NAME>?",
+      "start": 6.819,
+      "end": 8.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 9.859,
+      "end": 10.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, you said you have registered for lendingclub platform as an investment, started your investment 40,000 rupees, right?",
+      "start": 10.539,
+      "end": 16.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so just to...",
+      "start": 17.239,
+      "end": 17.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "right, right, right.",
+      "start": 17.719,
+      "end": 18.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "...",
+      "start": 18.299,
+      "end": 18.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "wanted to know if you have any questions or queries, sir?",
+      "start": 18.619,
+      "end": 21.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, no, no.",
+      "start": 21.68,
+      "end": 22.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "everything is going smooth.",
+      "start": 22.199,
+      "end": 23.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i love the app and like it's quite easy to invest and like returns are, i see that, uh, like, uh, some of the amount is also, you know, like depositing...",
+      "start": 23.459,
+      "end": 32.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "determining.",
+      "start": 32.459,
+      "end": 32.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...",
+      "start": 32.479,
+      "end": 32.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "in my account.",
+      "start": 32.479,
+      "end": 33.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, yeah, yeah.",
+      "start": 33.479,
+      "end": 34.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, sir.",
+      "start": 34.38,
+      "end": 34.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, uh, from where did you get to know about the platform, sir?",
+      "start": 35.239,
+      "end": 38.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you referred by anyone or from somewhere?",
+      "start": 38.319,
+      "end": 40.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, like online ads, i guess.",
+      "start": 40.919,
+      "end": 42.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "like, i was looking for some good investment apps.",
+      "start": 43.239,
+      "end": 46.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "oh.",
+      "start": 46.759,
+      "end": 47.2,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so like, uh, this is, this is like, uh, this was 1 of them.",
+      "start": 47.2,
+      "end": 50.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 51.0,
+      "end": 51.46,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, great.",
+      "start": 51.52,
+      "end": 52.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "not an issue.",
+      "start": 52.219,
+      "end": 52.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you can save this number, sir.",
+      "start": 52.799,
+      "end": 54.099,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'm your relationship manager of account for any query...",
+      "start": 54.099,
+      "end": 56.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh-huh.",
+      "start": 56.979,
+      "end": 57.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "...",
+      "start": 57.139,
+      "end": 57.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "questions you can connect on the same note.",
+      "start": 57.139,
+      "end": 59.019,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 59.599,
+      "end": 59.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 59.919,
+      "end": 60.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and what's your name again?",
+      "start": 60.319,
+      "end": 61.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "my name is <PII_NAME>.",
+      "start": 61.359,
+      "end": 62.28,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 63.279,
+      "end": 63.68,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, <PII_NAME>.",
+      "start": 63.699,
+      "end": 64.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you so much.",
+      "start": 64.279,
+      "end": 64.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 64.959,
+      "end": 65.6,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, yeah.",
+      "start": 66.5,
+      "end": 66.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "bye-bye.",
+      "start": 66.859,
+      "end": 67.219,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

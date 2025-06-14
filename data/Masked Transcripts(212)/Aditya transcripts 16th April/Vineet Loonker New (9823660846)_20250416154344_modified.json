@@ -1,0 +1,82 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.479,
+      "end": 0.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we are thinking of doing, yes, tell me.",
+      "start": 1.1,
+      "end": 3.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sir, your account has been created and the new mobile number you sent, you can log in with it.",
+      "start": 3.119,
+      "end": 9.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, perfect sir, okay yes, yes.",
+      "start": 9.359,
+      "end": 12.219,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so tell me 1 thing, i will not log in to my existing mobile, i will need a new second mobile.",
+      "start": 12.359,
+      "end": 18.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i mean, i have used both the sims in this mobile only.",
+      "start": 18.739,
+      "end": 21.78,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, means application means.",
+      "start": 21.84,
+      "end": 23.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, okay.",
+      "start": 23.479,
+      "end": 24.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, you can download the new application and log in to the second phone.",
+      "start": 24.279,
+      "end": 27.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you will get otp on that number only.",
+      "start": 27.799,
+      "end": 29.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, done.",
+      "start": 29.699,
+      "end": 30.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ok perfect sir.",
+      "start": 30.399,
+      "end": 31.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 32.36,
+      "end": 33.219,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

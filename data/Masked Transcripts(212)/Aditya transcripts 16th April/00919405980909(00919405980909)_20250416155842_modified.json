@@ -1,0 +1,262 @@
+{
+  "segments": [
+    {
+      "text": "[background music] hello, hello sir, good evening.",
+      "start": 0.0,
+      "end": 4.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "good evening.",
+      "start": 5.5,
+      "end": 6.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sir, i am talking to <PII_NAME> from linkedin club, my voice is coming now.",
+      "start": 6.539,
+      "end": 12.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes, the voice is coming now, speak.",
+      "start": 12.06,
+      "end": 14.14,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you have started investment in linkedin club, right?",
+      "start": 14.14,
+      "end": 15.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it was a related call, you had also requested for a callback.",
+      "start": 16.239,
+      "end": 18.04,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, actually what is there, i had done it from my father's account, so ok.",
+      "start": 19.42,
+      "end": 23.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, what are your queries, can you tell me?",
+      "start": 25.1,
+      "end": 28.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, there is no query, the same 1 who had just invested <PII_AMOUNT>, so i had to see how it was, i had to know about the portfolio etc.",
+      "start": 28.78,
+      "end": 38.04,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, you should have all the investment details in your portfolio, in the portfolio section, on your application it will be visible to you that you have currently added <PII_AMOUNT>, so when you go to the portfolio section, the option of lump sum will be visible there, in the lump sum option, in the active section, all your amounts will be visible to you.",
+      "start": 38.04,
+      "end": 58.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, so as soon as you borrow, the repayment will be done, your amount will come directly to your bank account.",
+      "start": 58.599,
+      "end": 64.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "here your amount will be diversified into <PII_AMOUNT> rupees each and every loan has gone into it.",
+      "start": 64.44,
+      "end": 70.9,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, as the repayments of the borrowers come, that amount will come directly to your bank account.",
+      "start": 70.9,
+      "end": 76.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, it will come in the bank account, not in the lending account.",
+      "start": 77.68,
+      "end": 81.2,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it will not come in the lending account, it will come directly to the bank account.",
+      "start": 81.559,
+      "end": 84.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "well, okay, so now he had selected 5 months, so he can come anytime in 5 months or something.",
+      "start": 85.059,
+      "end": 95.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, the amount which you have selected from 5 months, your amount will go to 3 months, 4 months loan, then as soon as you pay the emi, like now you have taken the loan on ninth april, then first is the emi due date for all the borrowers, so as the borrowers go on repaying, that amount will come to your bank account.",
+      "start": 95.419,
+      "end": 112.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "in case, if anyone makes a payment before a date, then you may get the amount early too.",
+      "start": 112.18,
+      "end": 118.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, okay, fine.",
+      "start": 118.619,
+      "end": 119.82,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "and save this number, if there is any query question, then you can reach out, ok.",
+      "start": 120.02,
+      "end": 126.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and may i know, who told you about the platform?",
+      "start": 127.02,
+      "end": 133.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "this is from social media.",
+      "start": 133.639,
+      "end": 133.76,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "from social media, you did not refer it, okay fine.",
+      "start": 133.76,
+      "end": 139.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "let me know if there is any query.",
+      "start": 139.98,
+      "end": 141.68,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, is there any other plan to add the amount sir?",
+      "start": 142.459,
+      "end": 145.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "let's see a little bit, how is it working?",
+      "start": 146.179,
+      "end": 149.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you have created your account or created only 1 account till now?",
+      "start": 149.58,
+      "end": 151.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, i had done only 1.",
+      "start": 151.019,
+      "end": 154.28,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ok, ok fine.",
+      "start": 154.299,
+      "end": 155.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you create a new account, then you can reach out to me and i will be your point of contact.",
+      "start": 155.139,
+      "end": 163.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you want to know about any question related to investment, then you can reach out to us, ok.",
+      "start": 163.379,
+      "end": 167.34,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure, thank you.",
+      "start": 168.499,
+      "end": 170.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i had 1 more query, like when the repayment is done, then you must have seen the club well percent model model, so there is nothing like that means when invested in a fixed amount, after that the amount will come, now it is a little bit, how much hassle-free it is going to be, how much attention to keep it?",
+      "start": 170.499,
+      "end": 195.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ok, so basically it is like rbi regulation has been updated, due to change in rbi regulation, we cannot hold the amount, so as the borrowers will make the payment, directly the amount will come in your bank account and ideally we had a plan where if we lend the amount for 1 year, then after 1 year you would get the principle plus interest, but right now as per rbi regulation, we cannot hold your amount, because of this you will get transaction plus 1 day.",
+      "start": 196.1,
+      "end": 227.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "as borrowers make repayment, transaction comes to your bank account in a day, you can re-learn it again.",
+      "start": 227.939,
+      "end": 233.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, then he will have to monitor it a little, how much amount has come?",
+      "start": 233.699,
+      "end": 239.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, you can do it through application, under portfolio section, you can see the reports, you can also see through the reports and you will also see it in the portfolio section, plus if in case if there is any query or you want a detailed report, then you can reach out to us, i can give you a detailed report by calling you, ok.",
+      "start": 239.519,
+      "end": 262.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok, thank you.",
+      "start": 262.079,
+      "end": 262.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "shall i know your name?",
+      "start": 262.879,
+      "end": 262.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>",
+      "start": 262.92,
+      "end": 266.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ok, ok fine, <PII_NAME> ji, i will reach out to you, if there is any query question, then you will get messages on whatsapp on registered number also, ok.",
+      "start": 266.92,
+      "end": 276.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "apart from that, expect now, no 1 will respond to him.",
+      "start": 276.259,
+      "end": 283.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ok, so let me update you, ok sure, thank you.",
+      "start": 283.119,
+      "end": 286.719,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

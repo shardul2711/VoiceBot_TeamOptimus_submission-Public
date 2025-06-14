@@ -1,0 +1,292 @@
+{
+  "segments": [
+    {
+      "text": "[background noise] hello?",
+      "start": 0.419,
+      "end": 0.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 2.519,
+      "end": 2.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हांजी।",
+      "start": 3.399,
+      "end": 4.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>?",
+      "start": 4.679,
+      "end": 5.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी, गुड मॉर्निंग।",
+      "start": 5.94,
+      "end": 6.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> रात कर रहा हूं।",
+      "start": 6.759,
+      "end": 7.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "गुड मॉर्निंग।",
+      "start": 7.619,
+      "end": 8.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां, <PII_NAME> ओके।",
+      "start": 8.139,
+      "end": 12.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां, हां बोलो, बोलो।",
+      "start": 12.539,
+      "end": 14.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां, हां तो येल्ले मैं मारा फादर नू अकाउंट खोललायेल थूं लेनदेन में।",
+      "start": 14.38,
+      "end": 20.18,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "सु-सु-सुकेहलो?",
+      "start": 20.959,
+      "end": 21.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हैलो?",
+      "start": 22.68,
+      "end": 23.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां, हैलो, हैलो।",
+      "start": 23.439,
+      "end": 24.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आवाज़-आवाज़ आ रहा था तुम्हारे सामने हैना?",
+      "start": 24.059,
+      "end": 25.2,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां, हां।",
+      "start": 25.42,
+      "end": 26.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मैं मारा फादर नू अकाउंट खोलायेल थूं लेनदेन क्लब मा।",
+      "start": 26.34,
+      "end": 29.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके।",
+      "start": 29.519,
+      "end": 31.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो एमनू एटली जो बैंक अकाउंट था, तो मारे चेंज करू थो, यूपीआई वालू नथी राखू तो काई रीते करवानू एटले ऐप मां कोई बैंक अकाउंट चेंज करण ओप्शन आवतो नथी, तो कही सकदुस तू काई रीते करू?",
+      "start": 31.179,
+      "end": 43.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अ-मने अंडर रजिस्टर्ड नंबर कह सकशे एक बार।",
+      "start": 43.779,
+      "end": 46.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके हां, एक का ज मिनट आऊं।",
+      "start": 48.119,
+      "end": 49.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हाँ आतू।",
+      "start": 49.579,
+      "end": 50.74,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "फोन लाल।",
+      "start": 53.279,
+      "end": 55.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "[खांसी] [बातें करने वाले लोगों की आवाज़] [खांसी] [बातें करने वाले लोगों की आवाज़] हैलो!",
+      "start": 55.139,
+      "end": 103.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हेलो।",
+      "start": 104.04,
+      "end": 104.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां।",
+      "start": 104.979,
+      "end": 105.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां, हां।",
+      "start": 107.299,
+      "end": 108.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "लेनदेन आईडी वाला नंबर एक और सो तुम्हें।",
+      "start": 109.159,
+      "end": 111.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ना मोबाइल नंबर, रजिस्टर्ड मोबाइल नंबर।",
+      "start": 111.459,
+      "end": 113.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके, ओके, मोबाइल नंबर ओके।",
+      "start": 113.739,
+      "end": 115.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 115.239,
+      "end": 116.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 116.319,
+      "end": 117.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 117.739,
+      "end": 118.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 119.059,
+      "end": 120.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 120.939,
+      "end": 121.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 122.139,
+      "end": 123.34,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_PHONE>",
+      "start": 123.799,
+      "end": 126.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "[बातें करने वाले लोगों की आवाज़] अच्छा ओके ठीक है।",
+      "start": 126.199,
+      "end": 131.66,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तो मैं तुम्हें व्हाट्सएप पर रजिस्टर्ड ऑफिशियल मेल आईडी मोकलाबे?",
+      "start": 131.72,
+      "end": 135.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके ना, पता मरू नो।",
+      "start": 136.839,
+      "end": 139.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "बैंक नो बैंक अकाउंट स्टेटमेंट के कैंसिल चेक बिना देख मोकला था बैंक चेक करो।",
+      "start": 139.44,
+      "end": 145.499,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके सुकून मोकलावं?",
+      "start": 146.199,
+      "end": 147.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "बैंक अकाउंट नंबर।",
+      "start": 147.3,
+      "end": 148.58,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कैंसिल चेक या फिर उसकी अकाउंट स्टेटमेंट कोई भी एक बिना ओके ओके।",
+      "start": 148.58,
+      "end": 153.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके, ओके, ओके।",
+      "start": 153.899,
+      "end": 155.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो नंबर पर मैसेज आया है ना जिस रजिस्टर्ड नंबर से ना।",
+      "start": 156.539,
+      "end": 159.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "व्हाट्सएप पर कर दो तुम्हारे नंबर से।",
+      "start": 159.619,
+      "end": 161.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मैं ओके ओके रजिस्टर्ड मेल आईडी से सेट कर।",
+      "start": 162.139,
+      "end": 164.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके ओके थैंक यू।",
+      "start": 166.3,
+      "end": 174.399,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "segments": [
+    {
+      "text": "hello, hello.",
+      "start": 1.759,
+      "end": 4.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello, am i speaking with <PII_NAME>?",
+      "start": 7.299,
+      "end": 9.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 11.779,
+      "end": 12.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello, sir.",
+      "start": 14.119,
+      "end": 15.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "(speaking in foreign language) hello, good evening, sir.",
+      "start": 15.739,
+      "end": 29.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "this is <PII_NAME> from lendingclub, p2p lending platform.",
+      "start": 29.279,
+      "end": 32.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 32.0,
+      "end": 32.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "(mumbling) (speaking in foreign language) so just a welcome call, sir.",
+      "start": 32.439,
+      "end": 42.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "(speaking in foreign language) no, ma'am.",
+      "start": 42.479,
+      "end": 47.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "(speaking in foreign language) youtube.",
+      "start": 47.52,
+      "end": 55.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, great.",
+      "start": 55.959,
+      "end": 57.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "(speaking in foreign language) if you have any questions or queries, you can contact us.",
+      "start": 58.239,
+      "end": 62.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 62.099,
+      "end": 64.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 64.86,
+      "end": 65.32,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

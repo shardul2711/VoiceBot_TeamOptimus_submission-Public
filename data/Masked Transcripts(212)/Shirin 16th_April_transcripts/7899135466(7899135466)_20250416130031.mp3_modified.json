@@ -1,0 +1,1156 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 1.979,
+      "end": 2.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 2.319,
+      "end": 2.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "good afternoon, sir.",
+      "start": 3.379,
+      "end": 4.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "this is <PII_NAME> from lendingclub, p2p lending platform.",
+      "start": 4.46,
+      "end": 7.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, tell me.",
+      "start": 8.279,
+      "end": 8.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, yes, is it a good time to talk?",
+      "start": 9.099,
+      "end": 10.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 11.34,
+      "end": 11.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, yes, sir.",
+      "start": 12.119,
+      "end": 12.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you have contacted to the support and you are having some queries maybe?",
+      "start": 12.979,
+      "end": 16.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, sure.",
+      "start": 17.6,
+      "end": 18.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, what was my query?",
+      "start": 18.399,
+      "end": 19.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "means i was not able to get correct idea on what will be the charges for lenders.",
+      "start": 19.939,
+      "end": 26.519,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, imagine, if i give an example, if i like put in 1 lakh.",
+      "start": 26.68,
+      "end": 31.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 31.679,
+      "end": 31.88,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, can you explain it with example?",
+      "start": 31.939,
+      "end": 35.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "like, 1 lakh will be my initial investment, so what will be the charges that will be applied to me?",
+      "start": 35.319,
+      "end": 42.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 42.459,
+      "end": 42.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 42.979,
+      "end": 43.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, here it differ from borrower to borrower.",
+      "start": 43.52,
+      "end": 45.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "basically, it depends on tenure.",
+      "start": 45.879,
+      "end": 47.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for example, if you go for a lump sum of, uh, five-point tenure.",
+      "start": 47.579,
+      "end": 51.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, so your funds will be diversified in a four-month and a three-month tenure borrower.",
+      "start": 51.659,
+      "end": 56.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, the platform charges will be...",
+      "start": 56.659,
+      "end": 58.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for borrower, it...",
+      "start": 59.079,
+      "end": 60.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we deduct it on, uh, principal.",
+      "start": 60.059,
+      "end": 63.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, it will be minimum you can consider is, uh, 3 to 3.5%",
+      "start": 63.439,
+      "end": 69.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "of a facilitation charges.",
+      "start": 69.099,
+      "end": 70.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "4 to 7- okay, this is for borrower part, correct?",
+      "start": 71.239,
+      "end": 73.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, ha.",
+      "start": 73.939,
+      "end": 74.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "nee, nee.",
+      "start": 74.359,
+      "end": 74.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "this is for lender on your principal amount.",
+      "start": 74.919,
+      "end": 77.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 77.719,
+      "end": 77.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "example, you have invested 1,000 rupees.",
+      "start": 77.779,
+      "end": 80.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 80.739,
+      "end": 80.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 80.759,
+      "end": 80.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, i'm just giving you a very simple small amount example.",
+      "start": 80.779,
+      "end": 83.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 83.819,
+      "end": 83.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 83.859,
+      "end": 83.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "1,000 rupees you have invested for certain percentages.",
+      "start": 83.979,
+      "end": 87.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 87.619,
+      "end": 87.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 87.639,
+      "end": 87.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 87.639,
+      "end": 87.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "an example, your...",
+      "start": 88.019,
+      "end": 89.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "your portfolio expected amount from that borrower is 1,400.",
+      "start": 89.599,
+      "end": 93.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 93.659,
+      "end": 93.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 93.979,
+      "end": 94.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and if you check the facilitation charges, this on- it's, it's three-month tenure let's consider.",
+      "start": 94.179,
+      "end": 99.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 99.719,
+      "end": 99.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "and if the facilitation charges is 60 rupees.",
+      "start": 99.739,
+      "end": 102.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 102.699,
+      "end": 102.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay platform charges for our faci- facilitation charges is 60 rupees.",
+      "start": 102.939,
+      "end": 106.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 106.719,
+      "end": 106.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "with 3% or 4%, whatever.",
+      "start": 106.739,
+      "end": 108.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 108.899,
+      "end": 108.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, in a three-month tenure what happen?",
+      "start": 108.919,
+      "end": 110.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "once the borrower pay first emi, from that 1 emi, 20 rupees will be deducted and then the rest amount will be credited to you.",
+      "start": 110.939,
+      "end": 117.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "20 rupees will be deducted on your principal amount.",
+      "start": 117.999,
+      "end": 120.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "then second emi- okay ...",
+      "start": 121.119,
+      "end": 122.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "borrower will pay principal plus returns from that, your principal, 20 rupees will be deducted.",
+      "start": 122.099,
+      "end": 126.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, that's how in 3 emis- mm-hmm ...",
+      "start": 126.359,
+      "end": 128.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "as and when borrower repay in emi basis, we also deduct the facilitation charges, and then it credited to you.",
+      "start": 128.459,
+      "end": 134.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, so you telling that to be prin- it's- sorry, sir.",
+      "start": 135.679,
+      "end": 141.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "your voice is breaking.",
+      "start": 141.999,
+      "end": 142.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 143.719,
+      "end": 144.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, i thought maybe you will be charging on the principal.",
+      "start": 144.299,
+      "end": 148.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, not the principal, on the interest rate which we earn.",
+      "start": 148.439,
+      "end": 151.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "oh.",
+      "start": 152.199,
+      "end": 152.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, it's not like that.",
+      "start": 152.219,
+      "end": 153.219,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ha.",
+      "start": 153.259,
+      "end": 153.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it's that what our principal we lend- yes ...",
+      "start": 153.299,
+      "end": 156.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so you will be charging on that.",
+      "start": 156.699,
+      "end": 158.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hmm.",
+      "start": 158.379,
+      "end": 158.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so.",
+      "start": 158.519,
+      "end": 158.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, for example- yeah ...",
+      "start": 158.899,
+      "end": 159.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you go for a 14-month tenure or a 11 months per tenure, so you can see the ba- for borrower facilitation charges is 4% or a 4.5.",
+      "start": 159.679,
+      "end": 168.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "let's consider a 5% as well.",
+      "start": 168.759,
+      "end": 170.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hmm.",
+      "start": 170.639,
+      "end": 170.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, after deduction it is where whatever the returns are mentioned, 21 to 24%, that is after deducting the facilitation charges and expected, uh, delay in the portfolio.",
+      "start": 170.679,
+      "end": 181.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that is a 21 to 24% which you can expect from your investments.",
+      "start": 181.139,
+      "end": 184.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 185.359,
+      "end": 185.499,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "if you go for a 14-month term.",
+      "start": 185.499,
+      "end": 187.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, so i was just seeing if i can do like 6 months and all?",
+      "start": 187.779,
+      "end": 191.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so- yes, sir.",
+      "start": 192.499,
+      "end": 193.019,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "that is also okay.",
+      "start": 193.019,
+      "end": 193.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that...",
+      "start": 193.759,
+      "end": 193.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 193.799,
+      "end": 193.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "for six-month, uh, like if you go for a seven-month tenure or lump sum, your funds will be invested in six-month loan tenure.",
+      "start": 193.819,
+      "end": 200.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 200.739,
+      "end": 201.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, sir.",
+      "start": 201.419,
+      "end": 201.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, i was just seeing that manual lending where i can choose like 3 months or 6 months or- yes, yes, yes.",
+      "start": 201.739,
+      "end": 207.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct, correct ...",
+      "start": 207.299,
+      "end": 207.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "different months what is mentioned.",
+      "start": 207.319,
+      "end": 208.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct.",
+      "start": 208.999,
+      "end": 209.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "in front, yes, there is a filter of 6 months.",
+      "start": 209.419,
+      "end": 209.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, i was just getting confused like...",
+      "start": 209.879,
+      "end": 211.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, yeah.",
+      "start": 212.159,
+      "end": 213.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i was just seeing like, okay, if i put 1 lakh of, uh, money, then what will be the total amount which i'll get?",
+      "start": 213.159,
+      "end": 220.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, it was showing like maybe 1 lakh if i put, uh, if i select 48% people- mm-hmm ...",
+      "start": 220.799,
+      "end": 226.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "then it was showing 1 lakh 40 something.",
+      "start": 226.439,
+      "end": 228.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 228.719,
+      "end": 228.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, i just want to know if, uh, you will be deducting that 3.5%",
+      "start": 228.879,
+      "end": 233.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "on entire thing, like 1 po- 1 point 4 lakh or you will be deducting on only 1 lakh?",
+      "start": 233.679,
+      "end": 239.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it will be only on 1 lakh, sir.",
+      "start": 239.559,
+      "end": 241.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 241.679,
+      "end": 241.939,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "on, on the direct principal, not on the interest?",
+      "start": 241.939,
+      "end": 244.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, sir.",
+      "start": 244.419,
+      "end": 244.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "correct.",
+      "start": 244.899,
+      "end": 245.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, okay.",
+      "start": 245.519,
+      "end": 246.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yep.",
+      "start": 246.639,
+      "end": 246.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, that is what i was getting confused.",
+      "start": 246.659,
+      "end": 248.099,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "like i was going through some article- mm-hmm ...",
+      "start": 248.099,
+      "end": 250.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "but i was getting confused, and there are no much videos, uh, in youtube also regarding this.",
+      "start": 250.179,
+      "end": 255.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, new plan related because this, uh, basically, uh, cutting this, there should be some videos.",
+      "start": 255.779,
+      "end": 262.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "let me check it once and get back to you for the video-related thing.",
+      "start": 262.879,
+      "end": 266.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 266.839,
+      "end": 266.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "if you'll be having any, i'll share it with you.",
+      "start": 266.859,
+      "end": 269.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 269.559,
+      "end": 269.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 269.779,
+      "end": 270.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, you can have...",
+      "start": 270.959,
+      "end": 271.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "by the time, i'll share you the product notes as well.",
+      "start": 271.779,
+      "end": 273.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 274.139,
+      "end": 274.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, you can see this member will be relationship and europe account.",
+      "start": 274.159,
+      "end": 277.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and, uh- mm-hmm ...",
+      "start": 278.239,
+      "end": 278.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "just wanted to know, sir, from where did you get to know about our platform, sir?",
+      "start": 278.999,
+      "end": 282.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you get it or from somewhere?",
+      "start": 282.379,
+      "end": 283.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, i was just seeing, like i have been in stock market for a long time.",
+      "start": 283.499,
+      "end": 288.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i have been seeing some other options.",
+      "start": 288.119,
+      "end": 290.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 290.979,
+      "end": 291.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, 1 of my friend was telling there is a option like p2p.",
+      "start": 291.239,
+      "end": 294.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 295.679,
+      "end": 295.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i was going through all the different platform where i can see about this.",
+      "start": 295.699,
+      "end": 300.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "but there is a problem because if i start with my account and if i get any interest, so i'll be taxed on that.",
+      "start": 300.859,
+      "end": 306.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 307.299,
+      "end": 307.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that is what, what i was seeing.",
+      "start": 307.479,
+      "end": 309.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 309.259,
+      "end": 309.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "here, the returns, whichever you will earn, it will be, um, uh, like you have to show it in other incomes.",
+      "start": 309.679,
+      "end": 315.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so that...",
+      "start": 315.899,
+      "end": 316.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, that, that is what.",
+      "start": 316.259,
+      "end": 317.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "because i'll be coming in 30% bracket slab.",
+      "start": 317.459,
+      "end": 321.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 321.319,
+      "end": 321.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, again i have to pay- so, you can save any of your family members' account like your mother or father.",
+      "start": 321.599,
+      "end": 324.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, that is why...",
+      "start": 324.699,
+      "end": 325.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, that's why yesterday, uh, i went there and created 1 account in my wife's name.",
+      "start": 325.199,
+      "end": 330.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 331.319,
+      "end": 332.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so she doesn't have any income or...",
+      "start": 332.259,
+      "end": 334.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "can you share her, like, contact number or name, anything like that?",
+      "start": 335.059,
+      "end": 337.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 337.899,
+      "end": 338.219,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, it's, her name is rupa shishiti.",
+      "start": 339.319,
+      "end": 341.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, that, that account is managed by me only, so she'll be not doing anything.",
+      "start": 342.339,
+      "end": 346.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 347.339,
+      "end": 347.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, okay.",
+      "start": 348.159,
+      "end": 348.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, can you repeat the name again?",
+      "start": 349.579,
+      "end": 350.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME",
+      "start": 351.679,
+      "end": 352.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>",
+      "start": 352.999,
+      "end": 354.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 354.319,
+      "end": 354.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "have you used- yeah ...",
+      "start": 354.639,
+      "end": 355.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the referral code?",
+      "start": 355.539,
+      "end": 356.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, nothing.",
+      "start": 357.519,
+      "end": 358.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, we didn't use anything.",
+      "start": 358.299,
+      "end": 360.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, let me do 1 thing.",
+      "start": 360.979,
+      "end": 362.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "let me, uh, just, uh, connect you whatsapp, uh, so you can share me her whatsapp num- like, uh, sorry.",
+      "start": 362.439,
+      "end": 369.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "registered contact number of lendingclub, so i'll mark the referral code of it.",
+      "start": 369.779,
+      "end": 374.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 374.359,
+      "end": 374.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 374.999,
+      "end": 375.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 375.819,
+      "end": 376.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, it will be linked with your account.",
+      "start": 376.319,
+      "end": 377.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "will you mention like, \"yes, it's your managed account.\"",
+      "start": 377.719,
+      "end": 379.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, we can identify.",
+      "start": 379.959,
+      "end": 381.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, okay.",
+      "start": 381.639,
+      "end": 382.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, so if i link that, will that will be reflected in my tax?",
+      "start": 382.759,
+      "end": 387.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "this 1.",
+      "start": 387.959,
+      "end": 388.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "that is what i am worried about.",
+      "start": 388.419,
+      "end": 389.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, no, no, no, no.",
+      "start": 390.459,
+      "end": 391.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it will not.",
+      "start": 391.559,
+      "end": 392.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "nothing will be visible, sir.",
+      "start": 392.379,
+      "end": 393.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we don't report it, uh, anywhere, sir.",
+      "start": 393.699,
+      "end": 396.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, it will be not visible in your pin card.",
+      "start": 396.039,
+      "end": 398.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "whatever investment you do it at a p2p platform, as per rbi, we, we are not reporting it currently, sir.",
+      "start": 398.359,
+      "end": 404.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we don't have such guidelines right now from rbi to report it.",
+      "start": 404.379,
+      "end": 407.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 407.599,
+      "end": 407.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 407.939,
+      "end": 407.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, so it will not be visible until and unless you will not show it like in i- this returns in your other income things.",
+      "start": 407.959,
+      "end": 415.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, sir.",
+      "start": 415.539,
+      "end": 416.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "that's it.",
+      "start": 417.179,
+      "end": 417.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, okay, sir.",
+      "start": 417.219,
+      "end": 418.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we'll text you or whatsapp in some time and then you can, uh- sure ...",
+      "start": 419.159,
+      "end": 422.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you can go ahead for the referral for the back.",
+      "start": 422.819,
+      "end": 425.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 425.739,
+      "end": 426.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 426.239,
+      "end": 426.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 426.739,
+      "end": 427.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 427.299,
+      "end": 427.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 427.639,
+      "end": 427.979,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.839,
+      "end": 1.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 1.679,
+      "end": 2.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hi.",
+      "start": 2.74,
+      "end": 2.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "good afternoon.",
+      "start": 2.819,
+      "end": 3.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "this is <PII_NAME> from lending club, p2p lending platform.",
+      "start": 3.299,
+      "end": 6.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "well, i'm so sorry ma'am, but we are not interested.",
+      "start": 7.819,
+      "end": 10.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i'm not selling anything.",
+      "start": 11.3,
+      "end": 12.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "aapka registration hai yahan pe aur pacheez haar ka investment already hai.",
+      "start": 12.84,
+      "end": 16.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME> ji ke naam se.",
+      "start": 17.139,
+      "end": 19.539,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "actually the thing is that he is sleeping right now.",
+      "start": 19.539,
+      "end": 21.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so can you please call us a bit later?",
+      "start": 21.399,
+      "end": 23.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 23.959,
+      "end": 24.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no problem.",
+      "start": 24.279,
+      "end": 24.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 24.779,
+      "end": 25.2,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "segments": [
+    {
+      "text": "hello?",
+      "start": 0.34,
+      "end": 0.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 3.659,
+      "end": 4.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "actually.",
+      "start": 5.719,
+      "end": 6.359,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello.",
+      "start": 8.119,
+      "end": 8.44,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello.",
+      "start": 8.679,
+      "end": 9.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 9.939,
+      "end": 10.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां जी, गुड आफ्टरनून।",
+      "start": 11.399,
+      "end": 12.42,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> बात कर रहा हूं लिंक टेक क्लास से।",
+      "start": 12.439,
+      "end": 14.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां जी, आपका रिलेशनशिप मैनेजर।",
+      "start": 15.46,
+      "end": 18.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "रात कर रहा हूं अपने हमारे प्लेटफार्म पे इन्वेस्टमेंट किया था ना कंपनी में।",
+      "start": 18.059,
+      "end": 21.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "उस रिगार्डिंग बात करना है।",
+      "start": 22.42,
+      "end": 23.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां बोलो।",
+      "start": 25.559,
+      "end": 26.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "यस सर, जसवंत रेनोवा से आपको कुछ क्वेरीज वगैरा है ऐसा।",
+      "start": 26.619,
+      "end": 29.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "कुछ नहीं।",
+      "start": 29.84,
+      "end": 34.24,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

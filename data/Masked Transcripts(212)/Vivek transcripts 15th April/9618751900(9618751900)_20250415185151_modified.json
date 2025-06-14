@@ -1,0 +1,88 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.5,
+      "end": 0.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 2.2,
+      "end": 2.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "good evening, <PII_NAME>.",
+      "start": 3.059,
+      "end": 4.4,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "bath.",
+      "start": 4.4,
+      "end": 4.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "lean the in club sir.",
+      "start": 5.019,
+      "end": 6.0,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "bolly.",
+      "start": 6.559,
+      "end": 7.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 7.519,
+      "end": 7.96,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "actually, your relationship manager bath car rahe ho apne hamare platform par, wo register kiya tha na investments karne ke liye.",
+      "start": 7.96,
+      "end": 12.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "kya bol rahe hai?",
+      "start": 15.279,
+      "end": 15.92,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "main bata raha hun aap apna investment karne ke liye check kar rahe the na aap p2p lending mein aapne register kiya tha hamare platform pe.",
+      "start": 16.26,
+      "end": 23.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "nahi usko to nahi hai sufficient branch nahi hai dise mani kardia.",
+      "start": 23.979,
+      "end": 29.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "to mana o aap investments karne ke liye dekh rahe the ya loan lena tha aapko.",
+      "start": 30.639,
+      "end": 33.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "loan ke liye dekh raha tha.",
+      "start": 35.659,
+      "end": 37.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "theek hai nahi yahan se loan nahi milta loan k liye instamoney app install karna hain wahan se aapko loan mil jayega.",
+      "start": 38.799,
+      "end": 43.2,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

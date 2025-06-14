@@ -1,0 +1,64 @@
+{
+  "segments": [
+    {
+      "text": "[<PII_NAME>].",
+      "start": 0.0,
+      "end": 0.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 1.319,
+      "end": 1.339,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sir, हो गया अपलोड।",
+      "start": 1.339,
+      "end": 2.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके।",
+      "start": 2.899,
+      "end": 3.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आपने ओवरराइट कर दिया ना।",
+      "start": 3.22,
+      "end": 4.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां, हां।",
+      "start": 4.599,
+      "end": 5.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके।",
+      "start": 5.559,
+      "end": 5.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके।",
+      "start": 5.719,
+      "end": 5.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके।",
+      "start": 5.719,
+      "end": 6.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "वेलकम।",
+      "start": 7.079,
+      "end": 10.72,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

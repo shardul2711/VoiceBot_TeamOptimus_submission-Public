@@ -1,0 +1,76 @@
+{
+  "segments": [
+    {
+      "text": "हेलो गुड आफ्टरनून।",
+      "start": 0.439,
+      "end": 4.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां जी आपको कॉल करने का ट्राई करें जाना।",
+      "start": 6.679,
+      "end": 9.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "लेनदेन क्लब से बोल रहे हैं।",
+      "start": 11.179,
+      "end": 13.219,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मेरा एक पेमेंट प्रोसेस हो रहा है।",
+      "start": 13.279,
+      "end": 16.46,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_DATE> अभी तक आए नहीं है।",
+      "start": 16.879,
+      "end": 19.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "एक बार अपने बैंक अकाउंट में चेक कीजिए।",
+      "start": 20.34,
+      "end": 22.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आ गया होगा अभी तक आपको।",
+      "start": 22.199,
+      "end": 24.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "स्टेटस में प्रोसेसिंग ही बता रहा हूं।",
+      "start": 24.379,
+      "end": 27.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "वो अमाउंट क्रेडिट हो गया होगा।",
+      "start": 27.199,
+      "end": 28.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "वो एक बार चेक कर लीजिए आपके बैंक।",
+      "start": 28.959,
+      "end": 31.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ठीक है।",
+      "start": 31.979,
+      "end": 32.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कोई बात नहीं थैंक यू।",
+      "start": 32.639,
+      "end": 37.299,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

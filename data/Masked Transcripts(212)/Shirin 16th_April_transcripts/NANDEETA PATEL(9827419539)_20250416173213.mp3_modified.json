@@ -1,0 +1,370 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 1.819,
+      "end": 2.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello, good afternoon.",
+      "start": 2.159,
+      "end": 3.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "this is <PII_NAME> from lending club, p2p lending platform.",
+      "start": 3.46,
+      "end": 6.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "can i talk to <PII_NAME>, please?",
+      "start": 6.059,
+      "end": 7.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "welcome to bollinger's lane.",
+      "start": 8.359,
+      "end": 11.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "lending club is a peer-to-peer lending platform, ma'am.",
+      "start": 11.579,
+      "end": 13.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we have a registration here under your name.",
+      "start": 13.96,
+      "end": 15.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you can start with an investment of 50,000.",
+      "start": 15.8,
+      "end": 17.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "right, ma'am?",
+      "start": 17.5,
+      "end": 17.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 20.639,
+      "end": 20.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 22.559,
+      "end": 22.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, like, do you want to know if you have any questions regarding the investment?",
+      "start": 22.579,
+      "end": 26.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 27.5,
+      "end": 27.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 27.859,
+      "end": 27.879,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "so, you <PII_USERNAME> account yourself, ma'am, or is there someone else handling it on your behalf?",
+      "start": 29.039,
+      "end": 34.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "there is someone else doing it.",
+      "start": 35.279,
+      "end": 37.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, they already have an account on our platform, ma'am?",
+      "start": 37.479,
+      "end": 41.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, it's not there.",
+      "start": 43.54,
+      "end": 45.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, can you tell me their mobile number so i can contact them?",
+      "start": 45.639,
+      "end": 49.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "1 minute, let me get it done.",
+      "start": 49.479,
+      "end": 52.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and what time did you come today?",
+      "start": 54.84,
+      "end": 57.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, you are talking to a person, right?",
+      "start": 57.5,
+      "end": 62.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "he has kept your call on hold.",
+      "start": 63.559,
+      "end": 76.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "please stay on the line.",
+      "start": 76.879,
+      "end": 79.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the person you are speaking with has put your call on hold.",
+      "start": 79.4,
+      "end": 82.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "please stay on the line.",
+      "start": 83.419,
+      "end": 84.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "your call...",
+      "start": 85.139,
+      "end": 86.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 90.619,
+      "end": 90.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what's going on?",
+      "start": 91.0,
+      "end": 92.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 92.059,
+      "end": 92.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "good evening, sir.",
+      "start": 93.279,
+      "end": 94.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i am <PII_NAME> speaking from lending club, p2p lending platform.",
+      "start": 94.22,
+      "end": 97.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, tell me.",
+      "start": 98.099,
+      "end": 98.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, sir, i wanted to know that you have referred <PII_NAME> ji on the platform?",
+      "start": 99.919,
+      "end": 103.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes, first i used to do it, after that i referred her.",
+      "start": 103.259,
+      "end": 105.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok, if you have any relationship manager, then you can tell me your name, then your relationship manager will also <PII_USERNAME> account of <PII_NAME> ma'am.",
+      "start": 105.059,
+      "end": 117.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok, then give me the relationship manager.",
+      "start": 120.719,
+      "end": 127.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok, so is there anyone assigned to you as a relationship manager?",
+      "start": 127.779,
+      "end": 130.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i was trying to find out.",
+      "start": 130.419,
+      "end": 130.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you can tell me your registered mobile number, i will be able to see who is your manager.",
+      "start": 130.419,
+      "end": 134.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, this is what i did in the contact, right?",
+      "start": 134.3,
+      "end": 136.3,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "in the contact.",
+      "start": 136.3,
+      "end": 137.559,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "ok, this is my number.",
+      "start": 138.239,
+      "end": 139.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes, i need your number.",
+      "start": 139.139,
+      "end": 141.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you have also invested, then someone from your account will come.",
+      "start": 142.199,
+      "end": 146.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, i had invested.",
+      "start": 146.02,
+      "end": 147.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, i am done.",
+      "start": 147.959,
+      "end": 148.08,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "it's been a year and a half since i have been investing.",
+      "start": 148.08,
+      "end": 148.08,
+      "speaker_id": "speaker_2"
+    },
+    {
+      "text": "i have been doing it since 2003.",
+      "start": 148.08,
+      "end": 149.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok, can you tell me your number, sir?",
+      "start": 149.539,
+      "end": 151.82,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_PHONE>.",
+      "start": 152.0,
+      "end": 161.74,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "1 5 8 minutes, let me check.",
+      "start": 161.86,
+      "end": 164.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "your main office is in <PII_CITY> only, right?",
+      "start": 166.519,
+      "end": 170.72,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no sir, our office is in <PII_CITY>, sir.",
+      "start": 170.759,
+      "end": 174.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "is there any other branch in <PII_CITY>?",
+      "start": 174.919,
+      "end": 177.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no sir, there are no branches.",
+      "start": 177.5,
+      "end": 178.72,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "our platform is our headquarter in <PII_CITY>, sir.",
+      "start": 178.779,
+      "end": 182.379,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok, yes sir.",
+      "start": 183.3,
+      "end": 185.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, your relationship manager who is there, he will also <PII_USERNAME> account of your voice, so i pass it on to him, so he will call you in some time, ok.",
+      "start": 185.94,
+      "end": 196.58,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, i will tell him to call me.",
+      "start": 196.58,
+      "end": 198.36,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes sir, okay, okay, it will work, thank you.",
+      "start": 198.479,
+      "end": 201.379,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

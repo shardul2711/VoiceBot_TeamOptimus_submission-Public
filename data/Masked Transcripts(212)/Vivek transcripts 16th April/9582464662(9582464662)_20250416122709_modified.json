@@ -1,0 +1,22 @@
+{
+  "segments": [
+    {
+      "text": "[background noise] hello.",
+      "start": 0.0,
+      "end": 0.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 2.24,
+      "end": 2.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "good afternoon, <PII_NAME> ...",
+      "start": 2.939,
+      "end": 4.48,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

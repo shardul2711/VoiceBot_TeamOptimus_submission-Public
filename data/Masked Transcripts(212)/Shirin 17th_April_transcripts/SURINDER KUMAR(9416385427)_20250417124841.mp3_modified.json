@@ -1,0 +1,346 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 1.259,
+      "end": 1.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 2.44,
+      "end": 2.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "good afternoon, sir.",
+      "start": 3.159,
+      "end": 3.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i am <PII_NAME> talking from leendinclub, p2p lending platform.",
+      "start": 3.939,
+      "end": 7.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "am i speaking to surender kumar?",
+      "start": 7.079,
+      "end": 7.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 7.879,
+      "end": 8.4,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sir, you registered in leendinclub as an investor and also started some investment.",
+      "start": 9.539,
+      "end": 15.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, i want to know if you have any questions or queries that i can address.",
+      "start": 15.219,
+      "end": 19.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "this portal of yours does not show the statement correctly.",
+      "start": 20.479,
+      "end": 26.52,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "which statement are you referring to, sir?",
+      "start": 26.52,
+      "end": 26.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "tell me.",
+      "start": 26.52,
+      "end": 26.54,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "whatever is the statement of investment, it is a mail, it shows that there is no trace, i don't know what is wrong.",
+      "start": 26.54,
+      "end": 37.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ok, so do 1 thing, your mail will not be verified.",
+      "start": 37.559,
+      "end": 41.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you go to your account once.",
+      "start": 43.159,
+      "end": 46.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you can login now, i will tell you once.",
+      "start": 46.779,
+      "end": 53.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "when you login, there will be a more option.",
+      "start": 53.399,
+      "end": 54.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "after clicking on the more option, you will see your name on the top and an account details will be written there.",
+      "start": 54.02,
+      "end": 60.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you click on it, you will get the option to verify the email id, which if you click on verify, an email will be sent from where you have to verify your email address.",
+      "start": 60.619,
+      "end": 71.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "then all the reports will come to your email.",
+      "start": 71.919,
+      "end": 75.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "your email id is not verified, that's the reason you are not able to send reports.",
+      "start": 75.739,
+      "end": 78.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i have to go to more detail, right?",
+      "start": 79.079,
+      "end": 80.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, go to more.",
+      "start": 80.739,
+      "end": 82.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "go to more detail?",
+      "start": 82.859,
+      "end": 83.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, click on more, then you will see your name on the top and then an option called account details will come below.",
+      "start": 83.319,
+      "end": 90.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "there is account detail, notification, network certificate, more detail, refer, help center.",
+      "start": 91.479,
+      "end": 98.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "click on account details, sir.",
+      "start": 98.839,
+      "end": 100.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "on more detail?",
+      "start": 101.699,
+      "end": 102.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, on account detail.",
+      "start": 102.199,
+      "end": 104.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "now it is in account detail, there is email, resend, edit, email is entered, mobile number is entered.",
+      "start": 106.019,
+      "end": 119.179,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, on email id, are you getting a green tick or a red color cross?",
+      "start": 119.179,
+      "end": 123.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, it is blue in color.",
+      "start": 123.499,
+      "end": 128.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "there is a star like email, sir.",
+      "start": 128.659,
+      "end": 129.899,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "red-like.",
+      "start": 130.279,
+      "end": 131.099,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, it has not been verified.",
+      "start": 131.099,
+      "end": 134.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you want to click on resend, then an email will be sent to you.",
+      "start": 134.059,
+      "end": 138.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok, so an email will come to you, then from there you have to click on verify email, in the email.",
+      "start": 138.819,
+      "end": 145.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "are you sure you want to resend email verification?",
+      "start": 147.299,
+      "end": 150.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "verification email has been sent.",
+      "start": 151.739,
+      "end": 153.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, now the email address that you have entered in the app, <PII_EMAIL>,",
+      "start": 153.879,
+      "end": 160.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "open the same email on your phone, you will get an email from leendinclub.",
+      "start": 160.819,
+      "end": 165.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it will have a verify email button.",
+      "start": 165.599,
+      "end": 167.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "click on it, your email id will be verified.",
+      "start": 168.219,
+      "end": 170.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "then after that, if you download any report, it will come to your email, sir.",
+      "start": 171.879,
+      "end": 176.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it is verified.",
+      "start": 177.179,
+      "end": 180.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 180.459,
+      "end": 182.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it is verified.",
+      "start": 182.479,
+      "end": 183.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay sir, now download the report and check it once.",
+      "start": 183.519,
+      "end": 186.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 187.179,
+      "end": 187.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and then if you have any query, call us.",
+      "start": 187.199,
+      "end": 189.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "how did you come to know about our platform, sir?",
+      "start": 189.759,
+      "end": 194.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i had seen the ad.",
+      "start": 194.299,
+      "end": 195.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "you had seen the ad.",
+      "start": 195.619,
+      "end": 197.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok, no problem sir.",
+      "start": 197.859,
+      "end": 198.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "check it out by downloading the report.",
+      "start": 199.019,
+      "end": 206.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you have any query, then call us.",
+      "start": 206.519,
+      "end": 206.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 206.739,
+      "end": 206.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 206.739,
+      "end": 207.079,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

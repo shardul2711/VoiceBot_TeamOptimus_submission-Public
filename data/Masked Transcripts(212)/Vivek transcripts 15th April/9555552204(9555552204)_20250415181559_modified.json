@@ -1,0 +1,70 @@
+{
+  "segments": [
+    {
+      "text": "[background noise] hello?",
+      "start": 0.079,
+      "end": 0.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 1.5,
+      "end": 1.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "good evening, sir.",
+      "start": 2.18,
+      "end": 3.139,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "good evening.",
+      "start": 4.179,
+      "end": 4.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, so basically, i was telling you the same thing, so yes, so what you were telling me about the principal and interest breakup of application, our team is already working on it, so mostly a new update will come in some time, in that your application will also be shown.",
+      "start": 4.699,
+      "end": 18.3,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it will be done that the amount you received, out of that the principal and interest will be given.",
+      "start": 18.379,
+      "end": 24.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, the application will look more reliable, right?",
+      "start": 24.779,
+      "end": 27.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "correct.",
+      "start": 27.879,
+      "end": 28.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "easy to understand what is my earning and what has happened.",
+      "start": 28.92,
+      "end": 33.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "correct.",
+      "start": 33.979,
+      "end": 34.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "",
+      "start": null,
+      "end": null,
+      "speaker_id": null
+    }
+  ]
+}

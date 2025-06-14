@@ -1,0 +1,100 @@
+{
+  "segments": [
+    {
+      "text": "[background noise] Hello!",
+      "start": 0.0,
+      "end": 1.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Good afternoon sir, <PII_NAME> baat kar rahe ho all indian clubs.",
+      "start": 2.819,
+      "end": 5.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sir.",
+      "start": 5.599,
+      "end": 5.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "apka bank details already updated hai.",
+      "start": 7.179,
+      "end": 9.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "India post payment bank se aapko update karna tha right?",
+      "start": 9.899,
+      "end": 12.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Yeh delete karke dusri bank apply ki jawani hai.",
+      "start": 13.559,
+      "end": 16.44,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Ok toh jo dusri bank aapko upload karna uska bank details aap mujhe bhejiyega jisse main wo update kar paaunga.",
+      "start": 16.459,
+      "end": 22.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Aapne phir se India post Payment Bank ka details bheja hai mujhe.",
+      "start": 23.439,
+      "end": 26.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Toh ok tha na.",
+      "start": 28.059,
+      "end": 28.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Ok.",
+      "start": 28.659,
+      "end": 28.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Kaun si bank aapko register karna hai abhi.",
+      "start": 29.42,
+      "end": 31.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Sorry.",
+      "start": 32.54,
+      "end": 34.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Haa ji, woh aane wale time par bhej diya tha.",
+      "start": 36.139,
+      "end": 38.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Usko bhej dijiyega jो bank aapko update karna hai wo bank ka details bhejiye toh main use update kar doonga.",
+      "start": 38.219,
+      "end": 43.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "Uske baad mein.",
+      "start": 43.939,
+      "end": 44.78,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "Thank you.",
+      "start": 45.36,
+      "end": 46.78,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

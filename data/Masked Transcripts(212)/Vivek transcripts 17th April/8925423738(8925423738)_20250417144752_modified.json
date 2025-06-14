@@ -1,0 +1,52 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.419,
+      "end": 0.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 2.019,
+      "end": 2.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "good afternoon.",
+      "start": 2.7,
+      "end": 3.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>, what can i learn in club?",
+      "start": 3.859,
+      "end": 5.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>, what can i learn, then?",
+      "start": 8.319,
+      "end": 11.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "clubs are.",
+      "start": 11.659,
+      "end": 12.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "actually, i'm your relationship manager.",
+      "start": 13.759,
+      "end": 17.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "then the next time you actually you had invested on our platform.",
+      "start": 17.619,
+      "end": 21.76,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

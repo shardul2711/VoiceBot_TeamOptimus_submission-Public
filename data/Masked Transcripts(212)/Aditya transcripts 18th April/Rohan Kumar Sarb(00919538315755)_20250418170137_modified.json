@@ -1,0 +1,532 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.5,
+      "end": 0.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it's okay.",
+      "start": 1.1,
+      "end": 1.499,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "can you hear me?",
+      "start": 1.519,
+      "end": 2.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "some network issue, i think, sir.",
+      "start": 2.419,
+      "end": 3.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, sir.",
+      "start": 5.159,
+      "end": 5.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 6.0,
+      "end": 6.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, uh- so should i arrange a callback for him?",
+      "start": 6.539,
+      "end": 9.06,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "mm, yes you can, but he was asking from my side.",
+      "start": 10.899,
+      "end": 13.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "like if i tell him, he will, like he'll ask me.",
+      "start": 13.699,
+      "end": 16.6,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, okay.",
+      "start": 17.039,
+      "end": 17.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what should i tell sir?",
+      "start": 17.5,
+      "end": 18.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sir, definitely risk is there, but here your risk gets mitigated.",
+      "start": 20.0,
+      "end": 24.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "when you diversify your amount, definitely risk gets mitigated over here.",
+      "start": 24.619,
+      "end": 29.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and you're invest-, not investing the entire amount in 1 or 2 loans.",
+      "start": 30.019,
+      "end": 34.24,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "your amount will be diversified among multiple loans, and it is like 1, 1 1000 in each loan.",
+      "start": 34.5,
+      "end": 41.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so definitely, if you lend in 100, there are chances 1 or 2 will be delay of default.",
+      "start": 41.04,
+      "end": 47.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "but in that, we have a, uh, historical data that we always make sure that you achieve, you get more than your principal amount.",
+      "start": 48.02,
+      "end": 60.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so your principal is covered over there.",
+      "start": 60.419,
+      "end": 62.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you will receive around like 18 to 20% of minimum returns.",
+      "start": 62.859,
+      "end": 66.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "maximum you can go up to like 30, 35.",
+      "start": 67.059,
+      "end": 69.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 71.339,
+      "end": 71.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "for a year.",
+      "start": 71.879,
+      "end": 72.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 73.599,
+      "end": 73.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 74.519,
+      "end": 74.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and so the limit of lending 1 person is only 4 1000.",
+      "start": 75.679,
+      "end": 79.439,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 79.799,
+      "end": 80.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "limit is the 4 1000.",
+      "start": 80.139,
+      "end": 81.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 84.379,
+      "end": 84.759,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 84.999,
+      "end": 85.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 87.359,
+      "end": 87.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "limit is the 4 1000.",
+      "start": 87.419,
+      "end": 88.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "however, uh, when you do lump sum at that time, it is 5 1000 also.",
+      "start": 88.659,
+      "end": 95.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so when you lend in 11 month and 14 month plan, there is 5, 5 1000 goes in each loan.",
+      "start": 96.379,
+      "end": 101.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so if you don't want to take the risk, you can definitely go for, uh, 7 months plan where 1, 1 1000 gets diversified in each loan.",
+      "start": 102.279,
+      "end": 111.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and sir, the crif score that is shown in the app- mm-hmm.",
+      "start": 113.779,
+      "end": 117.019,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "...",
+      "start": 117.019,
+      "end": 117.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "what is the crif score, the cibil score?",
+      "start": 117.039,
+      "end": 118.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "crif is...",
+      "start": 118.439,
+      "end": 118.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "or the experience?",
+      "start": 118.899,
+      "end": 119.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh-huh.",
+      "start": 119.159,
+      "end": 119.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 119.519,
+      "end": 119.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "crif, experian and cibil, this all 3 are bureaus.",
+      "start": 120.239,
+      "end": 124.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 124.559,
+      "end": 124.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so we follow crif, and as for crif, minimum like 500 to 600 are better profiles.",
+      "start": 125.179,
+      "end": 131.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and if it is 300 and below or 300 something, so they are new to the loans.",
+      "start": 131.499,
+      "end": 136.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so that's why their profile is like, uh, with the less score.",
+      "start": 136.379,
+      "end": 140.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that's why we have added idds score over there, where more than 200 parameters are verified and then the borrower is onboarded.",
+      "start": 140.639,
+      "end": 151.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so we check their salary.",
+      "start": 151.519,
+      "end": 152.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we check their- the borrower- mm-hmm ...",
+      "start": 152.779,
+      "end": 155.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "who is asking for the money, from which platform they're asking?",
+      "start": 155.659,
+      "end": 159.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "like, uh, even on the platform for the- so we have...",
+      "start": 159.219,
+      "end": 160.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, yeah.",
+      "start": 161.459,
+      "end": 161.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we have our own product which is instamoney, lendingclubs' product, instamoney app.",
+      "start": 161.859,
+      "end": 168.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "through instamoney app they apply for the loan.",
+      "start": 168.179,
+      "end": 170.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 172.559,
+      "end": 172.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so lendingclub, uh, it is a lendingclub's product.",
+      "start": 173.619,
+      "end": 176.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and once borrower makes the, uh, like applies for the loan, we verify them, and then the amount, then the loan is placed on the platform, lendingclub platform.",
+      "start": 176.739,
+      "end": 186.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 187.479,
+      "end": 187.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 188.039,
+      "end": 188.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sir, what is the platform again?",
+      "start": 190.419,
+      "end": 191.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sorry?",
+      "start": 192.179,
+      "end": 192.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "instamoney.",
+      "start": 193.439,
+      "end": 193.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what was the platform?",
+      "start": 193.779,
+      "end": 194.119,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "instamoney.",
+      "start": 194.119,
+      "end": 194.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "instamoney.",
+      "start": 194.559,
+      "end": 195.659,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "instamoney, yes.",
+      "start": 196.099,
+      "end": 197.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 198.559,
+      "end": 198.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 198.959,
+      "end": 199.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "let me know if- okay ...",
+      "start": 200.059,
+      "end": 200.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you have any questions or if you want me to connect with him, i can definitely get the, uh, get him, uh...",
+      "start": 200.919,
+      "end": 207.219,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "did he, uh, create the account, sir?",
+      "start": 207.299,
+      "end": 209.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, sir, i haven't created the account yet.",
+      "start": 211.619,
+      "end": 212.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "the customer is asking me.",
+      "start": 213.019,
+      "end": 213.879,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i will be creating- okay ...",
+      "start": 213.879,
+      "end": 214.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "in short.",
+      "start": 214.619,
+      "end": 215.219,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, okay, let me know once he creates the account, or if you want me- okay ...",
+      "start": 215.539,
+      "end": 219.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "to connect with him, i will definitely get the, uh, callback arranged for you.",
+      "start": 219.979,
+      "end": 224.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay?",
+      "start": 224.439,
+      "end": 224.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 225.139,
+      "end": 225.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 225.619,
+      "end": 225.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sure.",
+      "start": 226.159,
+      "end": 226.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 226.839,
+      "end": 227.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and by monday- okay ...",
+      "start": 228.059,
+      "end": 228.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you will receive the call for that.",
+      "start": 228.639,
+      "end": 229.999,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, sir.",
+      "start": 231.079,
+      "end": 231.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 231.479,
+      "end": 231.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure.",
+      "start": 231.999,
+      "end": 232.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 232.639,
+      "end": 233.079,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

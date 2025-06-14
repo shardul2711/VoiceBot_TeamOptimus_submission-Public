@@ -1,0 +1,172 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.419,
+      "end": 0.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 1.319,
+      "end": 1.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "good evening.",
+      "start": 2.039,
+      "end": 2.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we will take a bath.",
+      "start": 2.939,
+      "end": 3.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "lendin club sir.",
+      "start": 4.019,
+      "end": 5.04,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_NAME>, i am your relationship manager talking about our platform because of the investment in p2p lending.",
+      "start": 5.519,
+      "end": 11.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, sir.",
+      "start": 14.019,
+      "end": 14.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>, i called you regarding that.",
+      "start": 14.939,
+      "end": 16.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so basically, you already know exactly what is p2p lending, how does it work?",
+      "start": 18.039,
+      "end": 22.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "do you have any doubts about all this?",
+      "start": 23.319,
+      "end": 25.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sir, i had used it for the first time, all those returns came back to my account.",
+      "start": 25.699,
+      "end": 29.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, sir, the returns came back, which i had put na.",
+      "start": 29.539,
+      "end": 29.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what are you telling me?",
+      "start": 29.779,
+      "end": 35.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sir, i had put <PII_AMOUNT> rupees but that return is coming back to the account by paying 2 and a half 100 and 10 times.",
+      "start": 35.779,
+      "end": 43.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, your returns did not come.",
+      "start": 43.799,
+      "end": 46.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "friend sir, that amount was invested in it, isn't it?",
+      "start": 46.279,
+      "end": 50.9,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, it got reversed, didn't it?",
+      "start": 52.399,
+      "end": 52.68,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sir, all that amount of mine which i had put for investment has been reversed.",
+      "start": 52.68,
+      "end": 53.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it means reverse.",
+      "start": 53.639,
+      "end": 53.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i did not understand exactly.",
+      "start": 55.699,
+      "end": 56.68,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "your amount has returned.",
+      "start": 56.68,
+      "end": 65.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "in that, yes, the return means the money i had put has come back to my account, to your bank account.",
+      "start": 65.619,
+      "end": 68.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, you can send a screenshot of it.",
+      "start": 69.599,
+      "end": 74.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "where is the cash from?",
+      "start": 74.459,
+      "end": 75.859,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "exactly.",
+      "start": 75.86,
+      "end": 76.32,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you have already invested your amount from here.",
+      "start": 77.919,
+      "end": 81.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, then i will send it to you on whatsapp.",
+      "start": 81.899,
+      "end": 86.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "well, i will send it to you.",
+      "start": 88.36,
+      "end": 89.779,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

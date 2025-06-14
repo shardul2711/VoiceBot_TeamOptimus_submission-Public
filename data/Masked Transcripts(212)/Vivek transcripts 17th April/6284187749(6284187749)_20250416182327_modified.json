@@ -1,0 +1,184 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 0.439,
+      "end": 0.74,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello.",
+      "start": 0.979,
+      "end": 1.499,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hi there, good evening, great.",
+      "start": 1.959,
+      "end": 3.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 6.619,
+      "end": 7.02,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, actually, i'm calling about your relationship.",
+      "start": 7.539,
+      "end": 9.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you have invested on our platform, p2p lending?",
+      "start": 9.619,
+      "end": 12.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "can you say that again?",
+      "start": 13.819,
+      "end": 18.54,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "actually, you had invested on our platform on the p2p lending.",
+      "start": 19.079,
+      "end": 22.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "that's why i called you.",
+      "start": 22.1,
+      "end": 22.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, i have.",
+      "start": 24.92,
+      "end": 26.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, yes, so basically just wanted to know if this is the first time you are investing on p2p lending or you're already doing from somewhere else platform?",
+      "start": 26.559,
+      "end": 34.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no, it's the first time.",
+      "start": 35.439,
+      "end": 36.52,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, that's great.",
+      "start": 37.02,
+      "end": 37.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so do you have any doubts or any queries that you wanted to ask regarding our investments?",
+      "start": 38.059,
+      "end": 41.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hmm.",
+      "start": 42.779,
+      "end": 43.28,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i get the p2p.",
+      "start": 44.36,
+      "end": 47.46,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, i just have doubts about lump sum, but i'm not looking into it right now.",
+      "start": 47.659,
+      "end": 52.6,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, means what exactly doubt you have?",
+      "start": 53.319,
+      "end": 55.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hmm.",
+      "start": 58.119,
+      "end": 58.6,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, no- for now, i'm fine.",
+      "start": 59.579,
+      "end": 61.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if i have doubts, i will call.",
+      "start": 61.159,
+      "end": 62.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "fine number.",
+      "start": 62.859,
+      "end": 63.32,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you can save this number.",
+      "start": 63.399,
+      "end": 64.26,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you have any doubts, you can call this number.",
+      "start": 64.279,
+      "end": 66.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 67.439,
+      "end": 67.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah, you can save this number.",
+      "start": 68.08,
+      "end": 69.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you have any doubts in future, you can call on this number.",
+      "start": 69.479,
+      "end": 72.18,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "same number.",
+      "start": 72.18,
+      "end": 72.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay.",
+      "start": 73.739,
+      "end": 74.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "thank you.",
+      "start": 74.339,
+      "end": 74.839,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

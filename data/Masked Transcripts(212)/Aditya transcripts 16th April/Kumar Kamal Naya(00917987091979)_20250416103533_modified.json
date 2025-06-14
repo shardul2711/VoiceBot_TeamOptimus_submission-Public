@@ -1,0 +1,484 @@
+{
+  "segments": [
+    {
+      "text": "हैलो ओ।",
+      "start": 0.019,
+      "end": 0.66,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हैलो।",
+      "start": 0.68,
+      "end": 1.559,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "जी, मैं <PII_NAME> बात कर रहा हूं <PII_CITY> से।",
+      "start": 2.2,
+      "end": 4.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां बताइए सर।",
+      "start": 4.059,
+      "end": 4.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अभी जैसे सुबह से तीन चार बार लॉगिन कोशिश कर रहा हूं।",
+      "start": 5.759,
+      "end": 10.719,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओ टी पी आता ही नहीं है।",
+      "start": 10.739,
+      "end": 11.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ना मेल पर आ रहा ना मोबाइल पर आ रहा।",
+      "start": 11.819,
+      "end": 14.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओ टी पी नहीं आ रहा है आपको?",
+      "start": 14.059,
+      "end": 16.28,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां हां हां।",
+      "start": 16.379,
+      "end": 17.18,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ऑप्लिकेशन से या वेबसाइट ट्राई करें आप।",
+      "start": 17.639,
+      "end": 20.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "वेबसाइट, वेबसाइट।",
+      "start": 22.0,
+      "end": 23.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "से ट्राई कर रहे हो आप?",
+      "start": 24.659,
+      "end": 25.86,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां, वो क्या है मोबाइल फोन अपना छोटा है।",
+      "start": 26.0,
+      "end": 28.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "उसमें वो बारीक बारीक दिखते हैं।",
+      "start": 29.059,
+      "end": 31.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अच्छा थोड़ा एज है फिर भी प्लस है अपनी ऐज वो क्या है कि वो जोर पड़ता है ना।",
+      "start": 31.34,
+      "end": 40.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हाँ हाँ हाँ एक मिनट दीजिए आपका पहले अकाउंट चेक करें।",
+      "start": 40.939,
+      "end": 44.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हाँ और आजकल ये आठ दस दिन से लोन एग्रीमेंट भी नहीं दिख रहे कहीं।",
+      "start": 44.819,
+      "end": 49.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "किसी भी से ज्यादातर इसमें लोन एग्रीमेंट नहीं दिख रहे।",
+      "start": 50.039,
+      "end": 53.04,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "उससे क्या आपको थोड़ा आइडिया रहता है?",
+      "start": 53.059,
+      "end": 54.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां, कुछ प्रॉब्लम है क्या?",
+      "start": 55.299,
+      "end": 57.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "सर एक मिनट दीजिए, मैं आपको बताता हूं।",
+      "start": 58.139,
+      "end": 60.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां हां हां ठीक है, ठीक है।",
+      "start": 60.579,
+      "end": 75.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आप आज लॉग इन कर पाए थे?",
+      "start": 78.9,
+      "end": 80.639,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "राइट!",
+      "start": 80.659,
+      "end": 81.0,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "नहीं नहीं कर पाया है।",
+      "start": 82.04,
+      "end": 84.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आपने <PII_AMOUNT> ऐड किया है।",
+      "start": 84.5,
+      "end": 86.099,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां, हां ऐड किया है।",
+      "start": 86.459,
+      "end": 87.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "वो मोबाइल फोन सेट किया कि मोबाइल फोन से यूपीआई रहता है ना।",
+      "start": 87.419,
+      "end": 90.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "यूपीआई पैसा डाल दिया।",
+      "start": 90.879,
+      "end": 92.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अब जब वो साइट पर जाकर लॉगिन करने की कोशिश कर रहा तो भी आता ही नहीं है।",
+      "start": 92.799,
+      "end": 99.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां।",
+      "start": 99.459,
+      "end": 100.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "एक मिनट दीजिए।",
+      "start": 104.579,
+      "end": 105.379,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां हां हां।",
+      "start": 106.279,
+      "end": 107.079,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "तीन चार बार ट्राई कर चुका हूं।",
+      "start": 107.759,
+      "end": 109.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मॉर्निंग से ओके।",
+      "start": 109.22,
+      "end": 110.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अब यही मोबाइल नंबर इंटर कर रहे हो ना?",
+      "start": 111.099,
+      "end": 113.039,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ना हा हा हा हा हा हा हा हा हा हा हा हा।",
+      "start": 113.839,
+      "end": 118.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ये ही रजिस्टर्ड है ना अपना मेल पर भी आता है ना अभी मेल पर भी नहीं आ रहा है।",
+      "start": 118.199,
+      "end": 126.359,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "कई बार एक दो बार ऐसा हुआ कि मोबाइल पर एसएमएस नहीं आया लेकिन मेल तो आ गया।",
+      "start": 127.419,
+      "end": 132.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके आप अभी एप्लीकेशन ओपन।",
+      "start": 132.5,
+      "end": 135.619,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कर।",
+      "start": 135.66,
+      "end": 135.96,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "यह वेब ओपन कर सकते हो।",
+      "start": 136.279,
+      "end": 137.839,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कर सकते हैं।",
+      "start": 137.899,
+      "end": 138.94,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "कर सकता हूं।",
+      "start": 138.94,
+      "end": 139.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मैं।",
+      "start": 139.279,
+      "end": 139.46,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां एक सेकंड में।",
+      "start": 139.479,
+      "end": 148.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओटीपी रिक्वेस्ट भेज दीजिएगा।",
+      "start": 155.779,
+      "end": 157.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हां हां हां।",
+      "start": 157.519,
+      "end": 160.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "अभी भेजा मैं हां।",
+      "start": 164.199,
+      "end": 165.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "चेक कीजिए आपको।",
+      "start": 168.44,
+      "end": 169.16,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "एसएमएस में आया है मैसेज।",
+      "start": 169.16,
+      "end": 170.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अच्छा सर एक सेकंड में देख रहा हूं।",
+      "start": 171.199,
+      "end": 173.339,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "नहीं नहीं आया अभी तक।",
+      "start": 174.819,
+      "end": 176.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके मेल पर देख लेता हूं।",
+      "start": 176.899,
+      "end": 180.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "एक मिनट मेल आया के।",
+      "start": 180.08,
+      "end": 182.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मेल पर भी नहीं आया है।",
+      "start": 186.039,
+      "end": 187.72,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके ओके एक मिनट दीजिए मुझे।",
+      "start": 187.899,
+      "end": 189.52,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "रिटर्न कहाँ क्या ओटीपी?",
+      "start": 191.139,
+      "end": 232.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_OTP>।",
+      "start": 234.319,
+      "end": 236.38,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "<PII_OTP>।",
+      "start": 239.539,
+      "end": 242.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हाँ हाँ ठीक है आपका जो है ना, वो ओटीपी नहीं आ रहा है ना।",
+      "start": 243.019,
+      "end": 247.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "उसका इशू मैं रेज करता हूं मेरे टेक टीम को।",
+      "start": 247.479,
+      "end": 249.6,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मीनवेल आप मुझे कनेक्ट कर दीजिएगा।",
+      "start": 249.639,
+      "end": 251.44,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मैं आपको चेक करके बता दूंगा।",
+      "start": 251.459,
+      "end": 253.58,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "और ये।",
+      "start": 253.58,
+      "end": 254.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "एग्रीमेंट।",
+      "start": 254.179,
+      "end": 254.72,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "क्यों नहीं दिख रहा है?",
+      "start": 254.759,
+      "end": 255.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आजकल।",
+      "start": 255.519,
+      "end": 256.019,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "एग्रीमेंट के लिए ना हमारी कुछ टेक्निकल ग्लिच है।",
+      "start": 256.299,
+      "end": 260.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "शायद सर हमारी टेक टीम वर्क कर रहे हैं तो जैसे ही अपडेट हो जाता है कुछ तो आपको शेयर करेंगे।",
+      "start": 260.079,
+      "end": 267.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके ओके।",
+      "start": 267.82,
+      "end": 268.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "और ये डेली इंस्टॉलमेंट वाला भी बंद है।",
+      "start": 268.44,
+      "end": 271.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां, करेंटली बंद है क्योंकि वो डेली वाले लोन्स अवेलेबल नहीं है।",
+      "start": 272.0,
+      "end": 275.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अच्छा मंथली वाले हैं।",
+      "start": 275.859,
+      "end": 277.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "मंथली में आप।",
+      "start": 277.699,
+      "end": 278.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कर सकते हैं।",
+      "start": 278.299,
+      "end": 278.66,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां मंथली तो है।",
+      "start": 278.679,
+      "end": 280.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ठीक है, ठीक है।",
+      "start": 280.54,
+      "end": 281.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ओके, थैंक यू।",
+      "start": 281.199,
+      "end": 281.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "थैंक यू।",
+      "start": 282.38,
+      "end": 283.679,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

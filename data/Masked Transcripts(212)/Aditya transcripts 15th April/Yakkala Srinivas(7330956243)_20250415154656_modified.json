@@ -1,0 +1,46 @@
+{
+  "segments": [
+    {
+      "text": "okay, okay.",
+      "start": 0.62,
+      "end": 0.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 0.659,
+      "end": 1.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 1.679,
+      "end": 3.519,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay, okay.",
+      "start": 5.359,
+      "end": 7.119,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, i <PII_NAME>.",
+      "start": 7.139,
+      "end": 7.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, fine, fine.",
+      "start": 8.039,
+      "end": 9.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah",
+      "start": 9.939,
+      "end": 11.38,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

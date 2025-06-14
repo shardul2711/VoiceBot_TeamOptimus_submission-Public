@@ -1,0 +1,220 @@
+{
+  "segments": [
+    {
+      "text": "[background noise].",
+      "start": 0.059,
+      "end": 1.24,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello।",
+      "start": 1.259,
+      "end": 2.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "हैलो।",
+      "start": 2.059,
+      "end": 2.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "जी।",
+      "start": 3.72,
+      "end": 4.46,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अ-गुड आफ्टरनून सर।",
+      "start": 4.48,
+      "end": 5.48,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "मैं <PII_NAME> बात कर रही हूं इंडियन क्लब से पीटीपी लेंडिंग प्लेटफार्म।",
+      "start": 5.519,
+      "end": 9.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME> जी से बात हो रही है?",
+      "start": 9.119,
+      "end": 10.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "जी जी।",
+      "start": 11.42,
+      "end": 11.48,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "जी सर मैंने.....",
+      "start": 11.48,
+      "end": 12.92,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां, जी सर।",
+      "start": 12.92,
+      "end": 13.679,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "लास्ट मंथ में मैंने आपसे कनेक्ट करने का ट्राई किया था।",
+      "start": 13.679,
+      "end": 16.239,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "आपने सर रजिस्ट्रेशन किया है।",
+      "start": 16.239,
+      "end": 18.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "इन्वेस्टमेंट भी स्टार्ट की है तो जानना था कुछ क्वेश्चंस या क्वेरी होगा आपको सर?",
+      "start": 18.159,
+      "end": 22.639,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "जी?",
+      "start": 23.979,
+      "end": 24.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आपको कुछ क्वेश्चन या क्वेरी होगा सर?",
+      "start": 24.84,
+      "end": 26.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "नहीं, नहीं कोई क्वेरी नहीं।",
+      "start": 28.299,
+      "end": 30.219,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ओके सर जैसा मैं देख पा रही हूँ अभी आप फंड ऐड के लिए कुछ ट्राई कर रहे थे सर?",
+      "start": 30.26,
+      "end": 34.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "उम-उम ट्राई कर रहा हूं, सोच रहा हूं।",
+      "start": 35.559,
+      "end": 38.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "लेकिन अभी मैंने थोड़ा सा इन्वेस्टमेंट किया है।",
+      "start": 38.139,
+      "end": 40.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "वो थोड़ा ट्राई करते हैं।",
+      "start": 40.319,
+      "end": 42.019,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "कैसे है, क्या है, कैसे नहीं है इसको थोड़ा समझ लेंगे तो उससे बाद में...",
+      "start": 42.04,
+      "end": 44.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "आपने डेली वाले में इन्वेस्ट किया था रेहा है?",
+      "start": 44.979,
+      "end": 46.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "वैसे आपको डेली, डेली क्रेडिट हो रहा है सर इसके लिए।",
+      "start": 46.399,
+      "end": 48.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हाँ, हाँ, हाँ, हाँ जी, जी।",
+      "start": 48.539,
+      "end": 50.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "जी सर करेक्ट है।",
+      "start": 50.779,
+      "end": 51.619,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "वो मालूम नहीं था लेकिन वैसे भी ठीक है।",
+      "start": 51.639,
+      "end": 53.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "डेली, डेली आने से वो ठीक नहीं करता।",
+      "start": 53.719,
+      "end": 56.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अभी तो छोटा अमाउंट है ना।",
+      "start": 56.099,
+      "end": 57.279,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "तो मैंने सोचा ठीक है।",
+      "start": 57.379,
+      "end": 58.299,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अभी थोड़ा ट्राई कर रहे हैं बाकी...",
+      "start": 58.299,
+      "end": 60.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "अ-अधिक दो महीने बाद...",
+      "start": 61.119,
+      "end": 62.399,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "थोड़ा अच्छा रिजल्ट तो करेगा।",
+      "start": 62.899,
+      "end": 65.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "जी सर ये नंबर सेव कर लीजिए।",
+      "start": 65.54,
+      "end": 67.059,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "कुछ होगा आपको आगे क्वेरी तो कॉल कर सकते हैं आप।",
+      "start": 67.08,
+      "end": 69.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "हां, हां ठीक है मैम।",
+      "start": 70.799,
+      "end": 72.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "थैंक यू।",
+      "start": 72.319,
+      "end": 74.399,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}

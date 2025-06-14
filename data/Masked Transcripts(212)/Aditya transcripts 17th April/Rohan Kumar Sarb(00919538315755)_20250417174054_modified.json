@@ -1,0 +1,250 @@
+{
+  "segments": [
+    {
+      "text": "yeah.",
+      "start": 0.399,
+      "end": 0.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "mm-hmm.",
+      "start": 0.579,
+      "end": 0.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "hello?",
+      "start": 0.599,
+      "end": 0.779,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hello.",
+      "start": 0.779,
+      "end": 0.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, <PII_NAME>, <PII_NAME> here from lending club.",
+      "start": 1.939,
+      "end": 4.059,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh-huh.",
+      "start": 5.159,
+      "end": 5.54,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh-huh.",
+      "start": 5.799,
+      "end": 6.159,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "just now i had a word with you.",
+      "start": 6.219,
+      "end": 7.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, i just checked <PII_NAME> kumar's account.",
+      "start": 7.859,
+      "end": 10.239,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "uh, like, you added the amount yesterday, right?",
+      "start": 10.279,
+      "end": 13.06,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so...",
+      "start": 13.739,
+      "end": 14.22,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "by today evening the amount will get refunded back to you, as more than 24 hours if it is idle, so we, uh, refund it back to your bank account again.",
+      "start": 14.319,
+      "end": 23.919,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 24.439,
+      "end": 24.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 25.819,
+      "end": 26.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so as the amount is not yet lent, so you can, uh- okay ...",
+      "start": 26.279,
+      "end": 30.319,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "like, open the application and lend the amount, or else it will be refunded back.",
+      "start": 30.559,
+      "end": 34.499,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "tomorrow you can re-lend the amount.",
+      "start": 34.5,
+      "end": 36.199,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 36.52,
+      "end": 36.859,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, i will make the investment by...",
+      "start": 37.399,
+      "end": 38.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what is the date?",
+      "start": 38.759,
+      "end": 39.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "what is the deadline?",
+      "start": 39.159,
+      "end": 39.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "uh, like, today evening by 6:30 something the amount will be refunded back, and by 7- okay.",
+      "start": 40.319,
+      "end": 46.799,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "before that i will make that.",
+      "start": 46.799,
+      "end": 47.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah.",
+      "start": 47.159,
+      "end": 47.259,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yeah.",
+      "start": 47.259,
+      "end": 47.34,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "at 8:30 you will receive it in your bank account.",
+      "start": 47.34,
+      "end": 49.999,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 51.02,
+      "end": 51.279,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i will make the investment before that.",
+      "start": 51.279,
+      "end": 52.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yeah, yeah.",
+      "start": 52.439,
+      "end": 52.9,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sure.",
+      "start": 53.319,
+      "end": 53.679,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "and, uh, for the, uh, partners, i'll check with my team and i'll get back to you.",
+      "start": 53.699,
+      "end": 58.979,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sure.",
+      "start": 59.479,
+      "end": 59.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we have a team for the channel partner, so i'll, uh, get the callback arranged for you from them, okay?",
+      "start": 59.5,
+      "end": 68.28,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sure, sure, sure.",
+      "start": 69.119,
+      "end": 70.159,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so there are some, uh, criteria requirements.",
+      "start": 70.159,
+      "end": 72.739,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i'll share that list with you.",
+      "start": 73.159,
+      "end": 74.719,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay?",
+      "start": 75.439,
+      "end": 75.78,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "hmm.",
+      "start": 76.08,
+      "end": 76.099,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "definitely.",
+      "start": 76.099,
+      "end": 76.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sure.",
+      "start": 76.599,
+      "end": 76.879,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you.",
+      "start": 77.759,
+      "end": 78.219,
+      "speaker_id": "speaker_1"
+    }
+  ]
+}

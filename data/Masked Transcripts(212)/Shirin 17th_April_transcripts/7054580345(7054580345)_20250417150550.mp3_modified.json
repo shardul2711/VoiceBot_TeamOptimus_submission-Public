@@ -1,0 +1,1054 @@
+{
+  "segments": [
+    {
+      "text": "hello.",
+      "start": 3.46,
+      "end": 3.82,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, ma'am.",
+      "start": 4.779,
+      "end": 5.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "good afternoon sir.",
+      "start": 5.9,
+      "end": 6.659,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i am <PII_NAME> talking from lenden club.",
+      "start": 6.659,
+      "end": 8.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "am i speaking with <PII_NAME> ji?",
+      "start": 8.359,
+      "end": 10.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 10.579,
+      "end": 10.7,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sir, this is just a welcome call, sir.",
+      "start": 12.46,
+      "end": 14.039,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you have recently registered in lenden club and you have added some funds as well, right?",
+      "start": 14.039,
+      "end": 18.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yesterday.",
+      "start": 18.84,
+      "end": 18.899,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 18.899,
+      "end": 20.359,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "so, sir, i just wanted to know if you have any questions or queries, sir, related to the plan or the platform?",
+      "start": 20.359,
+      "end": 24.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "sir, related to the platform, ma'am, i am facing these problems.",
+      "start": 25.659,
+      "end": 29.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "when i open anything...",
+      "start": 29.699,
+      "end": 29.699,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 29.699,
+      "end": 29.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it takes some time.",
+      "start": 29.799,
+      "end": 29.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it keeps rolling and rolling.",
+      "start": 29.819,
+      "end": 29.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay, so you are getting a buffering issue.",
+      "start": 29.819,
+      "end": 29.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for example, if you open a tab, it keeps loading.",
+      "start": 29.979,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes, there is a loading issue.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and there is 1 more problem, ma'am.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "i added the fund twice.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the timing of adding the fund is 5 minutes.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "our fund was added, deducted, all the processes were done.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "but the processing keeps on telling till the last time.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "okay.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "even after that, it tells us not to press the back button or whatever.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "then we have to press the power button, then it is deducted, else the fund is added.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "ok, i see that you tried yesterday.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "it used to be ₹ 50,000, then it became<PII_AMOUNT>, then it failed.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "the same problem comes, that the transaction should not get trapped.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "no, no, if the transaction gets trapped, then we are there for it.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i will be the relationship manager of your account.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "by the way, it does not get trapped, but still, if it gets trapped, then...",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ma'am, how much interest does manual lending get through?",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "sir, it differs from borrower to borrower.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for example, as you can see, you have invested ₹ 4,000 in 9 months.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, the 1 with 9 months, you have done it in the monthly 1, returns are good in that sir.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, yes.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "still, how much does it become, maximum?",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "see, like cutting the fees, etc.,",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you will get 16-18% in this tenure.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you are getting repayment and you add it back and return, then it will go above 20%.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "because 70% of the lenders on the platform have 20+ returns on them, sir.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ma'am, it was written in front of the borrowers, 46%, 47%, what does it mean?",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "46%, 47%, whatever the returns are, sir, the interest rate is annualized, sir.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it is annualized.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you take a 9-month tenure, it will be 9 divided by 12.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "on that basis, yes.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "understand that if we take an amount of rs 1000 for 1 month, if we calculate 47% of rs 1000, it will be rs 470.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "but if we divide 9 by 12, you will get rs 350 on rs 1000.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "rs 350 on rs 1000.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, rs 352.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and out of that, if we have some platform, like plant to plant differs.",
+      "start": 31.479,
+      "end": 31.479,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for example, in 9 months tenure, we have 3 to 4%.",
+      "start": 31.479,
+      "end": 64.799,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if we take 4% on rs 1000, then rs 40 will be deducted.",
+      "start": 65.339,
+      "end": 69.919,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "then you will earn an interest of rs 312 on rs 1000.",
+      "start": 69.919,
+      "end": 220.419,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, it will be calculated in the same way.",
+      "start": 220.979,
+      "end": 223.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for example, the rs 1300 that i told you will come in installments.",
+      "start": 223.539,
+      "end": 225.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if the borrower repays the monthly, then you will get the credit monthly.",
+      "start": 225.699,
+      "end": 231.599,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "isn't it for 9 months in the manual?",
+      "start": 231.599,
+      "end": 235.459,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, 9 months, 12 months.",
+      "start": 236.519,
+      "end": 237.839,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the plan of 9 and 12 months is good, sir.",
+      "start": 237.839,
+      "end": 240.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "returns are being made better on that of lenders.",
+      "start": 240.199,
+      "end": 241.759,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "as well as, there you will see that you have repeated borrowers, sir, most of our platform.",
+      "start": 242.019,
+      "end": 246.699,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "those who have taken loans from our platform 2, 3, 4 times.",
+      "start": 247.279,
+      "end": 250.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and if they pay on time, only then we give them a loan for the second or third time.",
+      "start": 250.999,
+      "end": 255.439,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, on this basis, it means that they are good borrowers.",
+      "start": 255.439,
+      "end": 257.399,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "even before, when they applied for a loan and paid 3 to 4 times, they will pay in the future also, most of the time.",
+      "start": 257.539,
+      "end": 263.499,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, in that way, it is considered to be medium risk, sir, our 9-month, sorry, 9-month and 12-month loan tenure.",
+      "start": 263.499,
+      "end": 272.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, i was saying that sir, there is some fund in your account balance which you have not invested.",
+      "start": 273.439,
+      "end": 280.259,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you added it yesterday.",
+      "start": 281.939,
+      "end": 281.959,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it happens that if it is not invested within 24 hours, it will be withdrawn today.",
+      "start": 281.959,
+      "end": 284.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you added it in the morning, you did not invest it.",
+      "start": 284.559,
+      "end": 285.739,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "today, it can be withdrawn.",
+      "start": 286.179,
+      "end": 291.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it will go to your bank account if you invest it.",
+      "start": 291.719,
+      "end": 295.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it will be processed from here at 7 or 8 o'clock and will reach the bank by 9 or 10 o'clock.",
+      "start": 295.559,
+      "end": 301.199,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so, i was suggesting that if you invest it, it will be fine.",
+      "start": 301.199,
+      "end": 304.539,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "otherwise, you will have to add funds again.",
+      "start": 304.539,
+      "end": 307.559,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ma'am, what is the plan for the 24% lump sum of <PII_AMOUNT>?",
+      "start": 307.559,
+      "end": 312.079,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "how much fixed will i get?",
+      "start": 312.259,
+      "end": 317.419,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "this 21 to 24% is after removing the expected charges.",
+      "start": 317.419,
+      "end": 320.979,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "for example, if there is any delay, then 21 to 24%.",
+      "start": 322.139,
+      "end": 326.579,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you do it in 9 months, then 18 to 20% returns will be made.",
+      "start": 326.679,
+      "end": 331.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "is it for 14 months?",
+      "start": 331.319,
+      "end": 334.139,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, when you invest in 14 months, it is invested in 12 months loan.",
+      "start": 334.379,
+      "end": 337.779,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "and when you invest in 11 months loan of lump sum, then it is invested in 9 months loan.",
+      "start": 337.779,
+      "end": 341.319,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 341.839,
+      "end": 341.959,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "and the ones who are repeated borrowers of the platform, it is invested in them.",
+      "start": 343.439,
+      "end": 347.819,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "will the monthly repayment come?",
+      "start": 347.819,
+      "end": 350.579,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes, the monthly repayment will come.",
+      "start": 351.219,
+      "end": 353.459,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ma'am, what about the system that used to come daily?",
+      "start": 353.459,
+      "end": 356.819,
+      "speaker_id": "speaker_1"
+    },
+    {
+      "text": "yes sir, the daily plan has just come.",
+      "start": 357.019,
+      "end": 359.179,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i mean, the loans are not active yet.",
+      "start": 359.179,
+      "end": 361.299,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "there are only 4-5 loans.",
+      "start": 361.299,
+      "end": 362.939,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "(soft music playing) so now loans will come and then the daily plan will also become active.",
+      "start": 363.629,
+      "end": 367.769,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "how is it in the daily, the risk is less and the returns are also average, like 9 to 10% returns will be made or maximum up to 11%.",
+      "start": 368.549,
+      "end": 377.249,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "in this, how is it in the monthly 1, your returns are good, because in the daily 1, right now we get it from the partner, we get it from the merchant, from the phone pay, okay, so the charges that are there, 1 is the platform we take the charges and then the collection charges are also charged because the daily repayment is done through enact, auto debit is done every day, so the charge means a charge is charged for that too, so that is why collection charges are also charged due to which those returns and if you see the annualized return here, then it is 40%, 45% and what comes from there is annualized, maximum 25 or 28.",
+      "start": 377.709,
+      "end": 416.589,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so out of that, if 4-4% cut is done, then it does not mean that you get more returns.",
+      "start": 416.589,
+      "end": 416.949,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "so that's why we don't promote it so much, but whoever wants it in the daily 1, they have to do it in the daily 1, so let them do it, so the loan will come now, only 4 loans are there on this platform, you can check by applying the filter, now there are 4 loans, now more loans will increase by evening.",
+      "start": 416.949,
+      "end": 416.949,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if yes, then how much will we get on average in the 14th month?",
+      "start": 416.949,
+      "end": 416.949,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "are you talking about the monthly ones?",
+      "start": 416.949,
+      "end": 416.949,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, lump sum in 14 months.",
+      "start": 416.949,
+      "end": 417.109,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, minimum you will get 20-21.",
+      "start": 417.109,
+      "end": 417.21,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, sir.",
+      "start": 417.229,
+      "end": 417.37,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the user who had an investment earlier, the fixed term was 12 months, so we got a repayment of 1,22,000.",
+      "start": 417.37,
+      "end": 420.229,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ma'am, suppose our monthly repayment is 1 month.",
+      "start": 421.569,
+      "end": 430.709,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, after that the interest will come on the remaining balance, right?",
+      "start": 430.709,
+      "end": 479.609,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, correct.",
+      "start": 479.609,
+      "end": 481.089,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok, thank you.",
+      "start": 481.469,
+      "end": 483.089,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes sir, by the way, how did you come to know about our platform, sir?",
+      "start": 483.269,
+      "end": 487.369,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i came to know from youtube.",
+      "start": 487.369,
+      "end": 488.889,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you came to know from youtube.",
+      "start": 489.709,
+      "end": 490.089,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok sir, no problem.",
+      "start": 490.089,
+      "end": 492.209,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok sir, save this number.",
+      "start": 492.489,
+      "end": 493.429,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you have any questions for the future, you will get the investment related.",
+      "start": 493.469,
+      "end": 497.149,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "before this, i was in bharatpe for 2 and a half years.",
+      "start": 497.589,
+      "end": 502.429,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "invested.",
+      "start": 502.689,
+      "end": 502.909,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "invested.",
+      "start": 502.909,
+      "end": 503.269,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok.",
+      "start": 504.209,
+      "end": 504.229,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, bharatpe is our partner.",
+      "start": 504.229,
+      "end": 507.109,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "i invested in mobikwik for 2 years.",
+      "start": 507.249,
+      "end": 511.209,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "they give a fixed 12%.",
+      "start": 511.209,
+      "end": 514.569,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "now, mobikwik has also changed.",
+      "start": 515.049,
+      "end": 518.389,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, the system change is taking place for a year.",
+      "start": 518.849,
+      "end": 522.109,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, in august, the repayment will come out in august.",
+      "start": 522.109,
+      "end": 525.729,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the monthly payment keeps coming.",
+      "start": 525.729,
+      "end": 529.829,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, earlier it used to be fixed on the 12th or 14th or 15th.",
+      "start": 529.829,
+      "end": 534.729,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "daily interest used to come.",
+      "start": 535.889,
+      "end": 538.769,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, after that, whatever comes, the repayment used to come with that.",
+      "start": 538.789,
+      "end": 546.529,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "50% withdrawal has been done and 50% is left.",
+      "start": 546.529,
+      "end": 550.969,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the tenure has also increased.",
+      "start": 550.969,
+      "end": 554.529,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "people invested in 2-3 months tenure, so it changed in 2 years.",
+      "start": 554.529,
+      "end": 556.449,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we are doing the same now.",
+      "start": 556.569,
+      "end": 561.969,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if the trust increases, we will do it.",
+      "start": 562.129,
+      "end": 562.329,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we are looking at lending club also.",
+      "start": 562.329,
+      "end": 563.829,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "the trust should increase.",
+      "start": 563.969,
+      "end": 566.329,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "correct, sir.",
+      "start": 566.329,
+      "end": 567.429,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "look sir, i am here for your account.",
+      "start": 567.929,
+      "end": 569.849,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if there is any query, i will suggest the rest.",
+      "start": 569.869,
+      "end": 572.949,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "it is a good plan for 14 months.",
+      "start": 572.949,
+      "end": 573.709,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "if you invest, your returns will be good, sir.",
+      "start": 573.789,
+      "end": 577.629,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we can do a maximum of<PII_AMOUNT>.",
+      "start": 577.629,
+      "end": 581.069,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "no sir, you can do up to<PII_AMOUNT> maximum.",
+      "start": 581.069,
+      "end": 584.249,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, that is the balance sheet etc.",
+      "start": 584.249,
+      "end": 586.109,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, for that we have in-house ca.",
+      "start": 587.609,
+      "end": 590.509,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we do not take much documentation etc.",
+      "start": 590.509,
+      "end": 593.069,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you just have to fill a sheet.",
+      "start": 593.069,
+      "end": 594.649,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we will give you an excel sheet.",
+      "start": 595.709,
+      "end": 597.349,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you just have to mention cash in hand, cash in bank, property.",
+      "start": 597.549,
+      "end": 602.149,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you just have to mention the amount.",
+      "start": 602.489,
+      "end": 604.069,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you do not have to give any documents.",
+      "start": 604.069,
+      "end": 604.769,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, because when lenders invest in wetrust, there is so much property.",
+      "start": 604.949,
+      "end": 610.009,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we just get the details filled up.",
+      "start": 610.189,
+      "end": 611.929,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we get it made on the basis of aadhar card and pan card.",
+      "start": 611.929,
+      "end": 613.589,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "we also pay the charges.",
+      "start": 613.689,
+      "end": 615.629,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "you do not have any such charges.",
+      "start": 615.769,
+      "end": 620.129,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "okay ma'am, we will see.",
+      "start": 620.209,
+      "end": 624.369,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, it will work.",
+      "start": 624.409,
+      "end": 624.869,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "save this number.",
+      "start": 624.869,
+      "end": 625.129,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "my name is <PII_NAME>.",
+      "start": 625.169,
+      "end": 628.389,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 628.709,
+      "end": 629.249,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 629.889,
+      "end": 630.669,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "<PII_NAME>.",
+      "start": 630.729,
+      "end": 630.749,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "yes, correct sir.",
+      "start": 630.869,
+      "end": 631.889,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok ma'am, thank you.",
+      "start": 632.329,
+      "end": 633.829,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "thank you so much sir.",
+      "start": 634.029,
+      "end": 634.909,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "bye sir.",
+      "start": 634.949,
+      "end": 635.389,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "invest the fund sir.",
+      "start": 635.869,
+      "end": 637.349,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "text": "ok thank you.",
+      "start": 637.869,
+      "end": 638.509,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}
