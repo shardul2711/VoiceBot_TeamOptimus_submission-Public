@@ -6,10 +6,10 @@ from typing import Optional, List
 import os
 import pandas as pd
 from dotenv import load_dotenv
-from modules.supabase_client import supabase, save_conversation, get_conversation_history
+from modules.supabase_client import supabase
 from modules.asr_module import listen_to_user, speak_text, detect_language
 from modules.vector import initialize_vector_db_for_session
-from langchain_ollama import OllamaLLM
+from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate
 from datetime import datetime
 import uuid
@@ -30,7 +30,10 @@ app.add_middleware(
 )
 
 # Initialize LLM and prompt from your main.py
-model = OllamaLLM(model="llama3.2")
+model = ChatGroq(
+    api_key=os.getenv("GROQ_API_KEY"),
+    model_name="llama3-8b-8192"
+)
 
 prompt_template = """
 You are a "Relationship Manager" named Satyajit working at Lenden Club, you are trained to support users with Lenden Club related queries , AND NOTHING ELSE. Lenden Club is a peer-to-peer (P2P) lending platforms. Your job is to help with the following three tasks for LenDenClub Customers, India's largest P2P lending platform.
@@ -116,10 +119,10 @@ def save_uploaded_files(files, session_id):
 class AssistantCreate(BaseModel):
     user_id: str
     name: str
-    provider: str = "openai"
-    model: str = "gpt4o"
-    voice_provider: str = "deepgram"
-    voice_model: str = "asteria"
+    provider: str = "groq"
+    model: str = "llama3-8b-8192"
+    voice_provider: str = "MURF"
+    voice_model: str = "en-IN-rohan"
     first_message: str
     system_prompt: str
     file: Optional[UploadFile] = None
@@ -290,50 +293,6 @@ async def chat_with_agent(chat_input: ChatInput):
 
     except Exception as e:
         raise HTTPException(500, f"Error in chat: {str(e)}")
-
-
-@app.post("/talk")
-async def talk_with_agent(file: UploadFile = File(...), session_id: str = "session_1"):
-    """Talk with agent using audio"""
-    try:
-        # Save temporary audio file
-        temp_path = f"temp_{file.filename}"
-        with open(temp_path, "wb") as buffer:
-            buffer.write(file.file.read())
-        
-        # Transcribe
-        transcription = listen_to_user(audio_file=temp_path)
-        if not transcription:
-            raise HTTPException(400, "Could not transcribe audio")
-        
-        # Get response
-        retriever = initialize_vector_db_for_session(session_id)
-        docs = retriever.invoke(transcription)
-        combined_docs = "\n\n".join([doc.page_content for doc in docs])
-        response = chain.invoke({
-            "context": combined_docs,
-            "question": transcription
-        })
-        
-        # Save to database
-        session_number = int(session_id.replace("session_", ""))
-        supabase.table("chat_history").insert({
-            "assistant_id": "lenden_assistant",
-            "session_id": session_number,
-            "user_query": transcription,
-            "bot_response": response
-        }).execute()
-        
-        # Cleanup
-        os.remove(temp_path)
-        
-        return {
-            "transcription": transcription,
-            "response": response,
-            "language": detect_language(transcription)
-        }
-    except Exception as e:
-        raise HTTPException(500, f"Error in audio processing: {str(e)}")
 
 @app.get("/sentiment/{assistant_id}/{session_id}")
 async def get_sentiment(assistant_id: str, session_id: str):
