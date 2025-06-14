@@ -336,16 +336,19 @@ async def chat_with_agent(
             "question": chat_input.user_query
         })
 
+        bot_response = str(response.content)
+
         # Store the conversation in Supabase
         supabase.table("chat_history").insert({
             "session_id": session_id,
             "user_query": chat_input.user_query,
-            "bot_response": str(response),
+            "bot_response": bot_response,
             "assistant_id": assistant_id
         }).execute()
 
+        # ✅ Return just the cleaned content
         return {
-            "response": str(response),
+            "response": bot_response,
             "assistant_id": assistant_id,
             "session_id": session_id,
             "vector_db_used": assistant_vector_db_path
@@ -353,8 +356,67 @@ async def chat_with_agent(
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error in chat: {str(e)}")
+    
+from groq import Groq
 
+@app.post("/voice-chat/{assistant_id}/{session_id}")
+async def voice_chat_with_agent(
+    assistant_id: str = Path(...),
+    session_id: str = Path(...),
+    audio_file: UploadFile = File(...)
+):
+    """Unified endpoint: audio → transcription → context retrieval → response"""
+    try:
+        # Step 1: Save uploaded audio temporarily
+        temp_audio_path = f"temp_{uuid.uuid4()}.m4a"
+        with open(temp_audio_path, "wb") as f:
+            f.write(await audio_file.read())
 
+        # Step 2: Transcribe with Groq Whisper
+        client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+        with open(temp_audio_path, "rb") as file:
+            transcription = client.audio.transcriptions.create(
+                file=(audio_file.filename, file.read()),
+                model="whisper-large-v3-turbo",
+                response_format="verbose_json",
+            )
+        user_query = transcription.text
+
+        os.remove(temp_audio_path)  # Clean up temp file
+
+        # Step 3: Vector retrieval
+        assistant_vector_db_path = f"assistant_{assistant_id}"
+        retriever = initialize_vector_db_for_session(assistant_vector_db_path)
+        docs = retriever.invoke(user_query)
+        context = "\n\n".join([doc.page_content for doc in docs]) if docs else ""
+
+        # Step 4: Generate response with LLM chain
+        response = chain.invoke({
+            "context": context,
+            "question": user_query
+        })
+
+        bot_response = str(response.content)
+
+        # Step 5: Store in Supabase
+        supabase.table("chat_history").insert({
+            "session_id": session_id,
+            "user_query": user_query,
+            "bot_response": bot_response,
+            "assistant_id": assistant_id
+        }).execute()
+
+        return {
+            "response": bot_response,
+            "transcription": user_query,
+            "assistant_id": assistant_id,
+            "session_id": session_id
+        }
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error in voice chat: {str(e)}")
+
+# Sentiment Analysis
 @app.get("/sentiment/{assistant_id}/{session_id}")
 async def get_sentiment(assistant_id: str, session_id: str):
     """Get sentiment analysis for session using your existing function"""

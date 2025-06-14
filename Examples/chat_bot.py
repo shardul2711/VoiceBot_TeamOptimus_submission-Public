@@ -2,9 +2,20 @@ import tkinter as tk
 from tkinter import scrolledtext
 import requests
 import json
+import pyttsx3
+import re
 
 # Config
-API_URL = "http://localhost:8000/chat/e269d65b-7f1d-4343-8028-ffed4409dc55/1"
+API_URL = "http://localhost:8000/chat/daa10dc3-07ec-48cf-bf58-594ba6c36e65/1"
+
+# Text-to-Speech setup
+tts_engine = pyttsx3.init()
+tts_engine.setProperty('rate', 150)  # Adjust speed
+tts_engine.setProperty('volume', 1.0)  
+
+def speak(text):
+    tts_engine.say(text)
+    tts_engine.runAndWait()
 
 # Create GUI window
 root = tk.Tk()
@@ -37,7 +48,13 @@ def send_message(event=None):
         res = requests.post(API_URL, json={"user_query": query})
         if res.status_code == 200:
             data = res.json()
-            bot_reply = data.get("response", "⚠️ No response")
+            response_str = data.get("response", "")
+            match = re.search(r'content="(.*?)"\s+additional_kwargs=', response_str)
+            
+            if match:
+                bot_reply = match.group(1).replace('\\n', '\n')
+            else:
+                bot_reply = "⚠️ Unable to extract content."
         else:
             bot_reply = f"⚠️ Error: {res.text}"
     except Exception as e:
