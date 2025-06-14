@@ -83,10 +83,10 @@ prompt = ChatPromptTemplate.from_template(prompt_template)
 chain = prompt | model
 
 # Data Models
-class ChatInput(BaseModel):
-    assistant_id: str = "lenden_assistant"  # Default for your use case
-    session_id: str
-    user_query: str
+# class ChatInput(BaseModel):
+#     assistant_id: str = "lenden_assistant"  # Default for your use case
+#     session_id: str
+#     user_query: str
 
 class SessionCreate(BaseModel):
     assistant_id: str = "lenden_assistant"
@@ -295,25 +295,48 @@ async def get_history(assistant_id: str, session_id: str):
 
 from fastapi import Path
 
+# ✅ CORS setup
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # You can restrict to ["http://localhost:8080"] for example
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# ✅ Pydantic model for request body
+class ChatInput(BaseModel):
+    user_query: str
+
+# ✅ Chat endpoint
 @app.post("/chat/{assistant_id}/{session_id}")
-async def chat_with_agent(assistant_id: str = Path(...), session_id: str = Path(...), chat_input: ChatInput = None):
+async def chat_with_agent(
+    assistant_id: str = Path(...),
+    session_id: str = Path(...),
+    chat_input: ChatInput = None
+):
     """Chat endpoint scoped to assistant and session ID"""
     try:
-        # Use assistant_id for vector DB context
+        if chat_input is None or not chat_input.user_query:
+            raise HTTPException(status_code=400, detail="Missing user_query")
+
+        # Create vector DB path
         assistant_vector_db_path = f"assistant_{assistant_id}"
-        
-        # Initialize retriever with assistant's vector DB
+
+        # Initialize retriever for that assistant
         retriever = initialize_vector_db_for_session(assistant_vector_db_path)
         docs = retriever.invoke(chat_input.user_query)
-        context = "\n\n".join([doc.page_content for doc in docs])
 
-        # Get response using the assistant's context
+        # Combine retrieved content
+        context = "\n\n".join([doc.page_content for doc in docs]) if docs else ""
+
+        # Generate response
         response = chain.invoke({
             "context": context,
             "question": chat_input.user_query
         })
 
-        # Store in Supabase
+        # Store the conversation in Supabase
         supabase.table("chat_history").insert({
             "session_id": session_id,
             "user_query": chat_input.user_query,
@@ -329,7 +352,7 @@ async def chat_with_agent(assistant_id: str = Path(...), session_id: str = Path(
         }
 
     except Exception as e:
-        raise HTTPException(500, f"Error in chat: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Error in chat: {str(e)}")
 
 
 @app.get("/sentiment/{assistant_id}/{session_id}")

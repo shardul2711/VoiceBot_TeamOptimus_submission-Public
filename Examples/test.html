@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Simple Chatbot</title>
+  <style>
+    body { font-family: sans-serif; max-width: 600px; margin: 30px auto; }
+    #chat { border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: scroll; background: #f9f9f9; }
+    .message { margin: 10px 0; }
+    .user { font-weight: bold; color: blue; }
+    .bot { font-weight: bold; color: green; white-space: pre-wrap; }
+  </style>
+</head>
+<body>
+
+<h2>Simple Chatbot</h2>
+
+<div id="chat"></div>
+
+<input type="text" id="userInput" placeholder="Type your message..." style="width: 80%;" />
+<button onclick="sendMessage()">Send</button>
+
+<script>
+const chatBox = document.getElementById("chat");
+const endpoint = "http://localhost:8000/chat/e269d65b-7f1d-4343-8028-ffed4409dc55/1";
+
+function appendMessage(sender, text) {
+  const div = document.createElement("div");
+  div.className = "message";
+  const span = document.createElement("span");
+  span.className = sender;
+  span.textContent = sender === 'user' ? 'You: ' : 'Bot: ';
+  div.appendChild(span);
+  div.appendChild(document.createTextNode(text));
+  chatBox.appendChild(div);
+  chatBox.scrollTop = chatBox.scrollHeight;
+}
+
+async function sendMessage() {
+  const input = document.getElementById("userInput");
+  const userQuery = input.value.trim();
+  if (!userQuery) return;
+
+  appendMessage('user', userQuery);
+  input.value = "";
+
+  try {
+    const res = await fetch(endpoint, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ user_query: userQuery })
+    });
+
+    if (!res.ok) {
+      const err = await res.text();
+      console.error("API Error:", err);
+      appendMessage('bot', "⚠️ Error: " + err);
+      return;
+    }
+
+    const data = await res.json();
+    console.log("Response data:", data);
+    appendMessage('bot', data.response || "⚠️ Empty response");
+
+  } catch (err) {
+    console.error("Fetch Error:", err);
+    appendMessage('bot', "⚠️ Network error: " + err.message);
+  }
+}
+</script>
+
+</body>
+</html>
