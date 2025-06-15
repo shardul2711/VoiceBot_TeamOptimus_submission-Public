@@ -1,5 +1,5 @@
 # api_server.py
-from fastapi import FastAPI, UploadFile, File, HTTPException
+from fastapi import FastAPI, Form, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import Optional, List
@@ -83,10 +83,10 @@ prompt = ChatPromptTemplate.from_template(prompt_template)
 chain = prompt | model
 
 # Data Models
-class ChatInput(BaseModel):
-    assistant_id: str = "lenden_assistant"  # Default for your use case
-    session_id: str
-    user_query: str
+# class ChatInput(BaseModel):
+#     assistant_id: str = "lenden_assistant"  # Default for your use case
+#     session_id: str
+#     user_query: str
 
 class SessionCreate(BaseModel):
     assistant_id: str = "lenden_assistant"
@@ -115,7 +115,7 @@ def save_uploaded_files(files, session_id):
             f.write(file.file.read())
 
 # Endpoint Implementations
-# Data Models
+# Update your AssistantCreate model to accept multiple files
 class AssistantCreate(BaseModel):
     user_id: str
     name: str
@@ -125,7 +125,7 @@ class AssistantCreate(BaseModel):
     voice_model: str = "en-IN-rohan"
     first_message: str
     system_prompt: str
-    file: Optional[UploadFile] = None
+    files: List[UploadFile] = File(default=None)  # Changed from single file to list
 
 class AssistantResponse(BaseModel):
     assistant_id: str
@@ -137,45 +137,60 @@ class AssistantResponse(BaseModel):
     voice_model: str
     first_message: str
     system_prompt: str
-    file_url: Optional[str]
+    file_urls: List[str] = []
     created_at: datetime
 
-# Assistant Endpoints
 @app.post("/assistants/create", response_model=AssistantResponse)
 async def create_assistant(
-    user_id: str,
-    name: str,
-    first_message: str,
-    system_prompt: str,
-    provider: str = "openai",
-    model: str = "gpt4o",
-    voice_provider: str = "deepgram",
-    voice_model: str = "asteria",
-    file: Optional[UploadFile] = None
+    user_id: str = Form(...),
+    name: str = Form(...),
+    first_message: str = Form(...),
+    system_prompt: str = Form(...),
+    provider: str = Form("openai"),
+    model: str = Form("gpt4o"),
+    voice_provider: str = Form("deepgram"),
+    voice_model: str = Form("asteria"),
+    files: List[UploadFile] = File(None)
 ):
-    """Create a new assistant matching the exact schema"""
+    """Create a new assistant with multiple files and vector DB storage"""
     try:
         assistant_id = str(uuid.uuid4())
         created_at = datetime.utcnow().isoformat()
-        file_url = None
+        file_urls = []
 
-        # Handle file upload if present
-        if file:
-            file_ext = os.path.splitext(file.filename)[1]
-            file_path = f"assistant-files/uploads/{assistant_id}{file_ext}"
-            
-            # Upload to Supabase Storage
-            with file.file as f:
-                supabase.storage.from_("assistant-files").upload(
-                    path=file_path,
-                    file=f.read(),
-                    file_options={"content-type": file.content_type}
-                )
-            
-            # Get public URL
-            file_url = supabase.storage.from_("assistant-files").get_public_url(file_path)
+        # 1. Create Context directory structure
+        assistant_dir = f"Context/assistant_{assistant_id}"
+        docs_dir = f"{assistant_dir}/docs"
+        db_dir = f"{assistant_dir}/db"
+        
+        os.makedirs(docs_dir, exist_ok=True)
+        os.makedirs(db_dir, exist_ok=True)
 
-        # Insert into assistants table
+        # 2. Handle multiple file uploads
+        if files:
+            for file in files:
+                file_ext = os.path.splitext(file.filename)[1]
+                
+                # Save to local docs directory
+                local_file_path = f"{docs_dir}/{file.filename}"
+                with open(local_file_path, "wb") as f:
+                    f.write(await file.read())
+                
+                # Upload to Supabase Storage
+                supabase_path = f"assistant-files/uploads/{assistant_id}/{file.filename}"
+                with open(local_file_path, "rb") as f:
+                    supabase.storage.from_("assistant-files").upload(
+                        path=supabase_path,
+                        file=f.read(),
+                        file_options={"content-type": file.content_type}
+                    )
+                file_url = supabase.storage.from_("assistant-files").get_public_url(supabase_path)
+                file_urls.append(file_url)
+
+            # Initialize vector DB with all uploaded files
+            initialize_vector_db_for_session(f"assistant_{assistant_id}")
+
+        # 3. Create assistant record
         supabase.table("assistants").insert({
             "assistant_id": assistant_id,
             "user_id": user_id,
@@ -186,8 +201,9 @@ async def create_assistant(
             "voice_model": voice_model,
             "first_message": first_message,
             "system_prompt": system_prompt,
-            "file_url": file_url,
-            "created_at": created_at
+            "file_urls": file_urls,  # Now stores list of URLs
+            "created_at": created_at,
+            "vector_db_path": db_dir
         }).execute()
 
         return {
@@ -200,13 +216,27 @@ async def create_assistant(
             "voice_model": voice_model,
             "first_message": first_message,
             "system_prompt": system_prompt,
-            "file_url": file_url,
-            "created_at": created_at
+            "file_urls": file_urls,  # Changed to return array
+            "created_at": created_at,
+            "vector_db_path": db_dir
         }
 
     except Exception as e:
         raise HTTPException(500, f"Error creating assistant: {str(e)}")
 
+@app.get("/assistants/{user_id}")
+async def get_assistants_by_user(user_id: str):
+    """Get all assistants for a specific user"""
+    try:
+        res = supabase.table("assistants")\
+                  .select("*")\
+                  .eq("user_id", user_id)\
+                  .execute()
+        # Return empty array if no data or data is None
+        return {"assistants": res.data if res.data is not None else []}
+    except Exception as e:
+        raise HTTPException(404, f"Error fetching assistants: {str(e)}")
+    
 @app.get("/assistants/{assistant_id}", response_model=AssistantResponse)
 async def get_assistant(assistant_id: str):
     """Get assistant details"""
@@ -263,37 +293,130 @@ async def get_history(assistant_id: str, session_id: str):
     except Exception as e:
         raise HTTPException(500, f"Error fetching history: {str(e)}")
 
-@app.post("/chat")
-async def chat_with_agent(chat_input: ChatInput):
-    """Chat endpoint - all fields from API"""
+from fastapi import Path
+
+# ✅ CORS setup
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # You can restrict to ["http://localhost:8080"] for example
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# ✅ Pydantic model for request body
+class ChatInput(BaseModel):
+    user_query: str
+
+# ✅ Chat endpoint
+@app.post("/chat/{assistant_id}/{session_id}")
+async def chat_with_agent(
+    assistant_id: str = Path(...),
+    session_id: str = Path(...),
+    chat_input: ChatInput = None
+):
+    """Chat endpoint scoped to assistant and session ID"""
     try:
-        # Format session ID correctly
-        session_path = f"session_{chat_input.session_id}"
+        if chat_input is None or not chat_input.user_query:
+            raise HTTPException(status_code=400, detail="Missing user_query")
 
-        # Initialize retriever with formatted session path
-        retriever = initialize_vector_db_for_session(session_path)
+        # Create vector DB path
+        assistant_vector_db_path = f"assistant_{assistant_id}"
+
+        # Initialize retriever for that assistant
+        retriever = initialize_vector_db_for_session(assistant_vector_db_path)
         docs = retriever.invoke(chat_input.user_query)
-        context = "\n\n".join([doc.page_content for doc in docs])
 
-        # Get response
+        # Combine retrieved content
+        context = "\n\n".join([doc.page_content for doc in docs]) if docs else ""
+
+        # Generate response
         response = chain.invoke({
             "context": context,
             "question": chat_input.user_query
         })
 
-        # Store in Supabase
+        bot_response = str(response.content)
+
+        # Store the conversation in Supabase
         supabase.table("chat_history").insert({
-            "session_id": chat_input.session_id,
+            "session_id": session_id,
             "user_query": chat_input.user_query,
-            "bot_response": str(response),
-            "assistant_id": chat_input.assistant_id
+            "bot_response": bot_response,
+            "assistant_id": assistant_id
         }).execute()
 
-        return {"response": str(response)}
+        # ✅ Return just the cleaned content
+        return {
+            "response": bot_response,
+            "assistant_id": assistant_id,
+            "session_id": session_id,
+            "vector_db_used": assistant_vector_db_path
+        }
 
     except Exception as e:
-        raise HTTPException(500, f"Error in chat: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Error in chat: {str(e)}")
+    
+from groq import Groq
 
+@app.post("/voice-chat/{assistant_id}/{session_id}")
+async def voice_chat_with_agent(
+    assistant_id: str = Path(...),
+    session_id: str = Path(...),
+    audio_file: UploadFile = File(...)
+):
+    """Unified endpoint: audio → transcription → context retrieval → response"""
+    try:
+        # Step 1: Save uploaded audio temporarily
+        temp_audio_path = f"temp_{uuid.uuid4()}.m4a"
+        with open(temp_audio_path, "wb") as f:
+            f.write(await audio_file.read())
+
+        # Step 2: Transcribe with Groq Whisper
+        client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+        with open(temp_audio_path, "rb") as file:
+            transcription = client.audio.transcriptions.create(
+                file=(audio_file.filename, file.read()),
+                model="whisper-large-v3-turbo",
+                response_format="verbose_json",
+            )
+        user_query = transcription.text
+
+        os.remove(temp_audio_path)  # Clean up temp file
+
+        # Step 3: Vector retrieval
+        assistant_vector_db_path = f"assistant_{assistant_id}"
+        retriever = initialize_vector_db_for_session(assistant_vector_db_path)
+        docs = retriever.invoke(user_query)
+        context = "\n\n".join([doc.page_content for doc in docs]) if docs else ""
+
+        # Step 4: Generate response with LLM chain
+        response = chain.invoke({
+            "context": context,
+            "question": user_query
+        })
+
+        bot_response = str(response.content)
+
+        # Step 5: Store in Supabase
+        supabase.table("chat_history").insert({
+            "session_id": session_id,
+            "user_query": user_query,
+            "bot_response": bot_response,
+            "assistant_id": assistant_id
+        }).execute()
+
+        return {
+            "response": bot_response,
+            "transcription": user_query,
+            "assistant_id": assistant_id,
+            "session_id": session_id
+        }
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error in voice chat: {str(e)}")
+
+# Sentiment Analysis
 @app.get("/sentiment/{assistant_id}/{session_id}")
 async def get_sentiment(assistant_id: str, session_id: str):
     """Get sentiment analysis for session using your existing function"""
