@@ -1,0 +1,31 @@
+Question,Answer,Question_Type,Language_Mix
+"First time investment के बारे में guide करें","आप platform पर sign up करके KYC complete करें। फिर 'Explore Loans' से छोटे loan (₹1000+) select करें। Daily returns evening तक दिखेंगे।",Onboarding,Yes
+"क्या मैं monthly repayments वाले loan choose कर सकता हूँ?","जी हाँ! Loan filter में 'Repayment Frequency' पर क्लिक कर monthly चुनें। Monthly loans में interest rate थोड़ा कम होता है।",Loan_Types,Yes
+"Platform पर total कितना invest किया जा सकता है?","Maximum investment limit ₹50 लाख है। New investors के लिए ₹5-10 लाख तक recommend करते हैं।",Investment_Basics,Yes
+"App में withdrawal section कहाँ है?","Home screen के right side पर wallet icon > 'Withdrawals'। यहाँ daily expected payments 6:30 PM से दिखते हैं।",Technical_Support,Yes
+"किसी loan के default होने पर क्या होगा?","हमारी recovery team 15 दिनों में contact करती है। 90% cases में 30 दिनों तक payment recover हो जाता है।",Risk_Defaults,Yes
+"Personal loans में default rate कितना है?","Personal loans का default rate 4% है, पर higher interest (22-24%) से portfolio का average return 14-17% रहता है。",Risk_Defaults,Yes
+"Quarterly payments कैसे काम करते हैं?","हर 3 महीने के अंत में आपको principal+interest का भुगतान मिलेगा। App में calendar icon से dates check करें।",Payment_Schedule,Yes
+"क्या loan select करते समय credit score देख सकते हैं?","जी हाँ! Loan details में 'Borrower Profile' section में CIBIL score (अगर available हो) दिखाया जाता है।",Loan_Selection,Yes
+"Merchant loan क्या होता है?","छोटे दुकानदारों को ₹50,000 तक का business loan। सिक्योरिटी के लिए उनका GST/कैश फ्लो verify किया जाता है।",Loan_Types,Yes
+"Payment delay होने पर कौन contact करे?","हमारे relationship manager विवेक को 9XXXX-XXXXX पर कॉल करें या app में 'Support Ticket' खोलें।",Technical_Support,Yes
+"क्या weekend में customer support मिलता है?","हाँ, शनिवार-रविवार सुबह 10 बजे से शाम 6 बजे तक। App में 'Help Center' से live chat भी available है।",Technical_Support,Yes
+"Portfolio diversification क्यों ज़रूरी है?","100 loans में ₹1 लाख बाँटने से अगर 3-4 default भी हुए तो बाकी 96 loans के returns से loss cover हो जाता है।",Diversification,Yes
+"क्या investment के बाद loan change कर सकते हैं?","नहीं, एक बार invest करने के बाद loan नहीं बदल सकते। पर आप नए loans में अतिरिक्त invest कर सकते हैं।",Investment_Process,Yes
+"Statement कहाँ से डाउनलोड करें?","App के 'Portfolio' section > 'Transaction History' > 'Export as PDF'। Monthly statements automatically email पर आते हैं।",Technical_Support,Yes
+"ब्याज़ का calculation कैसे होता है?","Daily interest = (Loan amount × Interest rate) ÷ 365। Example: ₹1000 loan पर 24% सालाना = ₹0.65 रोज़ाना।",Interest_Calculation,Yes
+"क्या early loan closure पर penalty है?","नहीं, borrowers बिना penalty के कभी भी loan close कर सकते हैं। आपको outstanding principal + अर्जित ब्याज़ मिल जाएगा।",Payment_Structure,Yes
+"Green flag borrower क्या होता है?","वे लोग जिन्होंने पहले 2+ loans समय पर चुकाए हों। इनका default chance 1% से कम होता है।",Loan_Selection,Yes
+"क्या NPA होने पर tax benefit मिलता है?","जी हाँ, NPA losses को other investment gains के against tax deduction में claim कर सकते हैं।",Taxation,Yes
+"App में repayment schedule कैसे देखें?","Invested loans > Select loan > 'Repayment Schedule'। यहाँ हर EMI की expected date और amount दिखेगी।",Technical_Support,Yes
+"Referral program है क्या?","हाँ! दोस्तों को refer करने पर आपको उनके first investment का 0.5% bonus मिलता है। 'Invite Friends' section देखें।",Promotions,Yes
+"क्या loan tenure change कर सकते हैं?","नहीं, tenure fix होती है। पर आप 3/6/12 महीने के अलग-अलग tenure के loans में invest कर सकते हैं。",Loan_Types,Yes
+"KYC फिर से कब कराना पड़ता है?","हर 24 महीने में KYC renew कराना ज़रूरी है। App notification आने पर 'Profile' > 'Re-KYC' से करें।",Onboarding,Yes
+"Payment failed दिख रहा है, क्या करूँ?","सबसे पहले bank app में sufficient balance check करें। फिर Lenden Club app > 'Transaction' > 'Retry Payment'।",Technical_Support,Yes
+"क्या joint account में invest कर सकते हैं?","हाँ! 'Profile' > 'Bank Accounts' से joint account add करें। Minimum 2 signatories के signatures चाहिए।",Account_Management,Yes
+"Loan listing कब update होती है?","नए loans सुबह 10 बजे add होते हैं। High-demand loans 5-10 मिनट में full हो जाते हैं।",Investment_Process,Yes
+"क्या returns पर TDS कटता है?","हाँ, RBI guidelines के अनुसार 5% TDS कटता है। PAN linked account होने पर आप Form 26AS में claim कर सकते हैं।",Taxation,Yes
+"Relationship manager कैसे assign होता है?","₹2 लाख+ invest करने पर dedicated manager automatically assign हो जाता है। कॉल पर भी request कर सकते हैं।",Support,Yes
+"क्या SIP की तरह auto-invest कर सकते हैं?","जी हाँ! 'Auto-Invest' feature से set करें: monthly amount, risk profile, preferred loan types चुनें।",Investment_Process,Yes
+"Late payment पर क्या charges लगते हैं?","Borrowers पर 2% monthly penalty लगता है, जिसका 50% investors को मिलता है।",Fees_Charges,Yes
+"क्या loan details verify कर सकते हैं?","हर loan के साथ borrower का आधार, PAN, bank statement verify होने का green tick दिखता है।",Loan_Selection,Yes

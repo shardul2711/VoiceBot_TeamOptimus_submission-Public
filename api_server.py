@@ -1,19 +1,16 @@
-# api_server.py
-from fastapi import FastAPI, Form, UploadFile, File, HTTPException
+from fastapi import FastAPI, Form, UploadFile, File, HTTPException, Path
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from typing import Optional, List
+from typing import Optional, List, Dict, Union
 import os
 import pandas as pd
 from dotenv import load_dotenv
 from modules.supabase_client import supabase
-from modules.asr_module import listen_to_user, speak_text, detect_language
 from modules.vector import initialize_vector_db_for_session
-from langchain_groq import ChatGroq
-from langchain_core.prompts import ChatPromptTemplate
 from datetime import datetime
 import uuid
 from modules.sentiment_analysis import analyze_session_sentiment
+from groq import Groq
 
 # Load environment
 load_dotenv()
@@ -29,65 +26,87 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Initialize LLM and prompt from your main.py
-model = ChatGroq(
-    api_key=os.getenv("GROQ_API_KEY"),
-    model_name="llama3-8b-8192"
-)
+# Custom Prompt Template Implementation
+class Message:
+    def __init__(self, role: str, content: str):
+        self.role = role
+        self.content = content
 
-prompt_template = """
-You are a "Relationship Manager" named Satyajit working at Lenden Club, you are trained to support users with Lenden Club related queries , AND NOTHING ELSE. Lenden Club is a peer-to-peer (P2P) lending platforms. Your job is to help with the following three tasks for LenDenClub Customers, India's largest P2P lending platform.
+class CustomPromptTemplate:
+    def __init__(self, messages: List[Dict[str, str]]):
+        self.messages = [Message(**msg) for msg in messages]
+    
+    def format(self, **kwargs) -> List[Dict[str, str]]:
+        formatted_messages = []
+        for msg in self.messages:
+            try:
+                formatted_content = msg.content.format(**kwargs)
+            except KeyError as e:
+                raise ValueError(f"Missing variable {e} in prompt template")
+                
+            formatted_messages.append({
+                'role': msg.role,
+                'content': formatted_content
+            })
+        return formatted_messages
 
-When responding to queries about P2P lending or LenDenClub, always follow these guidelines:
+def create_assistant_prompt(system_prompt: str, first_message: str, context: str = "") -> CustomPromptTemplate:
+    """Create a custom prompt template for an assistant"""
+    full_system_prompt = f"{system_prompt}\n\nContext:\n{context}" if context else system_prompt
+    return CustomPromptTemplate([
+        {'role': 'system', 'content': full_system_prompt},
+        {'role': 'human', 'content': "Hello!"},
+        {'role': 'ai', 'content': first_message},
+        {'role': 'human', 'content': "{user_input}"}
+    ])
 
-1) Help with Initial Onboarding:
-- Explain platform features simply
-- Mention fund diversification starts from ₹100
-- State max lending amount is ₹10 Lakhs
-- Highlight escrow safety with ICICI Trusteeship
-- Share expected returns (~11.33% p.a.)
-- Explain borrower verification (600+ data points)
-- Mention 95.6% on-time repayment rate
+# Initialize Groq client for LLM
+groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
-2) Explain Key Terms (simple definitions):
-- P2P Lending: Direct lending between individuals via platform
-- AUM (₹1,023 Cr): Total money managed by platform
-- NPA (3.78%): Loans not repaid on time
-- Escrow: Protected account managed by ICICI Trusteeship
-- Diversification: Spreading ₹100+ across multiple loans
-- EMI: Monthly installment payments
-- Interest vs Returns: What borrowers pay vs lenders earn
-- InstaMoney: LenDenClub's app (3Cr+ downloads)
-
-3) Risk Management:
-- Clearly state: "P2P lending carries risks"
-- Mention RBI regulates the platform (NBFC-P2P)
-- Explain 3.78% NPA means some loans may default
-- Stress importance of diversification
-- Highlight escrow protection
-- Note 95.6% repayment rate
-- Mention zero principal loss since launch
-
-Always use the latest platform data (Dec 2024):
-- 2Cr+ users, ₹16,011Cr total lent
-- 85% personal, 15% merchant loans
-- RBI registered (Innofin Solutions Pvt Ltd)
-
-Relevant Documents:
-{context}
-
-User Query:
-{question}
-"""
-prompt = ChatPromptTemplate.from_template(prompt_template)
-chain = prompt | model
+def generate_response(messages: List[Dict[str, str]], model: str = "llama3-8b-8192", language: str = "en") -> str:
+    """Generate response enforcing the specified language"""
+    try:
+        # Convert our message format to Groq's expected format
+        groq_messages = []
+        role_mapping = {
+            'system': 'system',
+            'human': 'user',
+            'ai': 'assistant'
+        }
+        
+        # Add language instruction to the system prompt
+        if language != "en":
+            for msg in messages:
+                if msg['role'] == 'system':
+                    msg['content'] = f"{msg['content']}\n\nImportant: You must respond in {language} language only."
+                    break
+        
+        for msg in messages:
+            if msg['role'] not in role_mapping:
+                raise ValueError(f"Invalid role: {msg['role']}")
+                
+            groq_messages.append({
+                "role": role_mapping[msg['role']],
+                "content": msg['content']
+            })
+        
+        # For Hindi, we need to be more explicit with the instruction
+        if language == "hi":
+            groq_messages.append({
+                "role": "user",
+                "content": "कृपया हिंदी में ही उत्तर दें।"
+            })
+        
+        chat_completion = groq_client.chat.completions.create(
+            messages=groq_messages,
+            model=model,
+            temperature=0.7
+        )
+        return chat_completion.choices[0].message.content
+    except Exception as e:
+        raise Exception(f"Error generating response: {str(e)}")
 
 # Data Models
-# class ChatInput(BaseModel):
-#     assistant_id: str = "lenden_assistant"  # Default for your use case
-#     session_id: str
-#     user_query: str
-
 class SessionCreate(BaseModel):
     assistant_id: str = "lenden_assistant"
     session_id: str
@@ -95,6 +114,33 @@ class SessionCreate(BaseModel):
 class TestDataInput(BaseModel):
     assistant_id: str = "lenden_assistant"
     questions: List[str]
+
+class ChatInput(BaseModel):
+    user_query: str
+
+class AssistantCreate(BaseModel):
+    user_id: str
+    name: str
+    provider: str = "groq"
+    model: str = "llama3-8b-8192"
+    voice_provider: str = "MURF"
+    voice_model: str = "en-IN-rohan"
+    first_message: str
+    system_prompt: str
+    files: List[UploadFile] = File(default=None)
+
+class AssistantResponse(BaseModel):
+    assistant_id: str
+    user_id: str
+    name: str
+    provider: str
+    model: str
+    voice_provider: str
+    voice_model: str
+    first_message: str
+    system_prompt: str
+    file_urls: List[str] = []
+    created_at: datetime
 
 # Helper Functions
 def get_next_session_id(context_root="Context"):
@@ -114,32 +160,7 @@ def save_uploaded_files(files, session_id):
         with open(os.path.join(upload_path, file.filename), "wb") as f:
             f.write(file.file.read())
 
-# Endpoint Implementations
-# Update your AssistantCreate model to accept multiple files
-class AssistantCreate(BaseModel):
-    user_id: str
-    name: str
-    provider: str = "groq"
-    model: str = "llama3-8b-8192"
-    voice_provider: str = "MURF"
-    voice_model: str = "en-IN-rohan"
-    first_message: str
-    system_prompt: str
-    files: List[UploadFile] = File(default=None)  # Changed from single file to list
-
-class AssistantResponse(BaseModel):
-    assistant_id: str
-    user_id: str
-    name: str
-    provider: str
-    model: str
-    voice_provider: str
-    voice_model: str
-    first_message: str
-    system_prompt: str
-    file_urls: List[str] = []
-    created_at: datetime
-
+# API Endpoints
 @app.post("/assistants/create", response_model=AssistantResponse)
 async def create_assistant(
     user_id: str = Form(...),
@@ -201,7 +222,7 @@ async def create_assistant(
             "voice_model": voice_model,
             "first_message": first_message,
             "system_prompt": system_prompt,
-            "file_urls": file_urls,  # Now stores list of URLs
+            "file_urls": file_urls,
             "created_at": created_at,
             "vector_db_path": db_dir
         }).execute()
@@ -216,7 +237,7 @@ async def create_assistant(
             "voice_model": voice_model,
             "first_message": first_message,
             "system_prompt": system_prompt,
-            "file_urls": file_urls,  # Changed to return array
+            "file_urls": file_urls,
             "created_at": created_at,
             "vector_db_path": db_dir
         }
@@ -232,7 +253,6 @@ async def get_assistants_by_user(user_id: str):
                   .select("*")\
                   .eq("user_id", user_id)\
                   .execute()
-        # Return empty array if no data or data is None
         return {"assistants": res.data if res.data is not None else []}
     except Exception as e:
         raise HTTPException(404, f"Error fetching assistants: {str(e)}")
@@ -249,7 +269,7 @@ async def get_assistant(assistant_id: str):
         return res.data
     except Exception as e:
         raise HTTPException(404, f"Assistant not found: {str(e)}")
-# API Endpoints
+
 @app.get("/sessions/{assistant_id}")
 async def get_sessions(assistant_id: str):
     """Get existing sessions for an assistant"""
@@ -259,7 +279,6 @@ async def get_sessions(assistant_id: str):
                     .eq("assistant_id", assistant_id)\
                     .execute()
         
-        # Get distinct session_ids
         session_ids = list({item['session_id'] for item in res.data})
         return {"sessions": session_ids}
     except Exception as e:
@@ -293,22 +312,6 @@ async def get_history(assistant_id: str, session_id: str):
     except Exception as e:
         raise HTTPException(500, f"Error fetching history: {str(e)}")
 
-from fastapi import Path
-
-# ✅ CORS setup
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # You can restrict to ["http://localhost:8080"] for example
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-# ✅ Pydantic model for request body
-class ChatInput(BaseModel):
-    user_query: str
-
-# ✅ Chat endpoint
 @app.post("/chat/{assistant_id}/{session_id}")
 async def chat_with_agent(
     assistant_id: str = Path(...),
@@ -320,25 +323,31 @@ async def chat_with_agent(
         if chat_input is None or not chat_input.user_query:
             raise HTTPException(status_code=400, detail="Missing user_query")
 
-        # Create vector DB path
+        # Fetch assistant config
+        assistant = supabase.table("assistants").select("*").eq("assistant_id", assistant_id).execute()
+        if not assistant.data:
+            raise HTTPException(status_code=404, detail="Assistant not found")
+        
+        assistant_config = assistant.data[0]
+        
+        # Vector retrieval
         assistant_vector_db_path = f"assistant_{assistant_id}"
-
-        # Initialize retriever for that assistant
         retriever = initialize_vector_db_for_session(assistant_vector_db_path)
         docs = retriever.invoke(chat_input.user_query)
-
-        # Combine retrieved content
         context = "\n\n".join([doc.page_content for doc in docs]) if docs else ""
 
+        # Create and format prompt
+        prompt = create_assistant_prompt(
+            system_prompt=assistant_config.get("system_prompt", ""),
+            first_message=assistant_config.get("first_message", ""),
+            context=context
+        )
+        messages = prompt.format(user_input=chat_input.user_query)
+        
         # Generate response
-        response = chain.invoke({
-            "context": context,
-            "question": chat_input.user_query
-        })
+        bot_response = generate_response(messages)
 
-        bot_response = str(response.content)
-
-        # Store the conversation in Supabase
+        # Store conversation
         supabase.table("chat_history").insert({
             "session_id": session_id,
             "user_query": chat_input.user_query,
@@ -346,7 +355,6 @@ async def chat_with_agent(
             "assistant_id": assistant_id
         }).execute()
 
-        # ✅ Return just the cleaned content
         return {
             "response": bot_response,
             "assistant_id": assistant_id,
@@ -356,33 +364,42 @@ async def chat_with_agent(
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error in chat: {str(e)}")
-    
-from groq import Groq
 
 @app.post("/voice-chat/{assistant_id}/{session_id}")
 async def voice_chat_with_agent(
     assistant_id: str = Path(...),
     session_id: str = Path(...),
-    audio_file: UploadFile = File(...)
+    audio_file: UploadFile = File(...),
+    language: str = Form("hi")  # Default to Hindi now
 ):
-    """Unified endpoint: audio → transcription → context retrieval → response"""
+    """Unified endpoint: audio + language → transcription → context retrieval → response"""
     try:
+        # Step 0: Fetch assistant configuration
+        assistant = supabase.table("assistants").select("*").eq("assistant_id", assistant_id).execute()
+        if not assistant.data:
+            raise HTTPException(status_code=404, detail="Assistant not found")
+        
+        assistant_config = assistant.data[0]
+        system_prompt = assistant_config.get("system_prompt", "")
+        first_message = assistant_config.get("first_message", "")
+        
         # Step 1: Save uploaded audio temporarily
-        temp_audio_path = f"temp_{uuid.uuid4()}.m4a"
+        temp_audio_path = f"temp_{uuid.uuid4()}.wav"
         with open(temp_audio_path, "wb") as f:
             f.write(await audio_file.read())
 
-        # Step 2: Transcribe with Groq Whisper
+        # Step 2: Transcribe with Whisper (using provided language)
         client = Groq(api_key=os.getenv("GROQ_API_KEY"))
         with open(temp_audio_path, "rb") as file:
             transcription = client.audio.transcriptions.create(
                 file=(audio_file.filename, file.read()),
                 model="whisper-large-v3-turbo",
+                language=language,
                 response_format="verbose_json",
             )
         user_query = transcription.text
 
-        os.remove(temp_audio_path)  # Clean up temp file
+        os.remove(temp_audio_path)
 
         # Step 3: Vector retrieval
         assistant_vector_db_path = f"assistant_{assistant_id}"
@@ -390,13 +407,32 @@ async def voice_chat_with_agent(
         docs = retriever.invoke(user_query)
         context = "\n\n".join([doc.page_content for doc in docs]) if docs else ""
 
-        # Step 4: Generate response with LLM chain
-        response = chain.invoke({
-            "context": context,
-            "question": user_query
-        })
-
-        bot_response = str(response.content)
+        # Step 4: Generate response with strong Hindi enforcement
+        hindi_system_prompt = f"""
+        {system_prompt}
+        
+        Important Instructions:
+        1. You must respond in Hindi language only.
+        2. Use simple Hindi words that are easy to understand.
+        3. If you don't know a Hindi word, explain the concept in simple Hindi.
+        4. Never respond in English.
+        
+        Context:
+        {context}
+        """
+        
+        prompt = create_assistant_prompt(
+            system_prompt=hindi_system_prompt,
+            first_message=first_message,
+            context=context
+        )
+        messages = prompt.format(user_input=user_query)
+        
+        bot_response = generate_response(
+            messages,
+            model="llama3-8b-8192",
+            language=language
+        )
 
         # Step 5: Store in Supabase
         supabase.table("chat_history").insert({
@@ -416,12 +452,10 @@ async def voice_chat_with_agent(
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error in voice chat: {str(e)}")
 
-# Sentiment Analysis
 @app.get("/sentiment/{assistant_id}/{session_id}")
 async def get_sentiment(assistant_id: str, session_id: str):
-    """Get sentiment analysis for session using your existing function"""
+    """Get sentiment analysis for session"""
     try:
-        # Get chat history from Supabase
         res = supabase.table("chat_history") \
                   .select("user_query, bot_response") \
                   .eq("assistant_id", assistant_id) \
@@ -432,13 +466,11 @@ async def get_sentiment(assistant_id: str, session_id: str):
         if not res.data:
             return {"sentiment": "No chat history available"}
         
-        # Format data for your function
         session_data = [{
             "user": chat["user_query"],
             "bot": chat["bot_response"]
         } for chat in res.data]
 
-        # Call your function
         _, sentiment = analyze_session_sentiment(session_id, session_data)
         
         return {
@@ -451,20 +483,6 @@ async def get_sentiment(assistant_id: str, session_id: str):
     except Exception as e:
         raise HTTPException(500, f"Error in sentiment analysis: {str(e)}")
 
-
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
-
-# If needed Auto Reload
-# if __name__ == "__main__":
-#     import uvicorn
-#     uvicorn.run(
-#         "api_server:app",
-#         host="0.0.0.0",
-#         port=8000,
-#         reload=True,  # Enable auto-reload
-#         reload_dirs=["."],  # Watch current directory for changes
-#         reload_includes=["*.py"],  # Watch all Python files
-#         reload_excludes=["*.csv", "*.pdf"]  # Exclude data files
-#     )
