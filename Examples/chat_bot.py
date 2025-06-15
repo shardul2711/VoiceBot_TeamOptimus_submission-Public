@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import scrolledtext
 import requests
-import json
 import pyttsx3
 import re
 
@@ -48,19 +47,14 @@ def send_message(event=None):
         res = requests.post(API_URL, json={"user_query": query})
         if res.status_code == 200:
             data = res.json()
-            response_str = data.get("response", "")
-            match = re.search(r'content="(.*?)"\s+additional_kwargs=', response_str)
-            
-            if match:
-                bot_reply = match.group(1).replace('\\n', '\n')
-            else:
-                bot_reply = "⚠️ Unable to extract content."
+            bot_reply = data.get("response", "⚠️ No response")
         else:
             bot_reply = f"⚠️ Error: {res.text}"
     except Exception as e:
         bot_reply = f"⚠️ Network error: {str(e)}"
 
     append_message("Bot", bot_reply)
+    speak(bot_reply)
 
 # Send on button click
 send_button = tk.Button(root, text="Send", command=send_message, font=("Arial", 12))
