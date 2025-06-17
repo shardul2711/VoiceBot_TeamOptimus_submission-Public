@@ -1,0 +1,864 @@
+{
+  "questions": [
+    {
+      "question": "How does LenDenClub improve users’ lives?",
+      "answer": "Connects individual borrowers and lenders via a safe digital platform, offering quick short-term credit for emergencies and attractive passive returns (~10–12% p.a.) for lenders while bypassing informal high-cost lenders. Borrowers see approvals within minutes to hours and lenders benefit from automated diversification and real-time tracking."
+    },
+    {
+      "question": "What impact do customers report?",
+      "answer": "Users praise ‘polished support staff’ who guide them through the process, and many claim returns of 20%+ via manual lending."
+    },
+    {
+      "question": "How to register (borrower or lender)?",
+      "answer": "Download the app (Android/iOS). Sign up using mobile number, complete KYC (PAN, Aadhaar), link bank account. Borrowers need to be aged 21–55, salaried/currently employed with clean credit and minimum net salary. Lenders must be adult Indian citizens or NRIs with NRO, valid KYC and Indian bank account."
+    },
+    {
+      "question": "How to borrow via the app?",
+      "answer": "Apply for a loan (personal/merchant/medical) once registered. AI-powered KYC and credit check run instantly. Approval typically within minutes to 18 hours, with disbursal done in 2–4 business days. EMIs auto-debited, no prepayment penalty after 3 months."
+    },
+    {
+      "question": "How to lend via the app?",
+      "answer": "Two modes:\n• Manual P2P Lending: select borrowers & terms (1–36 months), minimum ₹250 per borrower.\n• Automated FMPP: fixed-tenure plans (1–5 years), minimum ₹10k, hyper-diversified (100+ borrowers), targeted 10–12% returns. Returns and principal credited T+1 post repayment."
+    },
+    {
+      "question": "What fees and interest rates apply?",
+      "answer": "Borrower interest depends on credit profile (~18–28% p.a.); lenders with FMPP can earn around 10–12% p.a. Returns are variable and not guaranteed, unlike bank FDs."
+    },
+    {
+      "question": "What are the risks?",
+      "answer": "Defaults (NPA ~2–6%) persist; FMPP uses hyper-diversification to minimise impact. Money is locked in for plan duration; no guarantee like bank deposit insurance."
+    },
+    {
+      "question": "What customer support is offered?",
+      "answer": "24/7 in-app and email support (cs@lendenclub.com / support@lendenclub.com). Users request better dashboards and borrower-tracking features."
+    },
+    {
+      "question": "How secure and compliant is the platform?",
+      "answer": "RBI-registered NBFC-P2P; uses ICICI Trust escrow accounts and encrypted transactions. Recently held AI hackathons to improve credit models."
+    },
+    {
+      "question": "What upcoming enhancements are users requesting?",
+      "answer": "Better borrower performance tracking (loan age, EMI schedule), dashboard improvements, and performance analytics. Minor bug fixes and portfolio improvements rolled out May–June 2025."
+    },
+    {
+      "question": "Where should I go to lodge a complaint or grievance?",
+      "answer": "In the app, go to Menu → Help & Support → 'Raise a Ticket' or email cs@lendenclub.com. You can also submit complaints via their Grievance Redressal Mechanism page."
+    },
+    {
+      "question": "Is my lending safe?",
+      "answer": "Yes. All funds are held in SEBI-registered escrow accounts managed by ICICI Trusteeship. The platform also warns users during onboarding & before investment that lending carries inherent credit risk under RBI regulations. :contentReference[oaicite:1]{index=1}"
+    },
+    {
+      "question": "How can I withdraw from my FMPP?",
+      "answer": "In the Helpdesk, select 'How do I withdraw my FMPP?'—the process varies by plan: if mature, request a withdrawal, if still active, early exit may not be allowed."
+    },
+    {
+      "question": "Where can I view my previous returns / FMPP track record?",
+      "answer": "Search the Helpdesk for 'previous track record of returns in FMPP'—articles there show historical XIRR figures and past performance. :contentReference[oaicite:2]{index=2}"
+    },
+    {
+      "question": "What is facilitation fee & how much is it?",
+      "answer": "Visit Fees & Charges section: facilitation fee is a small percentage on transactions—typically 1–3%, clearly displayed before confirming the loan or investment."
+    },
+    {
+      "question": "Where is recovery fee explained?",
+      "answer": "Search under Fees & Charges in Helpdesk—recovery fee applies when third-party collections are involved, fee percentage is disclosed in advance."
+    },
+    {
+      "question": "After how many days is a borrower considered default?",
+      "answer": "Go to Recovery → 'After how many days is borrower considered default?'—default is usually declared after 90 days of non-payment. :contentReference[oaicite:3]{index=3}"
+    },
+    {
+      "question": "How much will I get back if borrower repays after 90 days?",
+      "answer": "Check Recovery section: it explains the refund formula—usually principal + late interest, minus recovery costs. Exact amounts vary by case. :contentReference[oaicite:4]{index=4}"
+    },
+    {
+      "question": "What recovery precautions does LenDenClub take?",
+      "answer": "In Recovery FAQs they outline: auto-debit reminders, certified agents, legal notices post-90 days, and collaboration with external recovery agencies. :contentReference[oaicite:5]{index=5}"
+    },
+    {
+      "question": "Can I cancel an investment after starting?",
+      "answer": "Yes—under Terms of Service: lenders can cancel a lending request within 24 hours by writing to cs@lendenclub.com. :contentReference[oaicite:6]{index=6}"
+    },
+    {
+      "question": "Where do I see net-worth certificate requirements?",
+      "answer": "Search 'Net-Worth Certificate' in Helpdesk under General Queries—you’ll find minimum net-worth thresholds and format instructions."
+    },
+    {
+      "question": "What is lumpsum lending and how is it different?",
+      "answer": "Search 'Lumpsum Lending'—it lets you invest a lump-sum across multiple borrowers at once. FAQs explain benefits over Manual Lending. :contentReference[oaicite:7]{index=7}"
+    },
+    {
+      "question": "What preferences can I configure for Manual Lending?",
+      "answer": "Under Manual Lending FAQs, you can sort borrowers by credit rating, loan purpose, tenure, city, interest rate, and amount requirements. :contentReference[oaicite:8]{index=8}"
+    },
+    {
+      "question": "What happens if borrower misses EMI?",
+      "answer": "Recovery section covers: EMI reminders go out, auto-debit attempt fails, account enters 'delinquency', then recovery can start post 90 days. :contentReference[oaicite:9]{index=9}"
+    },
+    {
+      "question": "Where can I find my account statements or income report?",
+      "answer": "Go to Portfolio → Reports: you can download your Account Statement, Income Report, and Manual Lending Reports from the dashboard."
+    },
+    {
+      "question": "How do I add/change nominee?",
+      "answer": "In Portfolio under Reports, there's a section called 'Add Nominee'—enter nominee details and submit; confirmation is displayed upon success."
+    },
+    {
+      "question": "Why do I get multiple warnings during onboarding?",
+      "answer": "LenDenClub has added explicit warnings per RBI guidelines, especially after 2024 inspection: disclaimers about credit risk, regulatory disclosures. :contentReference[oaicite:10]{index=10}"
+    },
+    {
+      "question": "Where do I check Fees & Charges summary?",
+      "answer": "In Helpdesk section called Fees & Charges—articles cover facilitation fee, recovery fee, prepayment charges if any, and GST/other charges disclosure."
+    },
+    {
+      "question": "How do I update KYC / documents if expired?",
+      "answer": "Go to app Menu → Profile → KYC & Documents → select document to update (Aadhaar/PAN/salary proof), upload fresh copy and submit for verification."
+    },
+    {
+      "question": "Who do I contact for non-repayment issues?",
+      "answer": "First approach support via Help & Support; if unresolved >15 days, escalate to grievance redressal at cs@lendenclub.com or through the web grievance form. :contentReference[oaicite:11]{index=11}"
+    },
+    {
+      "question": "What should I do if app crashes or shows errors?",
+      "answer": "Clear app cache, update to latest version, and if issue persists, capture screenshot and submit via Help & Support → 'App Issue' ticket."
+    },
+    {
+      "question": "How do I see my EMI schedule?",
+      "answer": "Under Dashboard or Portfolio → select your loan → EMI schedule tab lists due dates, amounts, and repayment status."
+    },
+    {
+      "question": "What is LenDenClub?",
+      "answer": "An Indian peer‑to‑peer (P2P) lending platform (NBFC‑P2P), launched in 2015, connecting individual lenders and borrowers in India."
+    },
+    {
+      "question": "Who owns it?",
+      "answer": "Operated by Innofin Solutions Private Limited."
+    },
+    {
+      "question": "Who are its founders?",
+      "answer": "Bhavin Patel (Co‑Founder & CEO) and Dipesh Karki (Co‑Founder & CTO)."
+    },
+    {
+      "question": "What services does it offer?",
+      "answer": "Short‑term, medium‑term, long‑term P2P lending for personal, business, medical loans; Fixed‑Maturity P2P Plan (FMPP)."
+    },
+    {
+      "question": "How many users and lenders?",
+      "answer": "Trusted by over 2 crore users; over 500k app installs; approximately 20 lakh+ investors. Lending over ₹16,000 Cr so far."
+    },
+    {
+      "question": "Regulatory status?",
+      "answer": "RBI‑registered NBFC‑P2P company."
+    },
+    {
+      "question": "Funding history?",
+      "answer": "Seed funding in 2016 led by Venture Catalysts; $1.5 M Pre‑Series A in 2018; $10 M Series A in Dec 2021 at $51 M valuation."
+    },
+    {
+      "question": "Financial metrics?",
+      "answer": "AUM ~₹940 Cr as of Feb 29 2024; total disbursals ~₹13,794 Cr as of Mar 2024; delivers ~11–12% annual returns via FMPP."
+    },
+    {
+      "question": "Technology & team size?",
+      "answer": "Uses PowerBI, Python, Java, Postgres, Data Lake, cloud; around 250–500 employees."
+    },
+    {
+      "question": "Awards & recognition?",
+      "answer": "RBI licence NBFC‑P2P (2018); Deloitte Tech Fast 50 winner; Fintech of the Year 2025; cost‑security award at AppDevSec 2025."
+    },
+    {
+      "question": "Recent updates?",
+      "answer": "App improvements, bug fixes (June 3 2025); brand ambassador Hardik Pandya (2023); launched startup incubator/protocol initiatives."
+    },
+    {
+      "question": "Challenges?",
+      "answer": "February 2024 RBI fine ₹1.99 Cr for guideline violations; app reviews cite occasional recovery and UX issues."
+    },
+    {
+      "question": "What levels of returns and default rates are observed?",
+      "answer": "Lenders earn ~10–12% p.a. (e.g., July 2022–2023), with recent default rates ~2.45%, having peaked ~4.45%."
+    },
+    {
+      "question": "What’s the escrow & settlement mechanism?",
+      "answer": "All transactions run through a SEBI‑registered escrow (ICICI Trusteeship, ICICI Bank). Borrower repayments are settled to lenders within T+1 days per RBI rules."
+    },
+    {
+      "question": "What new features does LenDenClub offer?",
+      "answer": "• Manual Lending: lenders select borrowers & terms directly from 1–36 months, min ₹500 exposure.\n• Fixed Maturity P2P Plan (FMPP): automated bundles with fixed tenure & targeted returns."
+    },
+    {
+      "question": "Who are main borrower & lender demographics?",
+      "answer": "Borrowers often seek working capital, medical loans, salary advances, home renovation; ~40% earn ₹10k–20k/month, avg loan ~₹75k. Top lender cities: Mumbai, Bengaluru, Vadodara, Pune."
+    },
+    {
+      "question": "When did they automate lending process?",
+      "answer": "In July 2016, launched end‑to‑end automated system—KYC, verification, matching, reporting—slashing process time from ~2 days to ~12 hours."
+    },
+    {
+      "question": "What’s their regulatory compliance record?",
+      "answer": "RBI NBFC‑P2P licensed; early compliant with escrow, settlement, transparency and risk disclaimers; received ₹1.99 Cr fine in Feb 2024 for mis‑routing payments."
+    },
+    {
+      "question": "How profitable and scalable are they?",
+      "answer": "First P2P platform in India to achieve profitability (FY21 & FY22); in 2022 processed ~₹340 Cr transactions; ~5 M app downloads; ~200 employees."
+    },
+    {
+      "question": "How do they manage ESOPs?",
+      "answer": "First Indian P2P platform enabling ESOP liquidity—~30% of ~200 employees held ESOPs; ~85% of eligible employees participated in liquidation in June 2023."
+    },
+    {
+      "question": "What risks or downsides exist?",
+      "answer": "High credit/default risk inherent to unsecured P2P (reddit users report defaults, need for diversification). Manual lending and FMPP improve risk control. Transparency limited: borrower credit rating details aren’t visible."
+    },
+    {
+      "question": "What is InstaMoney (LenDenClub app)?",
+      "answer": "InstaMoney is LenDenClub’s flagship mobile app for P2P lending and borrowing, offering quick digital loans and investment opportunities in one place."
+    },
+    {
+      "question": "How do I download the app?",
+      "answer": "Available on Google Play (Android) and App Store (iOS); search ‘LenDenClub’ or ‘InstaMoney’ and install it."
+    },
+    {
+      "question": "How do I sign up as a new user?",
+      "answer": "Open the app → tap ‘Sign up’ → enter mobile number → receive OTP → verify OTP to proceed."
+    },
+    {
+      "question": "What KYC documents are required?",
+      "answer": "Aadhaar card and PAN card; also salary slips or bank statements for borrowers."
+    },
+    {
+      "question": "How long does verification take?",
+      "answer": "KYC is instant; full borrower approval (including income checks) takes minutes to a few hours :contentReference[oaicite:1]{index=1}."
+    },
+    {
+      "question": "Where can I find loan eligibility requirements?",
+      "answer": "Eligibility criteria include age 21–55, monthly income ≥ ₹12,000, clean credit history, salaried status, Pan + Aadhaar KYC, verified bank account :contentReference[oaicite:2]{index=2}."
+    },
+    {
+      "question": "How do I apply for a loan?",
+      "answer": "After KYC, select ‘Borrow’ → choose loan amount (₹5k–₹150k) and tenure (3–24 months) → submit documents → wait for approval."
+    },
+    {
+      "question": "How fast is loan disbursement?",
+      "answer": "Upon approval, disbursal typically happens within 2–4 business days :contentReference[oaicite:3]{index=3}."
+    },
+    {
+      "question": "Can I prepay the loan?",
+      "answer": "Yes, after 3 months you can prepay without penalty :contentReference[oaicite:4]{index=4}."
+    },
+    {
+      "question": "How are EMIs collected?",
+      "answer": "EMIs are auto-debited via bank mandate (UPI/NEFT/ACH) as per EMI schedule."
+    },
+    {
+      "question": "How to register as a lender?",
+      "answer": "Sign up similarly → verify KYC → link bank account → enable auto-debit mandate → start lending."
+    },
+    {
+      "question": "How can lenders invest?",
+      "answer": "Two modes: Manual Lending (choose borrowers/terms, min ₹250) or Automated FMPP (₹10k+, portfolio across 100+ loans targeting 10–12% p.a.) :contentReference[oaicite:5]{index=5}."
+    },
+    {
+      "question": "Where do I view my dashboard?",
+      "answer": "Tap ‘Dashboard’ on the home screen to see active loans, EMIs due, repayments, investments and returns."
+    },
+    {
+      "question": "How do I track repayments?",
+      "answer": "Dashboard shows upcoming EMIs, repayment history and analytics; lenders see credit-funded list and returns."
+    },
+    {
+      "question": "How secure are the funds?",
+      "answer": "Funds are held in SEBI-registered escrow accounts managed by ICICI Trusteeship; repayments settled T+1 days after EMI :contentReference[oaicite:6]{index=6}."
+    },
+    {
+      "question": "What if I forget my password?",
+      "answer": "Use ‘Forgot Password’ on sign-in screen → receive OTP → reset your password."
+    },
+    {
+      "question": "How do I get support?",
+      "answer": "Tap ‘Help & Support’ in app or email loan@lendenclub.com or cs@lendenclub.com; 24/7 support available."
+    },
+    {
+      "question": "Where can I view FAQs?",
+      "answer": "Open the menu and navigate to ‘FAQs’ or ‘Help Center’ to find detailed answers."
+    },
+    {
+      "question": "How to refer friends?",
+      "answer": "Tap ‘More’ → select ‘Refer & Earn’, share referral code/links via social or messaging apps :contentReference[oaicite:7]{index=7}."
+    },
+    {
+      "question": "How do I sign in next time?",
+      "answer": "Open the app → tap ‘Sign in’ → enter your mobile number → receive OTP or use passcode if enabled."
+    },
+    {
+      "question": "Can I set a passcode or biometric login?",
+      "answer": "Yes, once signed in, go to Settings → enable PIN/biometric login for quicker access."
+    },
+    {
+      "question": "Where can I check loan status?",
+      "answer": "Under Dashboard → ‘My Loans’, tap each loan to see status, EMI schedule, due dates."
+    },
+    {
+      "question": "How do I update KYC details?",
+      "answer": "Go to Profile → ‘KYC & Documents’ → update Aadhaar/PAN or income proofs; re-verify as needed."
+    },
+    {
+      "question": "Can I invest via Google Pay?",
+      "answer": "Yes, select ‘Lend via GPay’ to redirect and complete lending through Google Pay interface."
+    },
+    {
+      "question": "What is LenDenClub?",
+      "answer": "LenDenClub is India's largest peer-to-peer (P2P) lending platform, connecting lenders seeking alternative investment options with creditworthy borrowers needing short-term personal loans. It is operated by Innofin Solutions Pvt Ltd and is registered as a Non-Banking Financial Company-P2P (NBFC-P2P) with the Reserve Bank of India (RBI)."
+    },
+    {
+      "question": "Who are the founders of LenDenClub?",
+      "answer": "LenDenClub was founded by Bhavin Patel and Dipesh Karki in 2015."
+    },
+    {
+      "question": "When was LenDenClub founded?",
+      "answer": "LenDenClub was founded in 2015."
+    },
+    {
+      "question": "Where is LenDenClub headquartered?",
+      "answer": "LenDenClub is headquartered in Mumbai, Maharashtra."
+    },
+    {
+      "question": "What is the business model of LenDenClub?",
+      "answer": "LenDenClub acts as a facilitator between individual or institutional lenders and borrowers, enabling direct lending and borrowing without traditional financial institutions as intermediaries. The platform offers higher returns to lenders and convenient access to credit for borrowers."
+    },
+    {
+      "question": "Is LenDenClub regulated?",
+      "answer": "Yes, LenDenClub is regulated by the Reserve Bank of India as an NBFC-P2P, ensuring compliance with all relevant guidelines for safety and transparency."
+    },
+    {
+      "question": "How does LenDenClub ensure borrower creditworthiness?",
+      "answer": "LenDenClub verifies borrowers through strict processes, including KYC, income checks, credit bureau reports, and digital profiling. The platform checks over 600 data points before approving a loan request."
+    },
+    {
+      "question": "What measures does LenDenClub take to recover dues?",
+      "answer": "LenDenClub uses auto-debit mandates, digital reminders, an in-house team of certified collection agents, and partnerships with third-party recovery agencies to recover pending dues, all in accordance with RBI guidelines."
+    },
+    {
+      "question": "What are the risks for lenders on LenDenClub?",
+      "answer": "Lenders face credit default risk, as with any lending activity. LenDenClub recommends diversifying funds across multiple borrowers to mitigate risk."
+    },
+    {
+      "question": "How many users does LenDenClub have?",
+      "answer": "LenDenClub is trusted by over 2 crore (20 million) users."
+    },
+    {
+      "question": "How many employees does LenDenClub have?",
+      "answer": "LenDenClub employs between 201 and 500 people."
+    },
+    {
+      "question": "What is the typical return for investors on LenDenClub?",
+      "answer": "Investors can expect returns in the range of 10%–12% by lending through the platform."
+    },
+    {
+      "question": "Has LenDenClub received any funding?",
+      "answer": "Yes, LenDenClub has raised funding in multiple rounds, including a $10 million Series A round in December 2021, valuing the company at $51 million."
+    },
+    {
+      "question": "What are some notable achievements or milestones of LenDenClub?",
+      "answer": "Key milestones include: being selected for the Microsoft for Startups program (2021), founders featured in BW Disrupt 40 Under 40 list, launching the Fixed-Maturity P2P Plan (FMPP) in 2022, starting LenDenClub Alpha for startup mentorship, and appointing Hardik Pandya as brand ambassador in 2023."
+    },
+    {
+      "question": "What is LenDenClub Alpha?",
+      "answer": "LenDenClub Alpha is a corporate venture launched in 2022 to provide mentorship and support to early-stage startups during their seed and pre-Series stages."
+    },
+    {
+      "question": "Has LenDenClub faced any regulatory issues?",
+      "answer": "Yes, in February 2024, the RBI fined LenDenClub Rs 1.99 crores for violating P2P lending and digital lending norms after a statutory inspection found non-compliance with NBFC-P2P guidelines."
+    },
+    {
+      "question": "Which companies has LenDenClub collaborated with?",
+      "answer": "LenDenClub has collaborated with fintech companies such as BharatPe, PhonePe, and Google Pay. It also partnered with Samir Kochhar for a brand campaign."
+    },
+    {
+      "question": "What is the investment limit for P2P lending on LenDenClub?",
+      "answer": "In December 2019, the RBI increased the lending limit on P2P platforms to Rs 50 lakh, up from the previous limit of Rs 10 lakh."
+    },
+    {
+      "question": "What is the mission of LenDenClub?",
+      "answer": "LenDenClub aims to bridge the gap between lenders seeking alternative financing and creditworthy borrowers, creating an ecosystem where both can achieve their financial goals. The company is committed to developing innovative lending products to help lenders earn better interest."
+    },
+    {
+      "question": "How does LenDenClub help lenders diversify their portfolio?",
+      "answer": "LenDenClub enables lenders to invest in multiple borrowers through a capital matching algorithm, reducing individual risk and improving portfolio performance."
+    },
+    {
+      "question": "Is P2P lending profitable in 2025 for LenDenClub?",
+      "answer": "Yes, P2P lending remains profitable for LenDenClub in 2025. The platform has demonstrated strong growth and operational efficiency, with a low non-performing asset (NPA) rate of 3.95% and continues to disburse close to ₹100 crore in loans per month[1]."
+    },
+    {
+      "question": "What are the benefits of P2P lending for borrowers on LenDenClub?",
+      "answer": "Borrowers benefit from easy access to credit, especially those with poor credit history or lack of collateral. Loan applications are processed quickly, often with funds disbursed within hours. LenDenClub serves individuals and SMEs who may not qualify for traditional bank loans[1]."
+    },
+    {
+      "question": "What are the benefits for lenders on LenDenClub?",
+      "answer": "Lenders enjoy higher yields compared to traditional fixed-income investments. The platform offers transparency through blockchain-based systems, ensuring immutable transaction records and security through an escrow mechanism[1][2][4]."
+    },
+    {
+      "question": "How does LenDenClub ensure the security of funds?",
+      "answer": "LenDenClub uses an escrow mechanism managed by ICICI Trusteeship Services Ltd. There are separate bank accounts for lenders and borrowers, and all funds are returned to the respective parties within T+1 days, ensuring transparency and security[2][4]."
+    },
+    {
+      "question": "What are the challenges faced by LenDenClub in 2025?",
+      "answer": "Challenges include the risk of borrower default, increased cybersecurity threats due to digital growth, and stricter regulatory scrutiny leading to higher compliance costs[1]."
+    },
+    {
+      "question": "What is the borrower profile on LenDenClub?",
+      "answer": "As of April 2025, most borrowers are between 25-34 years old (54%), with 38% from the southern region. About 90% of borrowers are male and 10% female. The majority (83%) are existing customers, and most loans are valued between ₹10,000–₹1 lakh[4]."
+    },
+    {
+      "question": "What is the typical loan tenure on LenDenClub?",
+      "answer": "The vast majority of loans (97%) have a tenure of 6 months, with only 3% having a different term[4]."
+    },
+    {
+      "question": "How has LenDenClub used AI to improve its services?",
+      "answer": "LenDenClub’s proprietary AI chatbot, LenDenGenie, now handles 35% of customer queries, improving efficiency and user experience[3]."
+    },
+    {
+      "question": "What is the InstaMoney platform?",
+      "answer": "InstaMoney is LenDenClub’s flagship app, offering instant loans across all 19,100 pin codes in India. It targets borrowers underserved by banks and NBFCs, providing a fully digital experience for loans used for medical emergencies, debt consolidation, education, and advance salary, among other needs[7]."
+    },
+    {
+      "question": "What is the average loan size on LenDenClub?",
+      "answer": "The average ticket size for loans on LenDenClub’s InstaMoney platform ranges between ₹5,000 and ₹10,000[7]."
+    },
+    {
+      "question": "What is LenDenClub Alpha?",
+      "answer": "LenDenClub Alpha is a venture fund launched to back fintech startups in seed and pre-Series A stages. It aims to support 20–25 startups with up to $2–3 million in funding, offering mentorship, technological support, and help with customer acquisition and product innovation[8]."
+    },
+    {
+      "question": "How does LenDenClub support startup growth?",
+      "answer": "Through LenDenClub Alpha, the company provides capital, mentorship, technological upgrades, and assistance with customer acquisition and product development to early-stage startups[8]."
+    },
+    {
+      "question": "What is the growth trajectory of LenDenClub?",
+      "answer": "LenDenClub has shown rapid growth, with loan disbursals reaching pre-Covid levels and plans for pan-India expansion. The platform aims to triple disbursals and has already doubled its user base in recent quarters[7]."
+    },
+    {
+      "question": "What is the NPA rate on LenDenClub?",
+      "answer": "LenDenClub maintains one of the lowest non-performing asset (NPA) rates among P2P lending platforms, at just 3.95%[1]."
+    },
+    {
+      "question": "How many borrowers and lenders are on LenDenClub?",
+      "answer": "LenDenClub has onboarded more than 15 lakh borrowers and 4.5 lakh lenders as of recent data[1]."
+    },
+    {
+      "question": "What is the escrow mechanism used by LenDenClub?",
+      "answer": "LenDenClub’s escrow mechanism is managed by ICICI Trusteeship Services Ltd. All funds are held in separate accounts for lenders and borrowers, ensuring that the platform does not control user funds and that transactions are transparent and secure[2][4]."
+    },
+    {
+      "question": "What is the typical interest rate for borrowers on LenDenClub?",
+      "answer": "Interest rates for borrowers on LenDenClub’s InstaMoney platform range from 0% (no-cost EMI) up to a maximum of 3%[7]."
+    },
+    {
+      "question": "What is the investment focus of LenDenClub Alpha?",
+      "answer": "LenDenClub Alpha focuses on fintech startups in seed and pre-Series A stages, providing both funding and strategic support to accelerate their growth[8]."
+    },
+    {
+      "question": "What is the gender breakdown of borrowers on LenDenClub?",
+      "answer": "About 90% of borrowers are male and 10% are female[4]."
+    },
+    {
+      "question": "How does LenDenClub handle regulatory compliance?",
+      "answer": "LenDenClub adheres to RBI guidelines for NBFC-P2P platforms, implements strict KYC and risk assessment processes, and regularly updates its systems to meet evolving regulatory requirements[1][2]."
+    },
+    {
+      "question": "Where should I go to lodge a complaint or grievance?",
+      "answer": "Go to the app Menu → Help & Support → 'Raise a Ticket', or email cs@lendenclub.com. You can also use the Grievance Redressal Mechanism on their website."
+    },
+    {
+      "question": "Is my lending safe?",
+      "answer": "Yes—funds are held in SEBI‑registered escrow accounts managed by ICICI Trusteeship. The platform includes prominent RBI‑mandated risk disclosures during onboarding. :contentReference[oaicite:0]{index=0}"
+    },
+    {
+      "question": "When is a borrower considered in default?",
+      "answer": "A borrower is classified as ‘default’ after 90 days of missed EMI payments, as per RBI and platform policy. :contentReference[oaicite:1]{index=1}"
+    },
+    {
+      "question": "How much will I get back if borrower pays after 90 days?",
+      "answer": "The refund is calculated as principal + overdue interest, minus recovery costs. Exact amounts vary by case and are detailed in the Recovery FAQs. :contentReference[oaicite:2]{index=2}"
+    },
+    {
+      "question": "What recovery actions does LenDenClub take?",
+      "answer": "The platform issues reminders, uses certified collection agents, sends legal notices post‑90 days, and engages third‑party recovery firms. :contentReference[oaicite:3]{index=3}"
+    },
+    {
+      "question": "Can I withdraw from my FMPP before maturity?",
+      "answer": "Mature plans can be withdrawn via the FMPP section. Early withdrawals are not permitted or allowed based on plan conditions."
+    },
+    {
+      "question": "Where can I view my FMPP historical returns?",
+      "answer": "Check the Help & Support → 'What is the previous track record of returns in FMPP?' article for historical XIRR data. :contentReference[oaicite:4]{index=4}"
+    },
+    {
+      "question": "What is the facilitation fee and how much is it?",
+      "answer": "The facilitation fee (1–3%) is charged on transaction amount; it is clearly displayed before loan or investment confirmation in the Fees & Charges section."
+    },
+    {
+      "question": "What is the recovery fee?",
+      "answer": "The recovery fee for third‑party recovery actions is disclosed in the Fees & Charges section before initiating recovery procedures."
+    },
+    {
+      "question": "Can I cancel an investment after fully initiating it?",
+      "answer": "Yes—but only within 24 hours of the request. After that window, it’s irreversible as per Terms of Service."
+    },
+    {
+      "question": "What is lumpsum lending?",
+      "answer": "Lumpsum Lending allows you to invest in multiple loans at once instead of manual selection. It gives the same diversification benefit with lower effort. :contentReference[oaicite:5]{index=5}"
+    },
+    {
+      "question": "What borrower selection preferences can I configure?",
+      "answer": "Under Manual Lending, you can filter borrowers by credit rating, loan purpose, tenure, city, interest rate, and amount. :contentReference[oaicite:6]{index=6}"
+    },
+    {
+      "question": "What happens if a borrower misses an EMI?",
+      "answer": "The EMI reminder sends, auto‑debit fails, then the account becomes delinquent. If outstanding goes 90+ days, recovery actions begin. :contentReference[oaicite:7]{index=7}"
+    },
+    {
+      "question": "Where can I download my account statement?",
+      "answer": "In the Portfolio → Transaction History section, tap 'Export as PDF'. Monthly statements are also emailed automatically."
+    },
+    {
+      "question": "How do I add or update a nominee?",
+      "answer": "Go to Portfolio → Reports –> 'Add Nominee'. Enter nominee details and save—they’re activated instantly."
+    },
+    {
+      "question": "Why do I see multiple warnings during onboarding?",
+      "answer": "These are RBI‑mandated risk disclosures (e.g. credit risk, no deposit insurance) introduced after the 2024 inspection. :contentReference[oaicite:8]{index=8}"
+    },
+    {
+      "question": "Where do I view the Fees & Charges summary?",
+      "answer": "In the Help & Support section, select 'Fees & Charges'—it details facilitation, recovery, prepayment charges, and GST."
+    },
+    {
+      "question": "How do I update expired KYC documents?",
+      "answer": "Go to Menu → Profile → KYC & Documents → select the expired doc, upload new file and submit for re‑verification."
+    },
+    {
+      "question": "Who do I contact for non‑repayment problems?",
+      "answer": "First raise a ticket via 'Help & Support'; if unresolved in 15 days, escalate via grievance redressal at cs@lendenclub.com or their web form. :contentReference[oaicite:9]{index=9}"
+    },
+    {
+      "question": "What do I do if the app crashes or shows errors?",
+      "answer": "Clear the app cache or update to the latest version. If the problem continues, capture a screenshot and raise an 'App Issue' ticket."
+    },
+    {
+      "question": "Where can I see my EMI schedule?",
+      "answer": "Go to Portfolio → select the loan → EMI Schedule tab lists due dates, amounts, and payment status."
+    },
+    {
+      "question": "How long do withdrawals take?",
+      "answer": "Withdrawals are processed within 2 working days and credited to your registered bank account. :contentReference[oaicite:10]{index=10}"
+    },
+    {
+      "question": "First time investment के बारे में guide करें",
+      "answer": "आप platform पर sign up करके KYC complete करें। फिर ‘Explore Loans’ से छोटे loan (₹1000+) select करें। Daily returns evening तक दिखेंगे।"
+    },
+    {
+      "question": "क्या मैं monthly repayments वाले loan choose कर सकता हूँ?",
+      "answer": "जी हाँ! Loan filter में 'Repayment Frequency' पर क्लिक कर monthly चुनें। Monthly loans में interest rate थोड़ा कम होता है।"
+    },
+    {
+      "question": "Platform पर total कितना invest किया जा सकता है?",
+      "answer": "Maximum investment limit ₹50 लाख है। New investors के लिए ₹5–10 लाख तक recommend करते हैं।"
+    },
+    {
+      "question": "App में withdrawal section कहाँ है?",
+      "answer": "Home screen के right side पर wallet icon → ‘Withdrawals’। यहाँ daily expected payments 6:30 PM से दिखते हैं। आप ‘More’ → ‘Withdraw’ पर क्लिक कर withdrawal request place कर सकते हैं। :contentReference[oaicite:0]{index=0}"
+    },
+    {
+      "question": "किसी loan के default होने पर क्या होगा?",
+      "answer": "हमारी recovery team 15 दिनों में contact करती है। 90 दिनों के बाद borrower default माना जाता है, और recovery actions initiate होते हैं (reminders → certified agents → legal notice)। 30 दिनों में 90% cases में payment recover हो जाता है। :contentReference[oaicite:1]{index=1}"
+    },
+    {
+      "question": "Personal loans में default rate कितना है?",
+      "answer": "Personal loans का default rate लगभग 4% है, पर higher interest (22–24%) से portfolio का average return 14–17% रहता है।"
+    },
+    {
+      "question": "Quarterly payments कैसे काम करते हैं?",
+      "answer": "हर 3 महीने के अंत में आपको principal + interest का payment मिलेगा। App में calendar icon से payment dates check कर सकते हैं।"
+    },
+    {
+      "question": "क्या loan select करते समय credit score देख सकते हैं?",
+      "answer": "जी हाँ! Loan details में 'Borrower Profile' section में CIBIL score (अगर available हो) दिखाया जाता है।"
+    },
+    {
+      "question": "Merchant loan क्या होता है?",
+      "answer": "छोटे दुकानदारों को ₹50,000 तक का business loan दिया जाता है। सुरक्षा के लिए उनका GST/cash flow verify किया जाता है।"
+    },
+    {
+      "question": "Payment delay होने पर कौन contact करे?",
+      "answer": "हमारे relationship manager विवेक को कॉल करें (9XXXX‑XXXXX) या app में 'Support Ticket' खोलें।"
+    },
+    {
+      "question": "क्या weekend में customer support मिलता है?",
+      "answer": "हाँ, शनिवार‑रविवार सुबह 10 बजे से शाम 6 बजे तक। App में 'Help Center' से live chat भी available है।"
+    },
+    {
+      "question": "Portfolio diversification क्यों ज़रूरी है?",
+      "answer": "100 loans में ₹1 लाख बाँटने से अगर 3‑4 default भी हो जाएँ, तो बाकी 96 loans के returns से loss cover हो जाता है।"
+    },
+    {
+      "question": "क्या investment के बाद loan change कर सकते हैं?",
+      "answer": "नहीं, एक बार invest करने के बाद loan नहीं बदल सकते। पर आप नए loans में अतिरिक्त invest कर सकते हैं।"
+    },
+    {
+      "question": "Statement कहाँ से डाउनलोड करें?",
+      "answer": "App के ‘Portfolio’ section → ‘Transaction History’ → ‘Export as PDF’। Monthly statements automatically आपके registered email पर भेज दिए जाते हैं।"
+    },
+    {
+      "question": "ब्याज़ का calculation कैसे होता है?",
+      "answer": "Daily interest = (Loan amount × Interest rate)/365। जैसे ₹1000 loan पर 24% सालाना = ≈₹0.65 रोज़ाना।"
+    },
+    {
+      "question": "क्या early loan closure पर penalty है?",
+      "answer": "नहीं, borrowers बिना penalty के कभी भी loan बंद कर सकते हैं। उन्हे outstanding principal + accrued interest वापस मिलेगा।"
+    },
+    {
+      "question": "Green flag borrower क्या होता है?",
+      "answer": "वे borrower जिन्होंने पहले 2+ loans समय पर चुकाए हों। इनका default chance 1% से भी कम होता है।"
+    },
+    {
+      "question": "क्या NPA होने पर tax benefit मिलता है?",
+      "answer": "जी हाँ, NPA losses को other investment gains के ख़िलाफ़ tax deduction में claim किया जा सकता है।"
+    },
+    {
+      "question": "App में repayment schedule कैसे देखें?",
+      "answer": "App खोले → 'Invested Loans' section → relevant loan select करें → 'Repayment Schedule' देखें। यहाँ हर EMI की expected date और amount दिखेगी।"
+    },
+    {
+      "question": "Referral program है क्या?",
+      "answer": "हाँ! दोस्तों को refer करने पर आपको उनके first investment का 0.5% bonus मिलता है। यह 'Invite Friends' section में मिलेगा।"
+    },
+    {
+      "question": "क्या loan tenure change कर सकते हैं?",
+      "answer": "नहीं, tenure fix होती है। लेकिन आप बाजार में उपलब्ध अलग-अलग tenures (3/6/12 माह) के loans में invest कर सकते हैं।"
+    },
+    {
+      "question": "KYC फिर से कब कराना पड़ता है?",
+      "answer": "हर 24 महीनों में KYC को update करना ज़रूरी है। App notification आने पर Profile → 'Re‑KYC' से कर सकते हैं।"
+    },
+    {
+      "question": "Payment failed दिख रहा है, क्या करूँ?",
+      "answer": "सबसे पहले bank app में sufficient balance चेक करें। फिर LenDenClub app → 'Transaction' section → failed transaction → 'Retry Payment' पर क्लिक करें।"
+    },
+    {
+      "question": "क्या joint account में invest कर सकते हैं?",
+      "answer": "हाँ! Profile → 'Bank Accounts' → joint account add करें। यह account कम से कम 2 signatories के साथ होना चाहिए।"
+    },
+    {
+      "question": "Loan listing कब update होती है?",
+      "answer": "नए loans सुबह 10 बजे सामने आते हैं। कुछ high‑demand loans 5–10 मिनट में पूरी तरह भर जाते हैं।"
+    },
+    {
+      "question": "क्या returns पर TDS कटता है?",
+      "answer": "हाँ, RBI guidelines के अनुसार 5% TDS कटता है। PAN linked account होने पर आप Form 26AS पर claim कर सकते हैं।"
+    },
+    {
+      "question": "Relationship manager कैसे assign होता है?",
+      "answer": "₹2 लाख+ invest करने पर dedicated manager automatically assign हो जाता है, या आप ‘Support Ticket’ में request भी कर सकते हैं।"
+    },
+    {
+      "question": "क्या SIP की तरह auto‑invest कर सकते हैं?",
+      "answer": "जी हाँ! 'Auto‑Invest' feature में जाकर monthly amount, risk profile और preferred loan types select करें।"
+    },
+    {
+      "question": "Late payment पर क्या charges लगते हैं?",
+      "answer": "Borrowers पर 2% monthly penalty लगती है, जिसका 50% investors को मिलता है।"
+    },
+    {
+      "question": "क्या loan details verify कर सकते हैं?",
+      "answer": "हर loan के साथ borrower की Aadhaar, PAN, bank‑statement verify होने का green tick दिखता है।"
+    },
+    {
+      "question": "What is an NBFC-P2P?",
+      "answer": "A Non-Banking Financial Company - Peer to Peer Lending Platform (NBFC-P2P) is a non-banking institution that carries on the business of a Peer to Peer Lending Platform, acting as an intermediary providing online marketplace services to connect lenders and borrowers."
+    },
+    {
+      "question": "What are the registration requirements for an NBFC-P2P?",
+      "answer": "To register as an NBFC-P2P, a company must have a net owned fund of at least ₹2 crore, be incorporated in India, have necessary technological and managerial resources, and submit a viable business plan along with other requirements specified by RBI."
+    },
+    {
+      "question": "What are the key restrictions for NBFC-P2P platforms?",
+      "answer": "NBFC-P2Ps cannot: 1) Raise deposits, 2) Lend on their own, 3) Provide credit enhancement or guarantees, 4) Permit secured lending, 5) Hold lender/borrower funds on their balance sheet, 6) Cross-sell products except loan-specific insurance, or 7) Permit international fund flows."
+    },
+    {
+      "question": "What are the exposure limits for lenders and borrowers?",
+      "answer": "1) Aggregate lender exposure across all P2P platforms is capped at ₹50 lakh (with ₹10+ lakh requiring net-worth certification). 2) Aggregate borrower exposure is capped at ₹10 lakh across all P2Ps. 3) Single lender exposure to one borrower cannot exceed ₹50,000."
+    },
+    {
+      "question": "How are funds transferred between participants?",
+      "answer": "Funds move through escrow accounts operated by bank-promoted trustees: 1) Lenders' funds go to Lenders' Escrow Account then to specific borrowers. 2) Borrower repayments go to Borrowers' Escrow Account then to specific lenders. Funds cannot remain in escrow for more than T+1 day."
+    },
+    {
+      "question": "What transparency requirements apply to NBFC-P2Ps?",
+      "answer": "Platforms must disclose to lenders: borrower details (with consent), loan terms, likely returns, fees; to borrowers: lender amount/rate offers; and publicly: credit assessment methodology, data usage policies, grievance redressal, portfolio performance including NPAs, and business model."
+    },
+    {
+      "question": "What risk disclosures must be made to lenders?",
+      "answer": "Platforms must obtain explicit lender declarations acknowledging: 1) Understanding of all risks, 2) No assurance of principal/interest return, 3) Possibility of total principal loss in default, 4) Platform doesn't guarantee recovery, and 5) P2P lending isn't an investment product with assured returns."
+    },
+    {
+      "question": "How does RBI ensure fair practices in recovery?",
+      "answer": "NBFC-P2Ps must: 1) Train staff to avoid harassment (no odd-hour calls/coercion), 2) Maintain participant confidentiality, 3) Periodically review Fair Practices Code compliance, and 4) Display caveats that RBI doesn't guarantee repayments."
+    },
+    {
+      "question": "What are the IT and data security requirements?",
+      "answer": "Platforms must: 1) Store/process all data on India-located hardware, 2) Conduct biennial IS audits by CISA-certified auditors, 3) Have Board-approved Business Continuity Plans, and 4) Ensure loan agreements remain enforceable if platform ceases operations."
+    },
+    {
+      "question": "What changes did RBI introduce in August 2024?",
+      "answer": "Key modifications include: 1) Stricter escrow rules (T+1 fund clearance), 2) Ban on credit enhancement practices, 3) No cross-selling except loan insurance, 4) Enhanced lender disclosures, 5) Clear platform identity display, and 6) Transparent fee structures."
+    },
+    {
+      "question": "How does LenDenClub ensure borrower creditworthiness?",
+      "answer": "They: 1) Reject 95% of applicants, 2) Evaluate 600+ data points across 3 levels (system access, credit bureau, digital bank statements), 3) Use AI/ML for fraud checks, and 4) Focus on small, short-tenure loans (average ₹79k for 9 months merchant loans)."
+    },
+    {
+      "question": "What risk mitigation measures does LenDenClub employ?",
+      "answer": "1) Hyper-diversification (₹1 lakh spread across thousands of borrowers), 2) Product diversification (retail/merchant loans), 3) Stringent credit assessment, and 4) Avoiding secondary sales/ALM mismatches by not offering liquid/short-term plans."
+    },
+    {
+      "question": "How does Auto Lending work?",
+      "answer": "Lenders set criteria and sign an auto-debit mandate. EMIs received are directly deposited into lender accounts, then automatically redeployed per set criteria. LenDenClub reports average 11.23% XIRR on 12-month tenures."
+    },
+    {
+      "question": "What is LenDenClub's historical performance?",
+      "answer": "As of Aug 2024: 1) Weighted average interest received: ~11.25%, 2) NPA rate: ~0.81%, 3) ₹14,594cr+ total disbursements, 4) Current AUM: ₹900cr, 5) 22 lakh investors, 80 lakh borrowers through 4,000+ channel partners."
+    },
+    {
+      "question": "How to select a reliable P2P platform?",
+      "answer": "Check: 1) RBI registration (NBFC-P2P), 2) Promoter/management credentials, 3) Profitability and funding, 4) Years in operation (pre/post-regulation experience), 5) Volume handling capacity, 6) Product performance history, and 7) Compliance with RBI guidelines like no secondary sales."
+    },
+    {
+      "question": "What are the key differences between P2P and Mutual Funds?",
+      "answer": "1) Regulator: RBI vs SEBI, 2) Structure: Platform vs AMC, 3) Fund Use: Borrowers vs Companies, 4) Income Source: Fees only for both, 5) Risk: Credit risk (P2P) vs Market risk (MFs), 6) Diversification: Hyper-diversification in P2P vs sectoral in MFs."
+    },
+    {
+      "question": "Where can I find LenDenClub's regulatory disclosures?",
+      "answer": "On their website/platform under: 1) 'About Us' showing RBI registration (Innofin Solutions Pvt Ltd), 2) Fair Practices Code, 3) Grievance Redressal details, and 4) Portfolio performance reports including NPA disclosures."
+    },
+    {
+      "question": "What is LenDenClub's grievance redressal process?",
+      "answer": "1) Complaints must be resolved within 1 month, 2) Platforms must display GRO contact details, 3) Unresolved complaints can be escalated to RBI's Customer Education Department, and 4) Covered under RBI's Integrated Ombudsman Scheme 2021."
+    },
+    {
+      "question": "How does RBI supervise NBFC-P2Ps?",
+      "answer": "Through: 1) Regular inspections (started June 2023), 2) Quarterly reporting (loan disbursals/outstandings, escrow balances, complaints, leverage ratio), 3) Off-site monitoring, and 4) Power to cancel registration for non-compliance."
+    },
+    {
+      "question": "What are the director eligibility requirements?",
+      "answer": "Directors must: 1) Meet 'fit and proper' criteria (verified via declarations/background checks), 2) Have relevant banking/NBFC experience, 3) Execute Deed of Covenants, and 4) Be vetted by Nomination Committees. At least one director must have banking/NBFC experience."
+    },
+    {
+      "question": "What is the maximum loan tenure allowed on P2P platforms?",
+      "answer": "As per RBI guidelines, the maturity of loans facilitated through P2P platforms shall not exceed 36 months. This applies across all P2P lending platforms in India."
+    },
+    {
+      "question": "How does LenDenClub handle borrower defaults?",
+      "answer": "LenDenClub follows a structured recovery process: 1) Initial reminders via calls/SMS, 2) After 30 days, intensified follow-ups, 3) Post 90 days, classified as NPA with legal notices sent, 4) Engagement with certified recovery agencies, while maintaining strict compliance with RBI's fair practices code for recovery."
+    },
+    {
+      "question": "What are the key components of RBI's Fair Practices Code for P2P lending?",
+      "answer": "The code requires: 1) Clear risk disclosures to lenders, 2) Prohibition of harassment in recoveries, 3) Maintenance of participant confidentiality, 4) Board-approved grievance redressal mechanisms, 5) Periodic code compliance reviews, and 6) Prominent display of platform's NBFC-P2P registration status."
+    },
+    {
+      "question": "How does LenDenClub's credit assessment process work?",
+      "answer": "LenDenClub uses a 3-level assessment: Level 1 - Digital footprint analysis (SMS/email parsing, geo-location, social media); Level 2 - Credit bureau checks (not just scores but full report analysis); Level 3 - Bank statement analysis (income verification, spending patterns). This rejects 95% of applicants automatically."
+    },
+    {
+      "question": "What are the reporting requirements for NBFC-P2Ps to RBI?",
+      "answer": "Quarterly reporting includes: 1) Loan disbursals/closures/outstandings, 2) Lender/borrower counts, 3) Escrow account balances, 4) Complaint statistics, 5) Leverage ratio details. Additionally, annual IS audit reports and dividend declarations must be submitted."
+    },
+    {
+      "question": "How does LenDenClub ensure diversification for lenders?",
+      "answer": "The platform automatically spreads each ₹1 lakh investment across 1,000+ borrowers (average ₹100/borrower). This hyper-diversification across products (personal/merchant loans), geographies, and tenures (3-36 months) mitigates concentration risk as per RBI's exposure limits."
+    },
+    {
+      "question": "What are the corporate governance requirements for NBFC-P2Ps?",
+      "answer": "RBI mandates: 1) Board with at least one banking/NBFC-experienced director, 2) Risk Management Committee, 3) Fit-and-proper criteria for directors, 4) Deeds of Covenant for directors, 5) No outsourcing of core functions like internal audit/strategy, and 6) Annual director certifications."
+    },
+    {
+      "question": "How does LenDenClub's Auto Lending feature comply with RBI's T+1 rule?",
+      "answer": "The Auto Lending system processes repayments through escrow within T+1 by: 1) Directly crediting EMIs to lender accounts, 2) Using auto-debit mandates for immediate reinvestment, 3) Maintaining separate lender/borrower escrow accounts as per RBI's Annex-I specifications, ensuring no fund parking."
+    },
+    {
+      "question": "What are the restrictions on dividend payouts for NBFC-P2Ps?",
+      "answer": "RBI guidelines specify: 1) Maximum 50% payout ratio for compliant NBFC-P2Ps, 2) 10% cap if leverage ratio was breached in past 3 years, 3) No ceiling for platforms not accepting public funds, 4) Prior compliance with Section 45IC of RBI Act required, and 5) Board must consider audit qualifications/growth plans."
+    },
+    {
+      "question": "How does LenDenClub's merchant loan product differ from personal loans?",
+      "answer": "Merchant loans (average ₹79k for 9 months) feature: 1) Business cash flow analysis, 2) Higher diversification (B2B), 3) Shorter tenure than RBI's 36-month cap, while personal loans (average ₹11k for 3 months) focus on: 1) Salary analysis, 2) Retail borrower profiles, 3) Ultra-short tenures."
+    },
+    {
+      "question": "What are RBI's requirements for outsourcing by NBFC-P2Ps?",
+      "answer": "Key rules: 1) No outsourcing of core functions (audit/strategy), 2) Board-approved outsourcing policy, 3) Due diligence on service providers, 4) Contractual safeguards for data/confidentiality, 5) Right to audit service providers, 6) Business continuity plans, and 7) No outsourcing to director-related entities."
+    },
+    {
+      "question": "How does LenDenClub's platform identity disclosure comply with RBI norms?",
+      "answer": "The platform: 1) Displays its registered name (Innofin Solutions Pvt Ltd) and NBFC-P2P license number, 2) Shows RBI disclaimer on all interfaces, 3) Maintains consistent branding as per RBI's 2024 guidelines, and 4) Avoids ambiguous representations about being a bank/deposit-taker."
+    },
+    {
+      "question": "What are the technology requirements for P2P platforms?",
+      "answer": "RBI mandates: 1) Scalable IT infrastructure, 2) Data localization (India-based hardware), 3) Protection against unauthorized access, 4) Biennial IS audits by CISA auditors, 5) Adoption of ReBIT technical standards for account aggregation, and 6) Compliance with IT Governance Master Directions."
+    },
+    {
+      "question": "How does LenDenClub's FMPP product work within RBI guidelines?",
+      "answer": "The Fixed Monthly Payment Plan: 1) Doesn't guarantee returns (disclaims credit risk), 2) Maintains lender control (no secondary market), 3) Uses hyper-diversification (95% loans <₹100), 4) Provides monthly payout visibility, and 5) Has maintained 10%+ historical XIRR without principal loss, as disclosed per RBI transparency norms."
+    },
+    {
+      "question": "What are RBI's rules for foreign investment in NBFC-P2Ps?",
+      "answer": "1) No fresh investment from FATF non-compliant jurisdictions, 2) Existing investors can continue but can't exceed 20% voting power, 3) Prior RBI approval needed for >26% ownership changes, 4) Declaration required that investors aren't associated with banned deposit-taking entities."
+    },
+    {
+      "question": "How does LenDenClub ensure compliance with RBI's 'no credit enhancement' rule?",
+      "answer": "The platform: 1) Removed all return-boosting practices (like 120/115 schemes), 2) Added explicit risk warnings during onboarding, 3) Shows actual historical returns (not projections), 4) Doesn't offer liquidity options that imply guarantees, and 5) Maintains clear segregation between platform fees and lender returns."
+    },
+    {
+      "question": "What are the business continuity requirements for P2P platforms?",
+      "answer": "RBI requires: 1) Board-approved continuity plans, 2) Safeguards for loan servicing during disruptions, 3) Third-party arrangements for contract administration if platform ceases operations, 4) Regular testing of recovery procedures, and 5) Hardware/software redundancy measures."
+    },
+    {
+      "question": "How does LenDenClub's channel partner model operate?",
+      "answer": "The platform works with 4,000+ mutual fund distributors as partners who: 1) Source lenders/borrowers, 2) Operate under strict KYC/AML guidelines, 3) Earn commissions (not interest spreads), and 4) Use dedicated CP dashboards that comply with RBI's 'no closed user group' rule for matching."
+    },
+    {
+      "question": "What are the KYC requirements for P2P participants?",
+      "answer": "Platforms must: 1) Perform full KYC for lenders/borrowers, 2) Obtain explicit consent for credit information access, 3) Re-KYC for expired documents, 4) Maintain records per PMLA rules, and 5) Ensure FATF compliance for cross-border transactions (though international flows are prohibited)."
+    },
+    {
+      "question": "How does LenDenClub's recovery fee structure work?",
+      "answer": "As disclosed in their Fees & Charges: 1) Only applied when third-party agencies are engaged (post 90-day default), 2) Percentage-based on recovered amount, 3) Fully transparent in loan agreements, and 4) Deducted from recovered amounts before remittance to lenders, as permitted under RBI's fair practices code."
+    },
+    {
+      "question": "What are RBI's guidelines on P2P platform pricing models?",
+      "answer": "Platforms must: 1) Charge only fixed fees (not performance-based), 2) Disclose all fees upfront, 3) Not link fees to loan repayment performance, 4) Get Board approval for pricing policies, and 5) Ensure fees are reasonable relative to services provided."
+    },
+    {
+      "question": "How does LenDenClub's data security framework comply with RBI norms?",
+      "answer": "The platform: 1) Stores all data on Indian servers, 2) Uses bank-grade encryption, 3) Limits data access to 'need-to-know' basis, 4) Conducts biannual penetration testing, 5) Maintains SOC2 compliance, and 6) Has incident response protocols for breaches as per RBI's IT directions."
+    },
+    {
+      "question": "What are the consequences of non-compliance for NBFC-P2Ps?",
+      "answer": "RBI may: 1) Impose business restrictions, 2) Levy monetary penalties, 3) Cancel registration, 4) Order winding down of operations, 5) Bar directors from financial sector, and 6) Make findings public - as witnessed during 2023-24 supervisory actions against non-compliant platforms."
+    },
+    {
+      "question": "How does LenDenClub assist lenders with tax documentation?",
+      "answer": "The platform provides: 1) Automated interest income statements (Form 16A equivalent), 2) Portfolio-wise tax reports, 3) Principal/interest breakup for each loan, and 4) NPA classification details - all generated from their RBI-compliant accounting systems."
+    },
+    {
+      "question": "What are RBI's rules regarding P2P platform advertisements?",
+      "answer": "Advertisements must: 1) Clearly state NBFC-P2P registration, 2) Not compare returns with bank deposits, 3) Disclose risks prominently, 4) Avoid guaranteed return language, and 5) Include the standard RBI disclaimer about non-responsibility for repayments."
+    },
+    {
+      "question": "How does LenDenClub's leadership structure meet RBI's fit-and-proper norms?",
+      "answer": "With co-founders Bhavin Patel (ex-NBFC consultant) and Dipesh Karki (award-winning technologist), plus 15+ senior hires with 20 years average experience, the team exceeds RBI's requirement for at least one banking/NBFC-experienced director and demonstrates strong governance capabilities."
+    }
+  ]
+}

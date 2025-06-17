@@ -1,10 +1,15 @@
 # vector.py
 import os
+import json
 import pandas as pd
 from langchain_ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
 from langchain_core.documents import Document
-from langchain_community.document_loaders import PyPDFLoader, UnstructuredCSVLoader, Docx2txtLoader
+from langchain_community.document_loaders import (
+    PyPDFLoader,
+    UnstructuredCSVLoader,
+    Docx2txtLoader
+)
 
 embeddings = OllamaEmbeddings(model="llama3.2")
 
@@ -21,6 +26,17 @@ def load_documents(doc_dir):
         elif file.endswith(".docx"):
             loader = Docx2txtLoader(file_path)
             documents.extend(loader.load())
+        elif file.endswith(".json"):
+            with open(file_path, "r", encoding="utf-8") as f:
+                try:
+                    data = json.load(f)
+                    if isinstance(data, dict):  # Single dict
+                        documents.append(Document(page_content=json.dumps(data, indent=2)))
+                    elif isinstance(data, list):  # List of dicts
+                        for item in data:
+                            documents.append(Document(page_content=json.dumps(item, indent=2)))
+                except Exception as e:
+                    print(f"Error reading JSON file {file_path}: {e}")
     return documents
 
 def initialize_vector_db_for_session(session_id):

@@ -1,4 +1,3 @@
-import os
 import pandas as pd
 from dotenv import load_dotenv
 from modules.vector import initialize_vector_db_for_session
@@ -10,6 +9,13 @@ load_dotenv()
 
 # Load Ollama model
 model = OllamaLLM(model="llama3.2")
+
+# Define assistant ID and vector DB path
+ASSISTANT_ID = "bb3b4994-08eb-4df7-9594-50321854e70a"
+VECTOR_DB_PATH = f"assistant_{ASSISTANT_ID}"
+
+# Initialize retriever using the updated vector DB structure
+retriever = initialize_vector_db_for_session(VECTOR_DB_PATH)
 
 # Initialize your prompt
 prompt_template = """
@@ -60,15 +66,13 @@ User Query:
 prompt = ChatPromptTemplate.from_template(prompt_template)
 chain = prompt | model
 
-# Load session context
-SESSION_ID = "session_1"
-retriever = initialize_vector_db_for_session(SESSION_ID)
-
 # Load the test CSV
-df = pd.read_csv("Tests/test1.csv")
+df = pd.read_csv("Tests/test.csv")
 responses = []
 
 print("📥 Processing test.csv questions...")
+
+# Iterate and generate responses
 for idx, row in df.iterrows():
     question = row['Questions']
     docs = retriever.invoke(question)
@@ -82,6 +86,7 @@ for idx, row in df.iterrows():
     responses.append(str(response))
 
 # Save to output
+output_file = "Tests/test_with_responses.csv"
 df['Responses'] = responses
-df.to_csv("test1_with_responses.csv", index=False)
-print("✅ Responses saved to test_with_responses.csv")
+df.to_csv(output_file, index=False)
+print(f"✅ Responses saved to {output_file}")
