@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "question": "What is InstaMoney (LenDenClub app)?",
+      "answer": "InstaMoney is LenDenClub’s flagship mobile app for P2P lending and borrowing, offering quick digital loans and investment opportunities in one place."
+    },
+    {
+      "question": "How do I download the app?",
+      "answer": "Available on Google Play (Android) and App Store (iOS); search ‘LenDenClub’ or ‘InstaMoney’ and install it."
+    },
+    {
+      "question": "How do I sign up as a new user?",
+      "answer": "Open the app → tap ‘Sign up’ → enter mobile number → receive OTP → verify OTP to proceed."
+    },
+    {
+      "question": "What KYC documents are required?",
+      "answer": "Aadhaar card and PAN card; also salary slips or bank statements for borrowers."
+    },
+    {
+      "question": "How long does verification take?",
+      "answer": "KYC is instant; full borrower approval (including income checks) takes minutes to a few hours :contentReference[oaicite:1]{index=1}."
+    },
+    {
+      "question": "Where can I find loan eligibility requirements?",
+      "answer": "Eligibility criteria include age 21–55, monthly income ≥ ₹12,000, clean credit history, salaried status, Pan + Aadhaar KYC, verified bank account :contentReference[oaicite:2]{index=2}."
+    },
+    {
+      "question": "How do I apply for a loan?",
+      "answer": "After KYC, select ‘Borrow’ → choose loan amount (₹5k–₹150k) and tenure (3–24 months) → submit documents → wait for approval."
+    },
+    {
+      "question": "How fast is loan disbursement?",
+      "answer": "Upon approval, disbursal typically happens within 2–4 business days :contentReference[oaicite:3]{index=3}."
+    },
+    {
+      "question": "Can I prepay the loan?",
+      "answer": "Yes, after 3 months you can prepay without penalty :contentReference[oaicite:4]{index=4}."
+    },
+    {
+      "question": "How are EMIs collected?",
+      "answer": "EMIs are auto-debited via bank mandate (UPI/NEFT/ACH) as per EMI schedule."
+    },
+    {
+      "question": "How to register as a lender?",
+      "answer": "Sign up similarly → verify KYC → link bank account → enable auto-debit mandate → start lending."
+    },
+    {
+      "question": "How can lenders invest?",
+      "answer": "Two modes: Manual Lending (choose borrowers/terms, min ₹250) or Automated FMPP (₹10k+, portfolio across 100+ loans targeting 10–12% p.a.) :contentReference[oaicite:5]{index=5}."
+    },
+    {
+      "question": "Where do I view my dashboard?",
+      "answer": "Tap ‘Dashboard’ on the home screen to see active loans, EMIs due, repayments, investments and returns."
+    },
+    {
+      "question": "How do I track repayments?",
+      "answer": "Dashboard shows upcoming EMIs, repayment history and analytics; lenders see credit-funded list and returns."
+    },
+    {
+      "question": "How secure are the funds?",
+      "answer": "Funds are held in SEBI-registered escrow accounts managed by ICICI Trusteeship; repayments settled T+1 days after EMI :contentReference[oaicite:6]{index=6}."
+    },
+    {
+      "question": "What if I forget my password?",
+      "answer": "Use ‘Forgot Password’ on sign-in screen → receive OTP → reset your password."
+    },
+    {
+      "question": "How do I get support?",
+      "answer": "Tap ‘Help & Support’ in app or email loan@lendenclub.com or cs@lendenclub.com; 24/7 support available."
+    },
+    {
+      "question": "Where can I view FAQs?",
+      "answer": "Open the menu and navigate to ‘FAQs’ or ‘Help Center’ to find detailed answers."
+    },
+    {
+      "question": "How to refer friends?",
+      "answer": "Tap ‘More’ → select ‘Refer & Earn’, share referral code/links via social or messaging apps :contentReference[oaicite:7]{index=7}."
+    },
+    {
+      "question": "How do I sign in next time?",
+      "answer": "Open the app → tap ‘Sign in’ → enter your mobile number → receive OTP or use passcode if enabled."
+    },
+    {
+      "question": "Can I set a passcode or biometric login?",
+      "answer": "Yes, once signed in, go to Settings → enable PIN/biometric login for quicker access."
+    },
+    {
+      "question": "Where can I check loan status?",
+      "answer": "Under Dashboard → ‘My Loans’, tap each loan to see status, EMI schedule, due dates."
+    },
+    {
+      "question": "How do I update KYC details?",
+      "answer": "Go to Profile → ‘KYC & Documents’ → update Aadhaar/PAN or income proofs; re-verify as needed."
+    },
+    {
+      "question": "Can I invest via Google Pay?",
+      "answer": "Yes, select ‘Lend via GPay’ to redirect and complete lending through Google Pay interface."
+    }
+  ]
+}

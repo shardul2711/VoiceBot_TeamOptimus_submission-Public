@@ -187,28 +187,27 @@ async def create_assistant(
         os.makedirs(docs_dir, exist_ok=True)
         os.makedirs(db_dir, exist_ok=True)
 
-        # 2. Handle multiple file uploads
         if files:
             for file in files:
                 file_ext = os.path.splitext(file.filename)[1]
-                
+
                 # Save to local docs directory
                 local_file_path = f"{docs_dir}/{file.filename}"
+                file_bytes = await file.read()
                 with open(local_file_path, "wb") as f:
-                    f.write(await file.read())
-                
+                    f.write(file_bytes)
+
                 # Upload to Supabase Storage
                 supabase_path = f"assistant-files/uploads/{assistant_id}/{file.filename}"
-                with open(local_file_path, "rb") as f:
-                    supabase.storage.from_("assistant-files").upload(
-                        path=supabase_path,
-                        file=f.read(),
-                        file_options={"content-type": file.content_type}
-                    )
+                supabase.storage.from_("assistant-files").upload(
+                    path=supabase_path,
+                    file=file_bytes,
+                    file_options={"content-type": file.content_type}
+                )
                 file_url = supabase.storage.from_("assistant-files").get_public_url(supabase_path)
                 file_urls.append(file_url)
 
-            # Initialize vector DB with all uploaded files
+            # ✅ Only now initialize vector DB
             initialize_vector_db_for_session(f"assistant_{assistant_id}")
 
         # 3. Create assistant record
@@ -225,6 +224,14 @@ async def create_assistant(
             "file_urls": file_urls,
             "created_at": created_at,
             "vector_db_path": db_dir
+        }).execute()
+
+        supabase.table("chat_history").insert({
+            "session_id": "1",
+            "assistant_id": assistant_id,
+            "user_query": first_message,
+            "bot_response": "",  # Leave empty if not generated yet
+            "created_at": created_at
         }).execute()
 
         return {
@@ -388,18 +395,28 @@ async def voice_chat_with_agent(
         with open(temp_audio_path, "wb") as f:
             f.write(await audio_file.read())
 
-        # Step 2: Transcribe with Whisper (using provided language)
-        client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-        with open(temp_audio_path, "rb") as file:
-            transcription = client.audio.transcriptions.create(
-                file=(audio_file.filename, file.read()),
-                model="whisper-large-v3-turbo",
-                language=language,
-                response_format="verbose_json",
-            )
-        user_query = transcription.text
-
-        os.remove(temp_audio_path)
+        # Step 2: Transcribe with Whisper
+        # First verify the API key exists
+        groq_api_key = "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"
+        if not groq_api_key:
+            raise HTTPException(status_code=500, detail="GROQ_API_KEY not configured")
+            
+        client = Groq(api_key=groq_api_key)
+        
+        try:
+            with open(temp_audio_path, "rb") as file:
+                transcription = client.audio.transcriptions.create(
+                    file=(audio_file.filename, file),
+                    model="whisper-large-v3",
+                    language=language,
+                    response_format="verbose_json",
+                )
+            user_query = transcription.text
+        except Exception as e:
+            raise HTTPException(status_code=401, detail=f"Transcription error: {str(e)}")
+        finally:
+            if os.path.exists(temp_audio_path):
+                os.remove(temp_audio_path)
 
         # Step 3: Vector retrieval
         assistant_vector_db_path = f"assistant_{assistant_id}"
@@ -407,22 +424,27 @@ async def voice_chat_with_agent(
         docs = retriever.invoke(user_query)
         context = "\n\n".join([doc.page_content for doc in docs]) if docs else ""
 
-        # Step 4: Generate response with strong Hindi enforcement
-        hindi_system_prompt = f"""
-        {system_prompt}
+        # Step 4: Generate response with language enforcement
+        language_prompt = ""
+        if language == "hi":
+            language_prompt = """
+            Important Instructions:
+            1. You must respond in Hindi language only.
+            2. Use simple Hindi words that are easy to understand.
+            3. If you don't know a Hindi word, explain the concept in simple Hindi.
+            4. Never respond in English.
+            """
         
-        Important Instructions:
-        1. You must respond in Hindi language only.
-        2. Use simple Hindi words that are easy to understand.
-        3. If you don't know a Hindi word, explain the concept in simple Hindi.
-        4. Never respond in English.
+        full_system_prompt = f"""
+        {system_prompt}
+        {language_prompt}
         
         Context:
         {context}
         """
         
         prompt = create_assistant_prompt(
-            system_prompt=hindi_system_prompt,
+            system_prompt=full_system_prompt,
             first_message=first_message,
             context=context
         )
@@ -449,6 +471,8 @@ async def voice_chat_with_agent(
             "session_id": session_id
         }
 
+    except HTTPException:
+        raise
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error in voice chat: {str(e)}")
 
