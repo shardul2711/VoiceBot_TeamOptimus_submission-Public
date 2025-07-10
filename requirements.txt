@@ -14,8 +14,8 @@ groq
 langchain
 langchain-core
 langchain-community
-langchain-ollama
 langchain-chroma
+langchain_groq
 
 # Document processing
 pandas
@@ -29,7 +29,6 @@ lxml
 speechrecognition
 pydub
 simpleaudio
-murf
 
 # Vector DB & Embeddings
 faiss-cpu

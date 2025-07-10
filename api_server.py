@@ -15,7 +15,7 @@ from groq import Groq
 # Load environment
 load_dotenv()
 
-app = FastAPI(title="LenDenClub VoiceBot API", version="1.0")
+app = FastAPI(title="VoiceBot API", version="1.0")
 
 # CORS configuration
 app.add_middleware(
@@ -397,7 +397,7 @@ async def voice_chat_with_agent(
 
         # Step 2: Transcribe with Whisper
         # First verify the API key exists
-        groq_api_key = "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"
+        groq_api_key = Groq(api_key=os.getenv("GROQ_API_KEY"))
         if not groq_api_key:
             raise HTTPException(status_code=500, detail="GROQ_API_KEY not configured")
             
